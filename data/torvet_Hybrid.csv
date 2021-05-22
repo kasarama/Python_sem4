@@ -1,0 +1,201 @@
+model;type;price;km;location;year;link
+Audi A3;40 TFSi e Sportback S-tr.;349900;8.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sportback-s-tr/1738274
+Audi A3;40 TFSi e Sportback S-tr.;344900;5.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sportback-s-tr/1738655
+Audi A3;40 TFSi e Sportback S-tr.;359000;3.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sportback-s-tr/1775023
+Audi A3;45 TFSi e S-line Sportback S-tr.;414900;6.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/45-tfsi-e-s-line-sportback-s-tr/1775420
+Audi A6;50 TFSi e Sport quattro S-tr.;534900;15.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1778159
+Audi Q3;45 TFSi e Attitude+ S-tr.;370900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--s-tr/1738357
+Audi Q3;45 TFSi e Attitude+ S-tr.;370900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--s-tr/1738359
+Audi Q3;45 TFSi e Attitude+ S-tr.;366900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--s-tr/1758486
+Audi Q3;45 TFSi e Attitude+ S-tr.;366900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--s-tr/1772145
+Audi A3;40 TFSi e Sportback S-tr.;344900;8.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sportback-s-tr/1774994
+Audi A6;50 TFSi e Sport Prestige quattro S-tr.;509900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-prestige-quattro-s-tr/1763770
+Audi A6;50 TFSi e Sport quattro S-tr.;507900;8.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1777096
+Audi A6;50 TFSi e Sport quattro S-tr.;506900;11.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1777097
+Audi A3;40 TFSi e Prestige Sportback S-tr.;359900;3.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1737993
+Audi A3;40 TFSi e Prestige Sportback S-tr.;362900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738015
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;392900;8.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1738027
+Audi A6;50 TFSi e Sport quattro S-tr.;504900;4.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1756497
+Audi A3;40 TFSi e Prestige Sportback S-tr.;354900;16.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1763857
+Audi A3;40 TFSi e S-line Sportback S-tr.;379900;8.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1775419
+Audi A6;50 TFSi e Sport quattro S-tr.;529900;8.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1738054
+Audi A6;50 TFSi e Sport quattro S-tr.;539900;12.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1738057
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738233
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738246
+Audi A3;40 TFSi e Prestige Sportback S-tr.;339900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738247
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738248
+Audi Q3;45 TFSi e S-line+ Sportback S-tr.;439900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--sportback-s-tr/1738358
+Audi A3;40 TFSi e S-line Sportback S-tr.;408900;14.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1738326
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738319
+Audi A3;40 TFSi e S-line Sportback S-tr.;381900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1738348
+Audi Q7;55 TFSi e S-line quattro Tiptr.;1349900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q7/55-tfsi-e-s-line-quattro-tiptr/1738328
+Audi A3;40 TFSi e Prestige Sportback S-tr.;361900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738331
+Audi A3;40 TFSi e S-line Sportback S-tr.;381900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1738332
+Audi A3;45 TFSi e S-line Sportback S-tr.;422900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/45-tfsi-e-s-line-sportback-s-tr/1738340
+Audi A3;45 TFSi e S-line Sportback S-tr.;422900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/45-tfsi-e-s-line-sportback-s-tr/1738347
+Audi A3;40 TFSi e S-line Sportback S-tr.;381900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1738349
+Audi A3;40 TFSi e Prestige Sportback S-tr.;361900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1739643
+Audi A3;45 TFSi e S-line Sportback S-tr.;438900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/45-tfsi-e-s-line-sportback-s-tr/1740026
+Audi A3;45 TFSi e S-line Sportback S-tr.;426900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/45-tfsi-e-s-line-sportback-s-tr/1767195
+Audi Q3;45 TFSi e S-line+ S-tr.;599900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1772386
+Audi A6;50 TFSi e Sport quattro S-tr.;549900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a6/50-tfsi-e-sport-quattro-s-tr/1754689
+Audi Q3;45 TFSi e S-line+ Sportback S-tr.;438900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--sportback-s-tr/1758196
+Audi A6;55 TFSi e Sport Prestige Avant quatro S-tr.;738900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a6/55-tfsi-e-sport-prestige-avant-quatro-s-tr/1772143
+Audi Q3;45 TFSi e S-line+ Sportback S-tr.;438900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--sportback-s-tr/1772144
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;380900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1738356
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;380900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1739607
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;380900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1739641
+Audi Q3;45 TFSi e S-line+ S-tr.;434900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1739644
+Audi Q3;45 TFSi e S-line+ S-tr.;434900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1739680
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;380900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1739681
+Audi Q3;45 TFSi e S-line+ S-tr.;434900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1740695
+Audi Q3;45 TFSi e S-line+ S-tr.;434900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1750056
+Audi Q3;45 TFSi e Attitude+ Sportback S-tr.;380900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-attitude--sportback-s-tr/1757966
+Audi A3;40 TFSi e S-line Sportback S-tr.;429900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1738097
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1738322
+Audi Q3;45 TFSi e S-line+ S-tr.;434900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/45-tfsi-e-s-line--s-tr/1750128
+Audi A3;40 TFSi e Prestige Sportback S-tr.;344900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1776368
+Audi A3;1,4 e-tron Sportback S-tr.;274900;59.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1738786
+Audi A7;50 TFSi e S-line Edition Sportback quattro S-tr.;719900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a7/50-tfsi-e-s-line-edition-sportback-quattro-s-tr/1772343
+Audi A3;1,4 e-tron Sport Sportback S-tr.;219900;42.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1735226
+Audi A3;1,4 e-tron Sport Sportback S-tr.;215900;54.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1776717
+Audi A3;1,4 e-tron Sport Sportback S-tr.;234900;43.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1776764
+Audi A3;1,4 e-tron Sportback S-tr.;264900;22.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1661409
+Audi A3;40 TFSi e Sport Sportback S-tr.;349900;17.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sport-sportback-s-tr/1734096
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;225900;33.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1730614
+Audi A3;1,4 e-tron Ambiente Sportback S-tr.;229900;47.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambiente-sportback-s-tr/1754228
+Audi A3;1,4 e-tron Sport Sportback S-tr.;269900;55.000;Ringe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1766062
+Audi A3;1,4 e-tron Ambiente Sportback S-tr.;199900;83.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambiente-sportback-s-tr/1772994
+Audi A3;1,4 e-tron Sport Sportback S-tr.;259900;19.000;Brabrand;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1640625
+Audi A3;1,4 e-tron Sportback S-tr.;219900;51.000;Ringe;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1724490
+Audi A3;1,4 e-tron S-line Sportback S-tr.;279900;27.000;København;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1639554
+Audi A3;1,4 e-tron S-line Sportback S-tr.;299900;27.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1766088
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;219900;49.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1773122
+Audi A3;1,4 e-tron Sport Sportback S-tr.;249500;34.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1733760
+Audi A3;1,4 e-tron Sportback S-tr.;224900;13.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1754046
+Audi A3;1,4 e-tron Sportback S-tr.;243900;48.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1759219
+Audi A3;1,4 e-tron Sport Sportback S-tr.;239900;23.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1767772
+Audi A3;1,4 e-tron Sportback S-tr.;249900;50.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1777902
+Audi A3;1,4 e-tron S-line Sportback S-tr.;209000;97.000;Brabrand;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1757678
+Audi A3;1,4 e-tron Sport Sportback S-tr.;279500;19.000;Vejle Øst;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1760906
+Audi A3;1,4 e-tron S-line Sportback S-tr.;269900;35.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1765914
+Audi A3;1,4 e-tron S-line Sportback S-tr.;275900;50.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1778962
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Ambition S Tronic 204HK 5d 6g Aut.;287900;60.000;Kastrup;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-ambition-s-tronic-204hk-5d-6g-aut/1767176
+Audi Q5;55 TFSi e Sport quattro S-tr.;669900;8.000;Frederikssund;2020;https://www.biltorvet.dk/bil/audi/q5/55-tfsi-e-sport-quattro-s-tr/1709690
+Audi A3;1,4 e-tron Sportback S-tr.;214900;37.000;Hjørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1737287
+Audi A3;1,4 e-tron Sport Sportback S-tr.;224800;61.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1757487
+Audi A3;1,4 e-tron Sport Sportback S-tr.;269900;21.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1760452
+Audi A3;1,4 e-tron Sportback S-tr.;229800;32.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1761887
+Audi A3;1,4 e-tron Sportback S-tr.;219900;52.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1771206
+Audi A3;Sportback 1,4 E-tron S Tronic 204HK 5d;214800;85.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-s-tronic-204hk-5d/1772119
+Audi A3;Sportback 1,4 E-tron S Tronic 204HK 5d;224800;41.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-s-tronic-204hk-5d/1772136
+Audi A3;1,4 e-tron Sport Sportback S-tr.;244800;43.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1777107
+Audi A3;1,4 e-tron Sportback S-tr.;216800;23.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1778111
+Audi A3;1,4 e-tron Sport Sportback S-tr.;245900;35.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1779018
+Audi A3;Sportback 1,4 E-tron S Tronic 204HK 5d;219800;65.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-s-tronic-204hk-5d/1772121
+Audi A3;1,4 e-tron Sport Sportback S-tr.;249900;31.000;Brabrand;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1640630
+Audi A3;1,4 e-tron Sport Sportback S-tr.;229900;96.000;Brabrand;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1640635
+Audi A3;1,4 e-tron S-line Sportback S-tr.;239900;48.000;Brabrand;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1640636
+Audi A3;1,4 e-tron S-line Sportback S-tr.;195000;143.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1667145
+Audi A3;1,4 e-tron Sportback S-tr.;229990;29.000;Faaborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1739907
+Audi A3;1,4 e-tron Sportback S-tr.;234990;26.000;Faaborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1739990
+Audi A3;1,4 e-tron Sport Sportback S-tr.;254900;61.000;Storvorde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1776424
+Audi A3;1,4 e-tron Sportback S-tr.;216995;25.000;Herning;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1774334
+Audi A3;1,4 e-tron S-line Sportback S-tr.;269900;52.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1776821
+Audi A3;1,4 e-tron Sport Sportback S-tr.;219900;64.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1779017
+Audi A3;1,4 e-tron Ambiente Sportback S-tr.;204800;91.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambiente-sportback-s-tr/1660917
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;204800;94.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1711482
+Audi A6;55 TFSi e Sport Avant quattro S-tr.;799900;13.000;Frederikssund;2021;https://www.biltorvet.dk/bil/audi/a6/55-tfsi-e-sport-avant-quattro-s-tr/1748109
+Audi A3;1,4 e-tron Sportback S-tr.;224000;36.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1771383
+Audi A3;1,4 e-tron Sportback S-tr.;204900;49.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1774622
+Audi A3;1,4 e-tron S-line Sportback S-tr.;277800;28.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1779544
+Audi A3;1,4 e-tron Sport Sportback S-tr.;259900;27.000;Hedensted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1646540
+Audi A3;1,4 e-tron Sportback S-tr.;249000;65.000;Aarhus;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1650842
+Audi A3;1,4 e-tron Sport Sportback S-tr.;274900;27.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1757783
+Audi A3;1,4 e-tron S-line Sportback S-tr.;284900;35.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1776527
+Audi A3;1,4 e-tron Sport Sportback S-tr.;259800;13.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1779563
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;249700;23.000;Løgumkloster;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1751214
+Audi Q7;3,0 TDi e-tron quattro Tiptr.;319000;79.000;Albertslund;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-e-tron-quattro-tiptr/1614878
+Audi A3;40 TFSi e Sportback S-tr.;319900;10.000;Esbjerg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sportback-s-tr/1769387
+Audi A3;1,4 e-tron Design Sportback aut.;269900;28.000;Odense;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-design-sportback-aut/1778560
+Audi A3;1,4 e-tron Sportback S-tr.;229900;24.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1671884
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;199800;118.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1680365
+Audi A3;1,4 e-tron Sportback S-tr.;214900;35.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1690469
+Audi A3;1,4 e-tron Ambiente Sportback S-tr.;203900;112.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambiente-sportback-s-tr/1704904
+Audi A3;1,4 e-tron Sportback S-tr.;219800;100.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1717096
+Audi A3;1,4 e-tron Sportback S-tr.;204800;94.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1753900
+Audi A3;1,4 e-tron S-line Sportback S-tr.;284900;33.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1757739
+Audi A3;1,4 e-tron Sport Sportback S-tr.;269900;30.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1757784
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;204900;112.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1757902
+Audi A3;1,4 e-tron Sportback S-tr.;299900;16.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1762671
+Audi A3;1,4 e-tron Sport Sportback S-tr.;269900;61.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1770882
+Audi A3;1,4 e-tron Sportback S-tr.;269900;24.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1771449
+Audi A3;1,4 e-tron Sportback S-tr.;204900;49.000;Åbyhøj;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1773159
+Audi A3;1,4 e-tron Sportback S-tr.;209900;41.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1773201
+Audi A3;1,4 e-tron Sport Sportback S-tr.;249000;36.000;Fårevejle;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1775654
+Audi A6;Avant 3,0 45 TDI S-Line Quattro Tiptronic 231HK Stc;674900;37.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-45-tdi-s-line-quattro-tiptronic-231hk-stc/1775888
+Audi A3;1,4 e-tron Sport Sportback S-tr.;229999;41.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1777923
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;229800;25.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1772135
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;239800;58.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1772140
+Audi A3;Sportback 1,4 E-tron Sport S Tronic 204HK 5d 6g Aut.;279900;46.000;Aarhus;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-sport-s-tronic-204hk-5d-6g-aut/1688931
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Attraction S Tronic 204HK 5d 6g Aut.;199900;104.000;Aarhus;2015;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-attraction-s-tronic-204hk-5d-6g-aut/1735123
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;329800;5.500;Skjern;2020;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1761891
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;249900;52.000;Taastrup;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1611318
+Audi A3;40 TFSi e Prestige Sportback S-tr.;329800;5.000;Horsens;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-prestige-sportback-s-tr/1641012
+Audi A3;1,4 e-tron Sport Sportback S-tr.;249800;38.000;Slagelse;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1660284
+Audi A3;1,4 e-tron S-line Sportback S-tr.;189900;150.000;Randers;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1663734
+Audi A3;1,4 e-tron Sportback S-tr.;234700;45.000;Næstved;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1668950
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;219900;158.000;Vester Skerninge;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1696254
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;149800;190.000;Grindsted;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1717966
+Audi A3;1,4 e-tron Sportback S-tr.;239900;39.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1727249
+Audi A3;1,4 e-tron Sportback S-tr.;229900;19.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1733050
+Audi A3;1,4 e-tron Sportback S-tr.;229500;45.000;Nørresundby;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1736601
+Audi A3;1,4 e-tron Sportback S-tr.;239900;52.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1737194
+Audi A3;1,4 e-tron S-line Sportback S-tr.;187000;166.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1747178
+Audi A3;1,4 e-tron Sport Sportback S-tr.;219800;91.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1747565
+Audi A3;1,4 e-tron Sportback S-tr.;299900;21.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1748366
+Audi A3;1,4 e-tron Sportback S-tr.;239700;54.000;Næstved;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1751742
+Audi A3;1,4 e-tron Sportback S-tr.;214000;57.000;Fårevejle;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1754500
+Audi A3;1,4 e-tron S-line Sportback S-tr.;274800;12.000;Horsens;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1756156
+Audi A3;40 TFSi e Sport Sportback S-tr.;319800;5.000;Sønderborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-sport-sportback-s-tr/1757628
+Audi A3;1,4 e-tron Sport Sportback S-tr.;199900;107.000;Holmegaard;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1758559
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;189900;125.000;Hedensted;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1758894
+Audi A3;1,4 e-tron Sport Sportback S-tr.;249800;54.000;Sønderborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1761065
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;197999;93.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1761068
+Audi A3;1,4 e-tron Sport Sportback S-tr.;239800;51.000;Sønderborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1761835
+Audi A3;1,4 e-tron Sportback S-tr.;259900;44.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1762672
+Audi A3;1,4 e-tron S-line Sportback S-tr.;259900;46.000;Brøndby;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1763015
+Audi A3;1,4 e-tron Sportback S-tr.;224900;31.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1764808
+Audi A3;1,4 e-tron Sport Sportback S-tr.;239900;63.000;Hørsholm;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1765134
+Audi A3;1,4 e-tron Sport Sportback S-tr.;259000;38.000;Fårevejle;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1765253
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;219800;60.000;Christiansfeld;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1768978
+Audi A3;1,4 e-tron S-line Sportback S-tr.;264900;42.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1769692
+Audi A3;1,4 e-tron S-line Sportback S-tr.;279900;33.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1771738
+Audi A3;1,4 e-tron Sportback S-tr.;219800;29.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1771859
+Audi A3;1,4 e-tron Sport Sportback S-tr.;239900;62.000;Ry;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1772098
+Audi A3;1,4 e-tron Sport Sportback S-tr.;259900;41.000;Horsens;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1772110
+Audi A3;1,4 e-tron S-line Sportback S-tr.;279900;27.000;Horsens;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1772111
+Audi A3;1,4 e-tron Sportback S-tr.;219900;36.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1772775
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;219900;77.000;Hvidovre;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1773120
+Audi A3;1,4 e-tron Sport Sportback S-tr.;209900;71.000;Ringe;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1774617
+Audi A3;1,4 e-tron S-line Sportback S-tr.;259800;45.000;Farum;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1774950
+Audi A3;1,4 e-tron Sportback S-tr.;209800;33.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1775102
+Audi A3;1,4 e-tron Sportback S-tr.;209900;63.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1776479
+Audi A3;1,4 e-tron Sportback S-tr.;209900;29.000;Odense;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1777264
+Audi A3;1,4 e-tron S-line Sportback S-tr.;269900;61.000;Odense;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1777370
+Audi A3;40 TFSi e S-line Sportback S-tr.;309880;16.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1777402
+Audi A3;1,4 e-tron S-line Sportback S-tr.;247780;57.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-s-line-sportback-s-tr/1777524
+Audi A3;1,4 e-tron Sportback S-tr.;209800;57.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1777869
+Audi A3;40 TFSi e S-line Sportback S-tr.;309880;17.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-e-s-line-sportback-s-tr/1778009
+Audi A3;1,4 e-tron Sportback S-tr.;234900;17.000;Ejstrupholm;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1778466
+Audi A3;1,4 e-tron Sportback S-tr.;219600;36.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1754479
+Audi A3;1,4 e-tron Sportback S-tr.;239900;20.000;Ringe;2201;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sportback-s-tr/1779869
+Audi A3;Sportback 1,4 E-tron Sport S Tronic 204HK 5d 6g Aut.;229900;84.000;Ølstykke;2015;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-sport-s-tronic-204hk-5d-6g-aut/1663936
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;259900;83.000;Ølstykke;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1753112
+Audi A3;Sportback 1,4 E-tron Plugin-hybrid Sport S Tronic 204HK 5d 6g Aut.;264900;45.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron--plugin-hybrid-sport-s-tronic-204hk-5d-6g-aut/1757329
+Audi A3;Sportback 1,4 E-tron Ambition S Tronic 204HK 5d 6g Aut.;215900;158.000;Vester Skerninge;2016;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-e-tron-ambition-s-tronic-204hk-5d-6g-aut/1761151
+Audi A3;1,4 e-tron Ambition Sportback S-tr.;234900;32.000;Holbæk;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-ambition-sportback-s-tr/1759900
+Audi A3;1,4 e-tron Attraction Sportback S-tr.;199999;114.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-attraction-sportback-s-tr/1713596
+Audi A3;1,4 e-tron Sport Sportback S-tr.;219999;94.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1713597
+Audi A3;1,4 e-tron Design Sportback aut.;244900;68.000;Middelfart;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-design-sportback-aut/1771486
+Audi A3;1,4 e-tron Sport Sportback S-tr.;274900;24.000;Middelfart;2018;https://www.biltorvet.dk/bil/audi/a3/1-4-e-tron-sport-sportback-s-tr/1771538
