@@ -1,0 +1,1226 @@
+model;type;price;km;location;year;link
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;584900;156.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1738260
+Audi A3;2,0 TDi 150 Ambition;169900;102.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition/1768495
+Audi A6;50 TDi Sport quattro Tiptr.;549900;36.000;Kastrup;2019;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-quattro-tiptr/1738720
+Audi A1;1,6 TDi 116 Sport Sportback;139900;95.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-116-sport-sportback/1776431
+Audi A4;45 TDi Prestige+ Avant quat Tiptr;499900;14.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a4/45-tdi-prestige--avant-quat-tiptr/1738089
+Audi A6 Allroad;50 TDi quattro Tiptr.;810900;3.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a6-allroad/50-tdi-quattro-tiptr/1738032
+Audi Q5;50 TDi Sport quattro Tiptr.;899900;10.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/q5/50-tdi-sport-quattro-tiptr/1738314
+Audi A5;40 TDi Advanced+ Sportback S-tr.;459900;30.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced--sportback-s-tr/1775509
+Audi A6 Allroad;50 TDi quattro Tiptr.;909900;12.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6-allroad/50-tdi-quattro-tiptr/1738094
+Audi SQ5;3,0 TDi 340 Plus quattro Tiptr.;699900;54.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-340-plus-quattro-tiptr/1738159
+Audi A1;1,6 TDi 90 Ambition Sportback;109900;104.000;Risskov;2012;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-90-ambition-sportback/1754099
+Audi A6 Allroad;50 TDi quattro Tiptr.;944900;11.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a6-allroad/50-tdi-quattro-tiptr/1738136
+Audi Q8;50 TDi quattro Tiptr.;1725900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q8/50-tdi-quattro-tiptr/1738354
+Audi Q2;1,6 TDi 116 Sport;234900;46.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1760300
+Audi A3;1,6 TDi 110 Attraction Cabriolet;219900;82.000;Aalborg;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-attraction-cabriolet/1762777
+Audi A4;40 TDi Prestige+ Avant S-tr.;444900;8.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1738084
+Audi A5;40 TDi Advanced+ Sportback S-tr.;484900;7.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced--sportback-s-tr/1754274
+Audi A5;40 TDi Prestige+ Sportback S-tr.;484900;5.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a5/40-tdi-prestige--sportback-s-tr/1777232
+Audi S6;3,0 TDi Avant quattro Tiptr.;1224900;37.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/s6/3-0-tdi-avant-quattro-tiptr/1738365
+Audi S6;3,0 TDi Avant quattro Tiptr.;1299900;12.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/s6/3-0-tdi-avant-quattro-tiptr/1738187
+Audi A6;50 TDi Sport Avant quattro Tiptr.;799900;18.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-avant-quattro-tiptr/1738680
+Audi A6;50 TDi Sport Avant quattro Tiptr.;679900;20.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-avant-quattro-tiptr/1755312
+Audi A3;35 TDi Prestige S-tr.;434900;11.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-s-tr/1738062
+Audi A3;35 TDi Prestige S-tr.;399900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-s-tr/1738313
+Audi Q5;40 TDi Sport quattro S-tr.;617900;11.000;Risskov;2019;https://www.biltorvet.dk/bil/audi/q5/40-tdi-sport-quattro-s-tr/1738290
+Audi A6;50 TDi Sport Avant quattro Tiptr.;639900;30.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-avant-quattro-tiptr/1738275
+Audi Q5;3,0 TDi 286 Sport quattro Tiptr.;719900;46.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-286-sport-quattro-tiptr/1752477
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;619900;118.000;Søborg;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1765854
+Audi A6;40 TDi Sport Avant S-tr.;603900;30.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1773437
+Audi A4;40 TDi Advanced+ S-tr.;434900;10.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-advanced--s-tr/1738292
+Audi A4;35 TDi Prestige+ Avant S-tr.;439900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige--avant-s-tr/1776061
+Audi SQ5;3,0 TDi 326 quattro Tiptr.;499900;110.000;Kastrup;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-quattro-tiptr/1738723
+Audi A1;1,6 TDi 116 Sport Sportback;144900;67.000;Risskov;2016;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-116-sport-sportback/1756350
+Audi A3;35 TDi Prestige Sportback S-tr.;372900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738195
+Audi A3;35 TDi Prestige Sportback S-tr.;369900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738202
+Audi A3;35 TDi Prestige Sportback S-tr.;364900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738204
+Audi A3;35 TDi Prestige S-tr.;382900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-s-tr/1738206
+Audi A3;35 TDi Prestige Sportback S-tr.;369900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738219
+Audi Q3;35 TDi Sportback S-tr.;409900;24.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q3/35-tdi-sportback-s-tr/1738254
+Audi A3;35 TDi Prestige S-tr.;384900;10.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-s-tr/1765695
+Audi S6;3,0 TDi Avant quattro Tiptr.;1397100;8.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/s6/3-0-tdi-avant-quattro-tiptr/1738042
+Audi Q3;35 TDi Prestige S-tr.;389900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-s-tr/1738242
+Audi Q3;35 TDi Prestige S-tr.;399900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-s-tr/1761955
+Audi A3;35 TDi Prestige Sportback S-tr.;369000;12.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738076
+Audi A3;35 TDi Prestige Sportback S-tr.;369000;12.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738077
+Audi A3;35 TDi Prestige Sportback S-tr.;369000;11.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738078
+Audi A4;2,0 TDi 190 Avant S-tr.;299900;93.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1738146
+Audi A4;40 TDi Prestige+ Avant S-tr.;434900;5.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1746294
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;9.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738056
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;11.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738061
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;15.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738066
+Audi A5;40 TDi Advanced Sportback S-tr.;474900;14.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738067
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;13.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738071
+Audi A5;40 TDi Prestige+ Sportback S-tr.;483900;10.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-prestige--sportback-s-tr/1738302
+Audi A4;40 TDi Advanced+ Avant S-tr.;461900;14.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-advanced--avant-s-tr/1738662
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;13.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1772355
+Audi A4;35 TDi Advanced S-tr.;399900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-advanced-s-tr/1776062
+Audi A5;40 TDi Advanced Sportback S-tr.;479900;11.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738082
+Audi A5;40 TDi Advanced Sportback S-tr.;469900;11.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-advanced-sportback-s-tr/1738147
+Audi A6;50 TDi Sport Avant quattro Tiptr.;694900;12.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-avant-quattro-tiptr/1738223
+Audi S6;3,0 TDi Avant quattro Tiptr.;1199900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/s6/3-0-tdi-avant-quattro-tiptr/1738665
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;479000;88.000;Holbæk;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1760595
+Audi A3;35 TDi Prestige S-tr.;424900;12.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-s-tr/1738063
+Audi A4;40 TDi Prestige+ Avant S-tr.;444900;14.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1738088
+Audi A6;40 TDi Sport Avant S-tr.;679900;10.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738727
+Audi Q3;2,0 TDi 184 Sport quattro;234900;78.000;Risskov;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-184-sport-quattro/1759863
+Audi A6;40 TDi Sport Avant S-tr.;549900;6.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738296
+Audi A3;30 TDi Sport Limited Sportback;279900;8.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a3/30-tdi-sport-limited-sportback/1760299
+Audi A3;35 TDi Prestige Sportback S-tr.;376900;16.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738177
+Audi A3;35 TDi Prestige Sportback S-tr.;384900;15.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738173
+Audi A6;40 TDi Sport S-tr.;499900;12.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-s-tr/1737963
+Audi A4;40 TDi Advanced+ Avant S-tr.;474900;8.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-advanced--avant-s-tr/1738184
+Audi A6;40 TDi Sport Avant S-tr.;619900;21.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738329
+Audi A4;40 TDi Prestige+ Avant S-tr.;469900;15.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1746299
+Audi Q5;35 TDi Prestige S-tr.;639900;10.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q5/35-tdi-prestige-s-tr/1771163
+Audi A4;40 TDi Prestige+ Avant S-tr.;469900;6.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1738182
+Audi A3;35 TDi Prestige Sportback S-tr.;394900;8.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-prestige-sportback-s-tr/1738215
+Audi A6;40 TDi Sport Avant S-tr.;629900;5.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1746295
+Audi A4;40 TDi Prestige+ Avant S-tr.;434900;7.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1770893
+Audi A3;35 TDi S-line Sportback S-tr.;396900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-s-line-sportback-s-tr/1757295
+Audi A3;35 TDi S-line Sportback S-tr.;414900;14.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-s-line-sportback-s-tr/1738210
+Audi A5;40 TDi Prestige+ Sportback S-tr.;494900;12.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tdi-prestige--sportback-s-tr/1738093
+Audi A6;50 TDi Sport Prestige Avant quattro Tiptr.;819000;28.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-prestige-avant-quattro-tiptr/1738134
+Audi A4;35 TDi Advanced S-tr.;399900;9.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/35-tdi-advanced-s-tr/1738179
+Audi A6;3,0 TDi 218 S-tr.;394900;51.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-tr/1738218
+Audi Q3;35 TDi Prestige Sportback S-tr.;429900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-sportback-s-tr/1765525
+Audi Q3;35 TDi Prestige Sportback S-tr.;424900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-sportback-s-tr/1765526
+Audi Q3;35 TDi Advanced Prestige S-tr.;429900;14.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-advanced-prestige-s-tr/1768498
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;849900;55.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1738160
+Audi A6;3,0 TDi 320 quattro Tiptr.;499900;93.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-quattro-tiptr/1763444
+Audi A5;40 TDi Prestige+ Sportback S-tr.;499900;16.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a5/40-tdi-prestige--sportback-s-tr/1738135
+Audi Q3;35 TDi Advanced S-tr.;402900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/35-tdi-advanced-s-tr/1763808
+Audi A6;40 TDi Sport S-tr.;519900;12.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-s-tr/1738165
+Audi A4;35 TDi Prestige+ Avant S-tr.;429900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige--avant-s-tr/1738196
+Audi A6;40 TDi Sport S-tr.;509900;16.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-s-tr/1738245
+Audi A6;40 TDi Sport Avant S-tr.;554900;19.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738161
+Audi A4;40 TDi Prestige+ Avant S-tr.;489900;8.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-prestige--avant-s-tr/1738186
+Audi A4;35 TDi Prestige+ Avant S-tr.;419900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige--avant-s-tr/1738198
+Audi A4;35 TDi Prestige+ S-tr.;409900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige--s-tr/1738212
+Audi A4;40 TDi Advanced+ Avant S-tr.;444900;8.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-advanced--avant-s-tr/1738224
+Audi A6;40 TDi Sport Avant S-tr.;559900;8.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738227
+Audi A6;40 TDi Sport Avant S-tr.;559900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1738235
+Audi A4;35 TDi Prestige+ S-tr.;404900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige--s-tr/1738237
+Audi A3;2,0 TDi 150 Sport S-tr.;249900;80.000;Risskov;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1773507
+Audi A6;40 TDi Sport Avant S-tr.;584900;12.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1775566
+Audi A6;40 TDi Sport Avant S-tr.;593900;10.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1737940
+Audi Q5;3,0 TDi 258 quattro S-tr.;474900;85.000;Aalborg;2017;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-258-quattro-s-tr/1738262
+Audi Q8;50 TDi quattro Tiptr.;1224900;26.000;Aalborg;2019;https://www.biltorvet.dk/bil/audi/q8/50-tdi-quattro-tiptr/1738229
+Audi A6;40 TDi Sport Avant S-tr.;599900;10.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1754688
+Audi Q7;50 TDi S-line quattro Tiptr.;1439000;13.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/q7/50-tdi-s-line-quattro-tiptr/1741267
+Audi A3;35 TDi S-line Sportback S-tr.;494900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tdi-s-line-sportback-s-tr/1738106
+Audi A4;35 TDi Prestige Avant S-tr.;414900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige-avant-s-tr/1738207
+Audi A4;35 TDi Prestige Avant S-tr.;414900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tdi-prestige-avant-s-tr/1738213
+Audi A6;40 TDi Sport Prestige Avant S-tr.;638900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-prestige-avant-s-tr/1738361
+Audi A3;30 TDi Sport Limited Sportback S-tr.;289900;28.000;Kokkedal;2019;https://www.biltorvet.dk/bil/audi/a3/30-tdi-sport-limited-sportback-s-tr/1738695
+Audi A3;35 TDi Sport Limited Sportback S-tr.;324900;54.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1738280
+Audi Q2;1,6 TDi 116 Sport S-tr.;239900;105.000;Kokkedal;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1764020
+Audi A4;2,0 TDi 190 Avant quattro S-tr.;329900;67.000;Risskov;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-quattro-s-tr/1763941
+Audi Q3;35 TDi S-line Sportback S-tr.;464900;11.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/q3/35-tdi-s-line-sportback-s-tr/1772356
+Audi A1;1,6 TDi 116 Sportback;154900;75.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-116-sportback/1738230
+Audi A5;2,0 TDi 190 Sportback Multitr.;289900;81.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-multitr/1738256
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;299900;102.000;Søborg;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1746194
+Audi A6 Allroad;3,0 TDi 313 quattro Tiptr.;339900;205.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-313-quattro-tiptr/1738217
+Audi A3;1,6 TDi 110 Ambiente S-tr.;184900;89.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambiente-s-tr/1738277
+Audi A6;40 TDi Sport S-tr.;509900;7.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-s-tr/1738647
+Audi A6;50 TDi Sport Prestige Avant quattro Tiptr.;674900;12.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-prestige-avant-quattro-tiptr/1763807
+Audi A6;3,0 TDi 218 Avant S-tr.;374900;95.000;Aalborg;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-avant-s-tr/1768496
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;339900;90.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1738279
+Opel Grandland X;1,5 CDTi 130 Edition+;244900;10.000;Risskov;2020;https://www.biltorvet.dk/bil/opel/grandland-x/1-5-cdti-130-edition/1738346
+Audi A3;35 TDi Sport;229800;143.000;Ringe;2018;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport/1705568
+Audi A2;1,2 TDI 3L 61HK Aut.;23995;418.000;Svenstrup;2001;https://www.biltorvet.dk/bil/audi/a2/1-2-tdi-3l-61hk-aut/1766468
+Audi A4;2,0 TDi 177;129900;221.000;Virum;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177/1588225
+Audi A4;2,0 TDi 143;74700;305.000;Holstebro;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143/1663641
+Audi Q2;1,6 TDi 116;249900;21.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116/1727135
+Audi Q3;2,0 TDi 140;129800;201.000;Møldrup;2013;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140/1590959
+Audi Q3;2,0 TDi 140;169900;140.000;Silkeborg;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140/1702375
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;629500;105.000;Vejle Øst;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1635486
+Audi A4;2,0 TDI aut. 140HK;43500;271.500;Herning;2005;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-aut--140hk/1750509
+Audi SQ7;4,0 TDi quattro Tiptr.;1099900;69.000;Risskov;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1754280
+Audi Q2;1,6 TDi 116 Sport;205900;100.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1691306
+Audi Q3;2,0 TDi 150 Sport;249900;114.000;Vrå;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport/1406942
+Audi A3;2,0 TDI Ambition 150HK 3d 6g;144800;162.000;Lemvig;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-ambition-150hk-3d-6g/1667889
+Audi SQ5;3,0 TDi 340 quattro Tiptr.;629000;52.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-340-quattro-tiptr/1772245
+Audi Q5;2,0 TDi 150 Sport;399900;79.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-150-sport/1728836
+Audi A6;3,0 TDI Multitr. 204HK Trinl. Gear;189700;153.000;Vejen;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-multitr--204hk-trinl--gear/1630646
+Audi A3;1,6 TDi 116 Sport Sportback;239000;57.000;Aars;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback/1706545
+Audi A3;2,0 TDI Ambition 150HK 3d 6g;174900;99.000;Snekkersten;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-ambition-150hk-3d-6g/1754641
+Audi A6;2,0 TDI S Tronic 204HK 7g Aut.;450000;30.000;Kongens Lyngby;2019;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-204hk-7g-aut/1697689
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;299900;226.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1534563
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1149900;43.000;Ringsted;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1758092
+Audi A5;3,0 TDi Coupé quattro;154900;189.000;Viborg;2008;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-coupe-quattro/1594925
+Audi Q5;2,0 TDI DPF 143HK 5d 6g;164900;190.000;Herning;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-dpf-143hk-5d-6g/1640274
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1099900;70.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1668296
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;169900;93.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1714702
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;499900;122.000;Køge;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1741935
+Audi A5;2,0 TDi 177 Sportback Multitr.;189000;201.000;Allerød;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback-multitr/1768901
+Audi A3;1,6 TDi Ambiente Sportback;95000;257.000;Ikast;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1772415
+Audi A5;2,0 TDI 170HK 5d 6g;111300;271.000;Beder;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-170hk-5d-6g/1773558
+Audi A3;1,6 TDi 110 Sport Sportback;124900;221.000;Hørning;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-sport-sportback/1776674
+Audi Q5;2,0 TDi 143;249700;92.000;Hedensted;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-143/1579924
+Audi A3;1,6 TDi 116;199500;67.000;Vejle;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116/1590674
+Audi A6;2,0 TDi 140;40000;357.000;Vallensbæk;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140/1601007
+Audi A4;2,0 TDi 136;109900;238.000;Herning;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136/1631260
+Audi Q3;2,0 TDi 140;189900;131.000;Haderslev;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140/1636660
+Audi A3;1,6 TDi Ambiente;109800;179.000;Holsted;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente/1647397
+Audi A6;2,0 TDi 140;89900;259.000;Nordborg;2004;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140/1652211
+Audi A3;1,9 TDi Attraction;39900;204.000;Ishøj;2006;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-attraction/1678434
+Audi A4;2,0 TDi 150;189900;122.000;Vejle;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150/1679197
+Audi A3;1,6 TDi Ambition;169700;119.000;Hedensted;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition/1685633
+Audi A4;1,9 TDi 130;29800;370.000;Bramming;2004;https://www.biltorvet.dk/bil/audi/a4/1-9-tdi-130/1705761
+Audi A4;1,9 TDI 130HK;19900;439.000;Randers;2002;https://www.biltorvet.dk/bil/audi/a4/1-9-tdi-130hk/1714717
+Audi A6;2,0 TDi 140;59800;360.000;Haderslev;2004;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140/1724834
+Audi A2;1,4 TDI 75HK;1234;150.000;Hedensted;2006;https://www.biltorvet.dk/bil/audi/a2/1-4-tdi-75hk/1733358
+Audi A3;1,6 TDi Ambition;114900;136.000;Haderslev;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition/1744126
+Audi A4;2,0 TDi;22000;433.000;Løsning;2005;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi/1748393
+Audi A3;1,6 TDi 116;189800;75.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116/1749855
+Audi Q3;2,0 TDi 140;194900;83.000;Sulsted;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140/1752222
+Audi Q2;1,6 TDi 116;217900;76.000;Stenløse;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116/1759635
+Audi Q5;2,0 TDi 150;199700;199.000;Vodskov;2015;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-150/1759796
+Audi A4;2,0 TDi 150;214900;105.000;Lejre;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150/1765868
+Audi A4;1,9 TDi Avant;39900;340.000;Silkeborg;2006;https://www.biltorvet.dk/bil/audi/a4/1-9-tdi-avant/1766833
+Audi Q3;2,0 TDi 140;173800;117.000;Rødding;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140/1768769
+Audi A6;2,7 TDi 190;109900;268.000;Sønderborg;2010;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-190/1775078
+Audi A3;1,6 TDi Ambition;59700;289.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition/1778697
+Audi A4;2,0 TDi Avant Multitr.;29800;319.000;Thisted;2005;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-avant-multitr/1731288
+Audi A3;2,0 TDI quattro 170HK 5d;70000;256.000;Næstved;2008;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-quattro-170hk-5d/1750958
+Audi A6;45 TDi quattro Tiptr.;467000;54.039;Taastrup;2019;https://www.biltorvet.dk/bil/audi/a6/45-tdi-quattro-tiptr/1751221
+Audi A6;2,7 TDI 180HK 6g;45000;367.000;Grenaa;2006;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-180hk-6g/1756323
+Audi A8;50 TDi quattro Tiptr.;999900;82.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a8/50-tdi-quattro-tiptr/1632662
+Audi A6;3,0 TDi 326 Avant quattro Tiptr.;579800;116.000;Kjellerup;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-avant-quattro-tiptr/1740734
+Audi A4;2,0 TDi 190 Avant S-tr.;319000;55.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1561083
+Audi A6;40 TDi Sport Avant S-tr.;499900;51.000;Brøndby;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1747045
+Audi A5;2,7 TDi 190 Sportback Multitr.;149800;305.000;Frederikshavn;2010;https://www.biltorvet.dk/bil/audi/a5/2-7-tdi-190-sportback-multitr/1733455
+Audi A3;2,0 TDI Attraction 150HK Cabr. 6g;209900;158.000;Fjerritslev;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-attraction-150hk-cabr--6g/1762160
+Audi A3;1,6 TDi 116 Sport Sportback;229900;42.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback/1764560
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;479900;108.000;Bryrup;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1765142
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;379900;157.000;Bryrup;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1766328
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;359900;234.000;Køge;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1767055
+Audi A4;40 TDi Avant S-tr.;359900;113.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/40-tdi-avant-s-tr/1730961
+Audi A4;40 TDi Sport Avant S-tr.;369900;113.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1759783
+Audi Q5;2,0 TDi 170 quattro;199000;177.000;Skærbæk;2010;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-170-quattro/1491518
+Audi Q2;1,6 TDi 116 Sport;224500;81.000;Haderslev;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1608601
+Audi Q2;1,6 TDi 116 Sport;224900;87.000;Rødekro;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1627773
+Audi A8;3,0 TDi 250 quattro Tiptr.;339900;167.000;Birkerød;2012;https://www.biltorvet.dk/bil/audi/a8/3-0-tdi-250-quattro-tiptr/1650040
+Audi A4;2,7 TDi 190 Avant Multitr.;179900;208.000;Nordborg;2010;https://www.biltorvet.dk/bil/audi/a4/2-7-tdi-190-avant-multitr/1652212
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1169900;66.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1657500
+Audi A6;2,0 TDi 170 Avant Multitr.;119900;238.000;Hjørring;2010;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-170-avant-multitr/1660763
+Audi A6;2,5 TDi 155 Avant Multitr.;99900;69.000;Tønder;2001;https://www.biltorvet.dk/bil/audi/a6/2-5-tdi-155-avant-multitr/1686148
+Audi SQ5;3,0 TDi 340 Plus quattro Tiptr.;679800;85.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-340-plus-quattro-tiptr/1731655
+Audi Q3;2,0 TDi 150 Ultra;229995;138.000;Haderslev;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-ultra/1759865
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;627000;68.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1764324
+Audi A8;4,2 TDi 326 quattro Tiptr.;175000;195.000;Viby Sjælland;2008;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-326-quattro-tiptr/1765431
+Audi A6;3,0 TDi 313 quattro Tiptr.;289900;184.000;Viborg;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-quattro-tiptr/1710779
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;379800;213.000;Kjellerup;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1733377
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1179800;65.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1752300
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1099900;79.000;Kolding;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1632675
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1179900;89.000;Roskilde;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1707405
+Audi A4;2,5 V6 TDI quattro 180HK;39900;611.000;Brørup;2003;https://www.biltorvet.dk/bil/audi/a4/2-5-v6-tdi-quattro-180hk/1257680
+Audi A6;2,0 TDi 177 Avant Multitr.;199900;229.000;Køge;2013;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-avant-multitr/1457289
+Audi A4;2,0 TDi 150 Avant;189900;99.000;Herning;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant/1610333
+Audi A4;3,0 TDI quattro 240HK;99900;246.000;Rødekro;2008;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-quattro-240hk/1693597
+Audi A1;1,6 TDi 90 Ambition Sportback;89900;167.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-90-ambition-sportback/1708808
+Audi A4;2,0 TDi 143 Multitr.;115000;177.000;Hinnerup;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-multitr/1735631
+Audi A4;2,0 TDi 143 Avant;77800;220.000;Randers;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1743339
+Audi A3;1,6 TDi 110 Ambition Cabriolet;199900;183.000;Hillerød;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambition-cabriolet/1748527
+Audi A3;1,6 TDi 110 Ultra Attraction Sportback;169990;90.000;Tønder;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ultra-attraction-sportback/1751613
+Audi A1;1,6 TDi 105 Ambition Sportback;104900;111.000;Silkeborg;2012;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-105-ambition-sportback/1771762
+Audi A3;1,6 TDi Ambition Sportback;109000;244.000;Ikast;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition-sportback/1772416
+Audi A3;2,0 TDi 140 Attraction Sportback;39995;299.000;Silkeborg;2009;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1778935
+Audi A4;40 TDi Sport Avant S-tr.;419900;20.000;Brøndby;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1722483
+Audi A3;2,0 TDi 140 Ambiente Sportback;89900;106.000;Gadstrup;2009;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1618063
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;379000;180.000;Vejle Øst;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1646119
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;499900;187.000;Vojens;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1685515
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;549900;88.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1715202
+Audi SQ7;4,0 TDi quattro Tiptr.;1129800;49.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1717213
+Audi SQ5;3,0 TDi 326 quattro Tiptr.;679900;74.000;Varde;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-quattro-tiptr/1763170
+Audi A6;3,0 TDI quattro aut. 225HK Stc;49900;299.000;Brørup;2006;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-quattro-aut--225hk-stc/1555593
+Audi A3;1,6 TDi 116 Sport Sportback;229800;38.000;Thisted;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback/1634814
+Audi A3;2,0 TDi 140 Attraction Sportback;54900;355.000;Blommenslyst;2009;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1637479
+Audi Q3;2,0 TDi 150 Sport;189900;249.000;Greve;2017;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport/1643980
+Audi A5;2,0 TDi 190 Sportback Multitr.;249900;110.000;Tønder;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-multitr/1645967
+Audi A7;3,0 TDi 204 Sportback Multitr.;319900;114.000;Taastrup;2013;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-204-sportback-multitr/1659297
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;619900;66.000;København;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1682593
+Audi A4;2,0 TDi 177 Avant;134800;203.000;Ishøj;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-avant/1683857
+Audi A4;2,0 TDi 177 Multitr.;209500;129.000;Tønder;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-multitr/1695468
+Audi A8;4,2 TDi 385 quattro Tiptr.;749900;48.000;Esbjerg;2016;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-385-quattro-tiptr/1702862
+Audi A3;2,0 TDi 150 Sport;209900;78.000;Åbyhøj;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport/1730947
+Audi A5;2,0 TDi 177 Sportback Multitr.;244900;88.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback-multitr/1749643
+Audi A4;2,0 TDi 150 Avant;229999;100.000;Næstved;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant/1759350
+Audi A3;1,6 TDi 110 Sportback;209900;76.000;Vonge;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-sportback/1763186
+Audi A4;2,0 TDi 136 Avant;110000;230.000;København;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1772758
+Audi A6;2,0 TDi 177 Avant Multitr.;219900;130.000;Uldum;2012;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-avant-multitr/1777782
+Audi A4;2,0 TDi 150 Sport Avant;189700;197.000;Hadsund;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant/1690643
+Audi A8;3,0 TDi 258 quattro Tiptr. lang;499800;181.000;Kjellerup;2014;https://www.biltorvet.dk/bil/audi/a8/3-0-tdi-258-quattro-tiptr--lang/1722352
+Audi Q7;4,2 TDi 340 quattro Tiptr.;549800;150.000;Kjellerup;2014;https://www.biltorvet.dk/bil/audi/q7/4-2-tdi-340-quattro-tiptr/1774285
+Audi A6;3,0 TDI Quattro Tiptr. 286HK 8g Trinl. Gear;539900;39.000;Ringkøbing;2019;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-quattro-tiptr--286hk-8g-trinl--gear/1602886
+Audi A6;40 TDi Sport Avant S-tr.;529900;13.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1725321
+Audi A4;2,0 TDi 190 Edition+ Sport Avant S;329900;78.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-edition--sport-avant-s/1779503
+Audi Q5;2,0 TDi 190 quattro S-tr.;479900;43.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1667644
+Audi A4;2,0 TDi 150 Sport S-tr.;299700;104.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-s-tr/1600756
+Audi A4;3,0 TDi 272 Sport Avant quattro Tiptr.;379900;141.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-sport-avant-quattro-tiptr/1664280
+Audi A4;2,0 TDi 190 Avant S-tr.;339700;127.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1717782
+Audi A4;35 TDi Sport S-tr.;319900;41.000;Taastrup;2019;https://www.biltorvet.dk/bil/audi/a4/35-tdi-sport-s-tr/1742631
+Audi A3;Sportback 2,0 TDI Ambition 150HK 5d 6g;154700;150.500;Hjørring;2016;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-ambition-150hk-5d-6g/1745672
+Audi A4;Avant 2,0 TDI 150HK Stc 6g;199900;171.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-150hk-stc-6g/1589404
+Audi S6;3,0 TDi quattro Tiptr.;1499000;5.000;Horsens;2020;https://www.biltorvet.dk/bil/audi/s6/3-0-tdi-quattro-tiptr/1593243
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;724900;66.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1601627
+Audi A8;4,2 TDi 350 quattro Tiptr.;499900;87.000;Varde;2011;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-350-quattro-tiptr/1666159
+Audi A7;3,0 TDi 313 Sportback quattro Tiptr.;299800;224.000;Vejen;2012;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-313-sportback-quattro-tiptr/1712828
+Audi A7;3,0 TDi 313 Sportback quattro Tiptr.;419900;129.000;Esbjerg;2014;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-313-sportback-quattro-tiptr/1715816
+Audi A3;35 TDi Limited+ Sportback;289900;39.000;Viborg;2020;https://www.biltorvet.dk/bil/audi/a3/35-tdi-limited--sportback/1724734
+Audi Q2;1,6 TDi 116 Sport;199900;139.000;Køge;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1743297
+Audi Q7;3,0 TDI aut. 233HK 5d;109999;360.000;Tønder;2008;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-aut--233hk-5d/1750542
+Audi A4 Allroad;2,0 TDi 150 quattro;169900;228.000;Hedensted;2014;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tdi-150-quattro/1750712
+Audi A6;3,0 TDi 326 Avant quattro Tiptr.;499800;159.000;Ribe;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-avant-quattro-tiptr/1767400
+Audi A5;2,0 TDi 150 Sportback;179900;172.000;Vejle Øst;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-150-sportback/1773946
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;684800;71.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1774022
+Audi A3;1,6 TDI 110HK 3d;174900;70.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110hk-3d/1775244
+Audi A7;3,0 TDi 204 Sportback Multitr.;249900;220.000;Hillerød;2011;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-204-sportback-multitr/1776209
+Audi Q7;3,0 TDi 272 quattro Tiptr. 7prs;649990;104.000;Skanderborg;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr--7prs/1776315
+Audi A7;3,0 TDi 326 Competition Sportback quattro Tiptr.;799900;87.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-326-competition-sportback-quattro-tiptr/1691464
+Audi Q2;1,6 TDI S Tronic 116HK 5d 7g Aut.;249900;90.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-s-tronic-116hk-5d-7g-aut/1710577
+Audi A4;40 TDi Avant S-tr.;374000;48.000;Taastrup;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-avant-s-tr/1714490
+Audi Q3;35 TDi Prestige S-tr.;342000;37.572;Taastrup;2020;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-s-tr/1758122
+Audi A5;40 TDi Sport Sportback S-tr.;427000;61.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a5/40-tdi-sport-sportback-s-tr/1760847
+Audi A4;Avant 2,0 TDI 150HK Stc 6g;199800;151.000;Nørre Snede;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-150hk-stc-6g/1757045
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;464900;157.000;Roskilde;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1758089
+Audi A4;3,0 TDi 218 Sport Avant quattro S-tr;409900;98.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-quattro-s-tr/1679258
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;254900;103.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1745373
+Audi A3;1,6 TDi Ambiente Sportback S-tr.;169999;115.000;Haderslev;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback-s-tr/1590524
+Audi A4;2,0 TDi 190 Avant S-tr.;299900;115.000;Engesvang;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1654079
+Audi A6;2,7 TDi 190 S-line Avant;109000;254.000;Skærbæk;2011;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-190-s-line-avant/1656715
+Audi Q3;2,0 TDi 150 S-tr.;249900;124.000;Daugård;2017;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-s-tr/1760096
+Audi Q5;2,0 TDi 190 quattro S-tr.;517000;80.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1765992
+Audi A5;Sportback 2,0 TDI Multitr. 143HK 5d 6g Aut.;139000;228.000;Aarhus;2011;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-multitr--143hk-5d-6g-aut/1772505
+Audi A6;3,0 TDi 326 Competition Avant quattro Tiptr.;639900;72.000;Esbjerg;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-competition-avant-quattro-tiptr/1618832
+Audi A4;2,0 TDi 150 S-tr.;249900;93.000;Åbyhøj;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-tr/1673984
+Audi Q3;35 TDi Prestige Sportback S-tr.;424900;5.000;Kolding;2020;https://www.biltorvet.dk/bil/audi/q3/35-tdi-prestige-sportback-s-tr/1755279
+Audi A6;3,0 TDi 218 S-tr.;269900;186.000;Langå;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-tr/1765566
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;439900;128.000;Hillerød;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1720276
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;318900;78.000;Silkeborg;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1496782
+Audi A5;2,0 TDi 190 Sport Sportback S-tr.;339800;101.000;Holsted;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sport-sportback-s-tr/1686149
+Audi SQ7;4,0 TDi quattro Tiptr.;1099900;76.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1773292
+Audi Q7;3,0 TDI Quattro Tiptr. 272HK 5d 8g Aut.;699900;47.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-quattro-tiptr--272hk-5d-8g-aut/1353171
+Audi Q5;2,0 TDi 177 quattro S-tr.;299800;69.000;Hammel;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-quattro-s-tr/1559872
+Audi A3;2,0 TDi Attraction Sportback S-tr.;77900;238.000;Silkeborg;2009;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-attraction-sportback-s-tr/1637870
+Audi Q5;3,0 TDi 245 quattro S-tr.;339900;164.000;Aars;2015;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1657983
+Audi Q5;2,0 TDi 177 quattro S-tr.;349500;95.000;Haderslev;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-quattro-s-tr/1674395
+Audi A3;1,6 TDi Ambiente Sportback S-tr.;149990;178.000;Tønder;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback-s-tr/1741660
+Audi A3;1,6 TDi Attraction Sportback S-tr.;109900;174.000;Hørning;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-attraction-sportback-s-tr/1749923
+Audi A4;2,0 TDi 150 S-tr.;299900;111.000;Ishøj;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-tr/1761485
+Audi A3;Sportback 2,0 TDI DPF Ambition 150HK 5d 6g;179900;61.000;Slagelse;2016;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-dpf-ambition-150hk-5d-6g/1775643
+Audi Q5;2,0 TDi 190 quattro S-tr.;379900;112.000;Køge;2016;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1778967
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;269400;94.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1623629
+Audi A5;2,0 TDi 190 Sport Cabriolet S-tr.;549900;22.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sport-cabriolet-s-tr/1706582
+Audi A4;Avant 2,5 V6 TDI Multitr. 163HK Stc Trinl. Gear;39999;399.000;Horsens;2005;https://www.biltorvet.dk/bil/audi/a4/avant-2-5-v6-tdi-multitr--163hk-stc-trinl--gear/1640054
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;499900;49.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1717415
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;499900;102.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1741735
+Audi A4;Avant 2,0 TDI S-Line Black Edition TipTronic 190HK Stc;449900;44.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-line-black-edition-tiptronic-190hk-stc/1775770
+Audi A6;3,0 TDi 245 quattro S-tr.;274900;134.000;Vojens;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-quattro-s-tr/877350
+Audi A4;3,0 TDi 272 Sport Avant quattro Tiptr.;479900;56.000;Hjørring;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-sport-avant-quattro-tiptr/1548530
+Audi Q5;2,0 TDi 190 quattro S-tr.;569800;115.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1743400
+Audi A6;2,0 TDi 190 Ultra S-tr.;299900;93.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-tr/1758828
+Audi A4;2,0 TDi 143 S-line Avant;55000;352.000;Vordingborg;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant/1765247
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;839500;78.000;Vejle Øst;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1746687
+Audi SQ5;3,0 biturbo TDI Competition Quattro Tiptr. 326HK 5d;669990;35.000;Risskov;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-biturbo-tdi-competition-quattro-tiptr--326hk-5d/1341926
+Audi A5;2,0 TDi 190 Sportback S-tr.;319800;143.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-s-tr/1622563
+Audi A6;40 TDi Sport Avant S-tr.;479900;61.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1624314
+Audi Q2;1,6 TDi 116 Sport S-tr.;263880;60.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1632213
+Audi A6;40 TDi Sport Avant S-tr.;509880;31.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1632290
+Audi Q5;2,0 TDi 190 Business S-tr.;389800;36.000;Køge;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-business-s-tr/1644724
+Audi A4;2,0 TDi 150 S-tr.;239900;128.000;Tønder;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-tr/1645963
+Audi A6;3,0 TDI S Tronic 218HK 7g Aut.;333999;123.000;Kerteminde;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-s-tronic-218hk-7g-aut/1689253
+Audi A6;3,0 TDi 204 S-line Multitr.;269900;69.000;Aars;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-s-line-multitr/1701206
+Audi Q3;2,0 TDi 150 Sport S-tr.;269900;96.000;Randers;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport-s-tr/1715167
+Audi A8;Lang 4,2 TDI Quattro Tiptr. 350HK 8g Aut.;425000;167.000;Nørresundby;2012;https://www.biltorvet.dk/bil/audi/a8/lang-4-2-tdi-quattro-tiptr--350hk-8g-aut/1730767
+Audi A6;2,0 TDi 190 Ultra S-tr.;319900;59.000;Hillerød;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-tr/1747322
+Audi A3;2,0 TDi 150 Sport S-tr.;269900;62.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1762272
+Audi A4;2,0 TDi 177 S-line;179500;152.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-s-line/1772283
+Audi A3;1,6 TDi 110 Ambiente S-tr.;184800;102.000;Hvalsø;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambiente-s-tr/1778867
+Audi Q5;3,0 TDi 258 quattro S-tr.;340000;150.000;Gadstrup;2016;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-258-quattro-s-tr/1773797
+Audi A6;2,0 TDi 190 S-line S-tr.;374900;74.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-s-tr/1680259
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;342900;105.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1768925
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;403980;59.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1632438
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;339800;133.000;Skærbæk;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1641238
+Audi A6;2,0 TDi 177 S-line Avant Multitr.;239800;143.000;Næstved;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line-avant-multitr/1677590
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;469800;115.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1746200
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;239900;186.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1759982
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;374800;90.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1761749
+Audi A3;35 TDi S-line Sportback S-tr.;299900;59.000;Kolding;2019;https://www.biltorvet.dk/bil/audi/a3/35-tdi-s-line-sportback-s-tr/1774215
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;399800;148.000;Kjellerup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1762356
+Audi Q5;2,0 TDi 177 S-line quattro S-tr.;250000;187.000;Kolding;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-s-line-quattro-s-tr/1681235
+Audi A4;3,0 TDi 218 Sport Avant quattro S-tr;349800;108.000;Sønderborg;2016;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-quattro-s-tr/1751643
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;269500;124.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1770508
+Audi A8;Lang 4,2 TDI Quattro Tiptr. 385HK 8g Aut.;719800;45.000;Gredstedbro;2015;https://www.biltorvet.dk/bil/audi/a8/lang-4-2-tdi-quattro-tiptr--385hk-8g-aut/1718465
+Audi A4;3,0 TDi 272 Sport Avant quattro Tiptr.;379995;122.000;Kastrup;2016;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-sport-avant-quattro-tiptr/1758432
+Audi A6;3,0 biturbo TDI Quattro Tiptr. 320HK 8g Aut.;549900;106.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-biturbo-tdi-quattro-tiptr--320hk-8g-aut/1762963
+Audi A6;2,0 TDI Multitr. 170HK Trinl. Gear;119900;235.000;Ribe;2011;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-multitr--170hk-trinl--gear/726985
+Audi A1;1,6 TDI Attraction 90HK 3d;139900;64.000;Ribe;2014;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-attraction-90hk-3d/969078
+Audi A6;3,0 TDI Multitr. 204HK Trinl. Gear;299900;135.000;Tørring;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-multitr--204hk-trinl--gear/1095043
+Audi A6;2,0 TDI Multitr. 177HK 6g Aut.;229900;166.000;Hedensted;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-multitr--177hk-6g-aut/1226629
+Audi A4;2,0 TDI aut. 143HK Stc;184800;151.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-aut--143hk-stc/1277884
+Audi A6;Avant 2,0 TDI 177HK Stc 6g;239800;103.000;Ribe;2014;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-177hk-stc-6g/1282643
+Audi A4;Avant 2,0 TDI 136HK Stc 6g;184800;105.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-136hk-stc-6g/1282878
+Audi A6;2,0 TDI 140HK 6g;89800;271.000;Ribe;2007;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140hk-6g/1305765
+Audi A6;2,0 TDI 140HK 6g;69800;303.000;Ribe;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140hk-6g/1330769
+Audi A4;2,0 TDi 136 Avant;129800;179.000;Herfølge;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1397049
+Audi A4;2,0 TDi 177 Avant;199700;118.000;Gislinge;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-avant/1415956
+Audi A6;Avant 1,9 TDI 130HK Stc;20000;475.000;Grenaa;2004;https://www.biltorvet.dk/bil/audi/a6/avant-1-9-tdi-130hk-stc/1461134
+Audi A6;3,0 TDi quattro Tiptr.;79900;244.000;Aabybro;2005;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-quattro-tiptr/1468064
+Audi A6;3,0 TDi Avant quattro Multitr.;59400;316.000;Kruså;2005;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-avant-quattro-multitr/1479107
+Audi A4;2,0 TDi 177 Avant quattro;114900;304.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-avant-quattro/1501425
+Audi A4;2,0 TDI Sport 150HK 6g;239900;76.000;Tjele;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-sport-150hk-6g/1506764
+Audi A6;3,0 TDI Multitr. 204HK Trinl. Gear;3995;135.000;Tørring;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-multitr--204hk-trinl--gear/1510354
+Audi A6;3,0 TDi 204 Avant Multitr.;199900;187.000;Randers;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-avant-multitr/1520331
+Audi A6;3,0 TDi 313 Avant quattro Tiptr.;299800;146.000;Randers;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-avant-quattro-tiptr/1534619
+Audi A4;2,0 TDi 143 Avant;99900;329.000;Struer;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1541065
+Audi Q5;2,0 TDI 150HK 5d 6g;254900;95.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-150hk-5d-6g/1543019
+Audi A4;Avant 2,0 TDI 136HK Stc 6g;94800;279.968;Aabybro;2011;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-136hk-stc-6g/1543147
+Audi A6;Avant 2,0 TDI 177HK Stc 6g;150000;229.000;Gråsten;2012;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-177hk-stc-6g/1547379
+Audi A4;2,5 V6 TDI 163HK Cabr. Aut.;89000;324.000;Frederikshavn;2003;https://www.biltorvet.dk/bil/audi/a4/2-5-v6-tdi-163hk-cabr--aut/1548717
+Audi A6;2,0 TDI 177HK 6g;172500;197.000;Tørring;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177hk-6g/1567999
+Audi A5;3,0 TDi Coupé quattro;154900;220.000;Horsens;2007;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-coupe-quattro/1574235
+Audi A6;Avant 2,0 TDI 170HK Stc 6g;99900;207.000;Randers;2010;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-170hk-stc-6g/1584060
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;429500;134.000;Nørresundby;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1597391
+Audi A6;3,0 TDI 204HK 6g;169900;247.000;Tørring;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204hk-6g/1602682
+Audi A6;2,0 TDI Ultra S Tronic 190HK;359800;56.800;Næstved;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-ultra-s-tronic-190hk/1609359
+Audi Q5;2,0 TDi 170 quattro;199900;142.000;Stenderup;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-170-quattro/1611060
+Audi A5;3,0 TDi 204 Sportback Multitr.;224700;115.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-204-sportback-multitr/1612159
+Audi A8;4,2 TDi 326 quattro Tiptr.;159900;302.000;Sulsted;2007;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-326-quattro-tiptr/1612996
+Audi A4;2,0 TDi 136 Avant;154900;157.000;Sulsted;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1613026
+Audi A4;2,0 TDI 177HK Stc;117500;222.000;Tørring;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177hk-stc/1615837
+Audi A6;2,0 TDi 177 Multitr.;189900;135.000;Hammel;2013;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-multitr/1622553
+Audi A6;50 TDi Sport Avant quattro Tiptr.;569800;63.000;Randers;2019;https://www.biltorvet.dk/bil/audi/a6/50-tdi-sport-avant-quattro-tiptr/1624507
+Audi A3;2,0 TDi 140 Ambiente Sportback DSG;31900;235.000;Holbæk;2005;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback-dsg/1626829
+Audi A6;3,0 TDi 326 Avant quattro Tiptr.;549900;114.000;Ølstykke;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-avant-quattro-tiptr/1632609
+Audi A3;1,6 TDi 116 Sportback;229800;32.000;Ballerup;2019;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sportback/1634665
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;499800;128.000;Nykøbing F;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1634995
+Audi A5;2,0 TDi 177 Sportback Multitr.;209900;98.000;Fredericia;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback-multitr/1639114
+Audi A5;2,0 TDi 177 Sportback;159900;237.000;Fredericia;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback/1639125
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;559900;97.000;Sulsted;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1639788
+Audi A3;1,6 TDi Attraction Sportback;99900;150.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-attraction-sportback/1640554
+Audi A5;2,0 TDi 150 Sportback Multitr.;214900;120.000;Blommenslyst;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-150-sportback-multitr/1640805
+Audi A4;2,0 TDI aut. 143HK;112500;219.000;Tørring;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-aut--143hk/1642538
+Audi A3;1,9 TDi Attraction Sportback;117080;171.000;Aalborg;2007;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-attraction-sportback/1644456
+Audi A5;2,0 TDi 177 Sportback;189900;128.000;Køge;2012;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback/1645681
+Audi A4;2,0 TDi 136 Avant;109900;186.000;Silkeborg;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1646930
+Audi A1;Sportback 1,6 TDI Ambition 105HK 5d;69880;233.000;Aalborg;2012;https://www.biltorvet.dk/bil/audi/a1/sportback-1-6-tdi-ambition-105hk-5d/1647477
+Audi Q2;1,6 TDi 116 Sport;214900;83.000;Kolding;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1648795
+Audi A6;2,0 TDi 140 Avant Multitr.;65000;338.000;Nordborg;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140-avant-multitr/1664887
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;139900;163.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1664930
+Audi A3;2,0 TDi 140 Attraction Sportback;84700;192.000;Fredericia;2012;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1670066
+Audi A3;2,0 TDi 140 Ambiente Sportback;99900;189.000;Løsning;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1670571
+Audi SQ5;3,0 TDi 326 quattro Tiptr.;479900;149.000;Lunderskov;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-quattro-tiptr/1671068
+Audi A5;2,0 TDi 177 Sportback Multitr.;189900;169.000;Nørresundby;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback-multitr/1672682
+Audi A6;3,0 TDi Avant quattro Tiptr.;99500;292.000;Sindal;2009;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-avant-quattro-tiptr/1673749
+Audi Q7;3,0 TDI aut. 239HK 5d;239800;225.000;Skærbæk;2011;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-aut--239hk-5d/1676668
+Audi A3;1,6 TDI Sport 110HK 6g;185000;66.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-sport-110hk-6g/1676999
+Audi A6;2,0 TDi 177 Multitr.;222995;110.000;Kastrup;2012;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-multitr/1677173
+Audi Q2;1,6 TDI Sport 116HK 5d 6g;269900;45.000;Ballerup;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-sport-116hk-5d-6g/1677276
+Audi A3;1,6 TDi 110 Ultra Attraction;169500;113.000;Lunderskov;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ultra-attraction/1680557
+Audi Q7;3,0 TDi 240 quattro Tiptr.;269900;242.000;Randers;2010;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-240-quattro-tiptr/1681353
+Audi A4;2,0 TDi 143 Avant Multitr.;99500;257.000;Aabenraa;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant-multitr/1681585
+Audi A1;1,6 TDi 116 Sport Sportback;169800;82.000;Ballerup;2017;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-116-sport-sportback/1681711
+Audi A6;2,0 TDi 177 Multitr.;169900;222.000;Nørresundby;2012;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-multitr/1681848
+Audi A6;2,7 TDi Avant Tiptr.;59400;324.000;Kruså;2007;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-avant-tiptr/1681998
+Audi A5;2,0 TDi 177 Sportback Multitr.;169900;206.000;Haderslev;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback-multitr/1683444
+Audi SQ7;4,0 TDi quattro Tiptr.;1275000;59.000;Odense;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1685226
+Audi A1;Sportback 1,6 TDI Attraction 90HK 5d;99900;166.000;Herning;2014;https://www.biltorvet.dk/bil/audi/a1/sportback-1-6-tdi-attraction-90hk-5d/1689616
+Audi A3;1,9 TDi Attraction Sportback;45000;284.000;Nykøbing F;2006;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-attraction-sportback/1690809
+Audi A6;3,0 TDi 204 Multitr.;244900;499.000;Middelfart;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-multitr/1696876
+Audi A4;2,0 TDi 150 Sport Avant;234800;137.000;Holstebro;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant/1697244
+Audi A4;2,0 TDi 150 Avant;209800;140.000;Holstebro;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant/1697245
+Audi A3;2,0 TDi 140 Attraction Sportback;99800;182.000;Slagelse;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1697797
+Audi A6;3,0 TDi Avant quattro Multitr.;59900;608.000;Åbyhøj;2005;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-avant-quattro-multitr/1698240
+Audi A3;1,6 TDI 105HK 3d;27000;366.000;Brøndby;2010;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-105hk-3d/1701135
+Audi A3;2,0 TDi 150 Ambiente Sportback;189900;77.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambiente-sportback/1701880
+Audi A3;1,6 TDi Ambiente Sportback;99900;154.000;Jægerspris;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1704833
+Audi Q3;2,0 TDi 150 Sport;199900;171.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport/1705126
+Audi A5;3,0 TDi 204 Sportback Multitr.;199900;172.000;Thyholm;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-204-sportback-multitr/1705492
+Audi A4;Avant 1,9 TDI 115HK Stc;27999;370.000;Augustenborg;2007;https://www.biltorvet.dk/bil/audi/a4/avant-1-9-tdi-115hk-stc/1708789
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;499995;182.000;Kastrup;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1708923
+Audi A4;2,0 TDi 120 Avant;69400;294.000;Kruså;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-120-avant/1709058
+Audi A4;2,0 TDi 143 Avant;64400;358.000;Kruså;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1711705
+Audi Q7;3,0 TDi 272 quattro Tiptr.;669900;92.000;Aabenraa;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr/1712556
+Audi A4;Avant 2,0 TDI 140HK Stc 6g;49900;315.000;Holsted;2008;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-140hk-stc-6g/1713061
+Audi A7;3,0 TDi 313 Sportback quattro Tiptr.;287500;58.000;Albertslund;2014;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-313-sportback-quattro-tiptr/1713436
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1279800;52.000;Sønderborg;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1715378
+Audi A3;2,0 TDi 140 Sportback;69900;213.000;Nykøbing F;2008;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-sportback/1716614
+Audi Q7;4,2 TDi quattro Tiptr.;219900;199.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/q7/4-2-tdi-quattro-tiptr/1718371
+Audi A4;2,0 TDi 150 Avant Multitr.;159500;185.000;Lunderskov;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-multitr/1719628
+Audi A3;1,6 TDi Ambiente Sportback;79800;172.000;Odense;2010;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1719812
+Audi A3;2,0 TDi 150 Ambition Sportback;169900;82.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback/1720388
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;419400;131.000;Sønderborg;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1721093
+Audi A5;2,0 TDi 177 Sportback;199199;177.000;Bramming;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback/1721590
+Audi A1;Sportback 1,6 TDI Ambition 90HK 5d;107000;155.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/a1/sportback-1-6-tdi-ambition-90hk-5d/1721792
+Audi A4;2,0 TDi 143 Multitr.;79400;249.000;Kruså;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-multitr/1724717
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;479800;136.000;Sønderborg;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1725028
+Audi A7;3,0 TDi 326 Sportback quattro Tiptr.;649800;80.000;Sønderborg;2016;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-326-sportback-quattro-tiptr/1725052
+Audi A3;1,9 TDi Attraction Sportback;49700;176.000;Vodskov;2007;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-attraction-sportback/1725409
+Audi A3;2,0 TDi 184 Ambiente Sportback;159900;180.000;Blommenslyst;2015;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-ambiente-sportback/1725430
+Audi A1;1,6 TDi 90 Ambition Sportback;109900;99.000;Haderslev;2014;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-90-ambition-sportback/1727060
+Audi A3;1,6 TDi 110 Ambiente Sportback;174900;93.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambiente-sportback/1727064
+Audi Q5;2,0 TDI 150HK 5d 6g;395000;58.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-150hk-5d-6g/1727999
+Audi A3;1,6 TDi 110 Sport Sportback;179900;108.000;Taastrup;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-sport-sportback/1729450
+Audi A4;2,0 TDi 136 Avant;84700;259.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1734054
+Audi A6;2,0 TDi 177 Avant Multitr.;177900;315.000;Herning;2012;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-avant-multitr/1734667
+Audi A3;2,0 TDi 140 Ambiente Sportback;28600;408.000;Herfølge;2004;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1735381
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;314900;199.000;Næstved;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1736389
+Audi A5;3,0 TDi Coupé quattro;164900;156.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-coupe-quattro/1737113
+Audi A6;2,0 TDI Multitr. 177HK 6g Aut.;182500;210.000;Tørring;2013;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-multitr--177hk-6g-aut/1737367
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;169900;146.000;Køge;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1741065
+Audi SQ5;3,0 TDi 326 quattro Tiptr.;579900;105.000;Middelfart;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-quattro-tiptr/1743305
+Audi A5;Sportback 2,0 TDI 150HK 5d 6g;179900;136.000;Hedensted;2014;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-150hk-5d-6g/1743347
+Audi A5;Sportback 2,0 TDI 170HK 5d 6g;139900;208.000;Hedensted;2011;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-170hk-5d-6g/1743411
+Audi A6;3,0 TDi 204 Avant Multitr.;244900;155.000;Middelfart;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-avant-multitr/1743751
+Audi A4;2,0 TDi 143 Avant;109900;184.000;Middelfart;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1745089
+Audi A3;1,6 TDi Attraction Sportback;43000;240.000;Silkeborg;2009;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-attraction-sportback/1745516
+Audi A3;1,9 TDi Ambiente Sportback;59900;279.000;Hjørring;2009;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-ambiente-sportback/1746181
+Audi A4;2,0 TDi 140 Avant;44900;231.000;Nykøbing M;2005;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-140-avant/1746204
+Audi Q2;1,6 TDi 116 Sport;214880;101.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport/1746258
+Audi A8;4,2 TDi 326 quattro Tiptr.;129900;384.000;Taastrup;2005;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-326-quattro-tiptr/1746306
+Audi A3;2,0 TDi 140 Ambition Sportback;69700;199.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambition-sportback/1746396
+Audi A3;2,0 TDi 140 Ambition Sportback;79700;191.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambition-sportback/1746404
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1299900;53.000;Varde;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1748034
+Audi A4;2,7 TDi 190 Multitr.;99900;193.000;Odder;2008;https://www.biltorvet.dk/bil/audi/a4/2-7-tdi-190-multitr/1748764
+Audi A3;1,6 TDi 110 Sport Sportback;189880;95.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-sport-sportback/1748978
+Audi A4;2,0 TDi 136 Avant;89900;267.000;Greve;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1749439
+Audi A4;2,0 TDI S Line 143HK 6g;96900;253.000;Vodskov;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-s-line-143hk-6g/1750733
+Audi A4;2,0 TDi 136 Avant;131700;131.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1750904
+Audi SQ7;4,0 TDi quattro Tiptr.;1149900;75.000;Varde;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1751685
+Audi A6;2,7 TDi 190 Avant quattro Tiptr.;106500;288.000;Tønder;2009;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-190-avant-quattro-tiptr/1751718
+Audi A4;Avant 2,0 TDI 190HK Stc 6g;197500;177.000;Tørring;2015;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-190hk-stc-6g/1751984
+Audi A4;Avant 2,0 TDI 190HK Stc 6g;1956;177.000;Tørring;2015;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-190hk-stc-6g/1751985
+Audi A3;2,0 TDi 140 Ambiente Sportback;39500;326.000;Næstved;2005;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1752008
+Audi A8;50 TDi quattro Tiptr.;1150000;61.000;Odense;2018;https://www.biltorvet.dk/bil/audi/a8/50-tdi-quattro-tiptr/1752613
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;559800;66.000;Bramming;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1752719
+Audi A5;3,0 TDi 204 Sportback Multitr.;209900;180.000;Blommenslyst;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-204-sportback-multitr/1752859
+Audi A4;2,0 TDi 150 Sport Avant;224980;135.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant/1752942
+Audi Q7;3,0 TDi 272 quattro Tiptr.;749900;75.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-quattro-tiptr/1753297
+Audi A4;Avant 1,9 TDI 100HK Stc;24900;344.000;Vodskov;2004;https://www.biltorvet.dk/bil/audi/a4/avant-1-9-tdi-100hk-stc/1753311
+Audi A4;2,0 TDI 120HK Stc;89900;184.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-120hk-stc/1753314
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;429800;126.000;Nykøbing F;2013;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1753346
+Audi A3;2,0 TDi 140 Attraction Sportback;89900;210.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1753491
+Audi A8;4,2 TDi 350 quattro Tiptr.;135000;220.000;Køge;2012;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-350-quattro-tiptr/1753644
+Audi A4;2,0 TDi 143 Avant;44900;405.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1754123
+Audi A4;Avant 2,0 TDI 136HK Stc 6g;89900;340.000;Frederiksværk;2011;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-136hk-stc-6g/1754667
+Audi A6;3,0 TDi Avant quattro Tiptr.;39500;550.000;Svendborg;2005;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-avant-quattro-tiptr/1757098
+Audi A5;2,0 TDI 170HK 5d 6g;139900;180.000;Maribo;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-170hk-5d-6g/1758114
+Audi A1;1,6 TDi 90 Ambition Sportback;119800;83.000;Kolding;2012;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-90-ambition-sportback/1758923
+Audi A1;1,6 TDi 105 Attraction;79900;161.000;Silkeborg;2011;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-105-attraction/1758997
+Audi A3;1,6 TDi 110 Sportback;158900;127.000;Stenløse;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-sportback/1759056
+Audi A6;2,0 TDi 140 Avant;39900;363.000;Haderslev;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140-avant/1759738
+Audi A3;2,0 TDi 150 Sport Sportback;154700;150.000;Vodskov;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback/1759773
+Audi A3;1,6 TDi 116 Sportback;199800;50.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sportback/1760255
+Audi A4;2,0 TDi 150 Avant Multitr.;137000;184.000;Egå;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-multitr/1760346
+Audi Q7;3,0 TDi 245 quattro Tiptr.;299900;197.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-245-quattro-tiptr/1760444
+Audi A4;2,0 TDi 150 Avant Multitr.;229989;109.000;Esbjerg;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-multitr/1760910
+Audi A3;1,6 TDi Ambiente Sportback;119999;191.000;Roskilde;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1761034
+Audi A4;2,0 TDi 170 Avant;47500;523.000;Kastrup;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-170-avant/1761295
+Audi A4;2,0 TDi 143 Multitr.;99900;233.000;Hillerød;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-multitr/1761382
+Audi A4;2,0 TDi 150 Avant Multitr.;154000;224.000;Ikast;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-multitr/1761403
+Audi A6;2,5 TDi 163 Avant Multitr.;16500;312.000;Hobro;2003;https://www.biltorvet.dk/bil/audi/a6/2-5-tdi-163-avant-multitr/1761537
+Audi A5;3,0 TDi 204 Coupé Multitr.;249900;92.000;Søndersø;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-204-coupe-multitr/1762129
+Audi A3;1,9 TDi Ambition Cabriolet;110000;218.000;Hillerød;2008;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-ambition-cabriolet/1762733
+Audi A3;2,0 TDi 140 Ambiente Sportback;44900;212.000;Holbæk;2006;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1763010
+Audi A4;2,0 TDI 140HK 6g;34900;407.000;Vodskov;2007;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-140hk-6g/1763424
+Audi A3;Sportback 1,6 TDI 116HK 5d 6g;219900;53.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-116hk-5d-6g/1763461
+Audi A3;Sportback 1,6 TDI 116HK 5d 6g;2132;53.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-116hk-5d-6g/1763462
+Audi A6;2,0 TDi 140 Avant;54700;342.000;Vodskov;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-140-avant/1763654
+Audi A6;2,7 TDi 190 Avant Multitr.;94500;324.000;Slagelse;2010;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-190-avant-multitr/1764848
+Audi A8;3,0 TDi 233 quattro Tiptr.;159900;199.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a8/3-0-tdi-233-quattro-tiptr/1765182
+Audi A3;1,9 TDi Ambiente Sportback;34900;328.000;Silkeborg;2007;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-ambiente-sportback/1765747
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;449900;154.000;Blommenslyst;2015;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1766123
+Audi Q3;2,0 TDI 150HK 5d 6g;217500;149.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150hk-5d-6g/1766213
+Audi Q3;2,0 TDI 150HK 5d 6g;2132;149.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150hk-5d-6g/1766214
+Audi SQ7;4,0 TDi quattro Tiptr. 7prs;1119800;73.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--7prs/1766838
+Audi A3;2,0 TDi 140 Ambition Sportback;99900;192.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambition-sportback/1768376
+Audi A6;2,0 TDi 177 Multitr.;189400;162.000;Kruså;2013;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-multitr/1768559
+Audi A4;2,0 TDi 143 Avant Multitr.;109700;247.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant-multitr/1768585
+Audi A3;2,0 TDi 140 Attraction Sportback;69700;208.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback/1768586
+Audi Q7;3,0 TDi 245 quattro Tiptr.;549900;46.000;Frederikshavn;2015;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-245-quattro-tiptr/1769483
+Audi A3;1,6 TDi Ambiente Sportback;108800;192.000;Vamdrup;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1769689
+Audi A1;1,6 TDi 116 Sportback;137000;87.752;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-116-sportback/1771031
+Audi A3;2,0 TDi 140 Ambiente Sportback;49500;284.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1771215
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;369900;187.000;Odense;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1771337
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;469800;179.000;Harlev;2016;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1771426
+Audi A5;2,0 TDi 150 Sportback;247000;87.000;Taastrup;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-150-sportback/1771636
+Audi A3;1,6 TDi Ambiente Sportback;99999;168.000;Holbæk;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1771971
+Audi A3;1,6 TDi 110 Ambition Sportback;124999;131.000;Odense;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambition-sportback/1772707
+Audi A4;2,0 TDi 143 Avant;94900;271.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant/1773218
+Audi A5;2,0 TDi 170 Sportback;123700;239.000;Herning;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-170-sportback/1773488
+Audi A3;2,0 TDi 150 Ambiente Sportback;129900;152.000;Køge;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambiente-sportback/1773639
+Audi A4;2,0 TDi 143 Avant Multitr.;119900;230.000;Vejen;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant-multitr/1774838
+Audi A4;2,0 TDi 120 Avant;74900;233.000;Vojens;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-120-avant/1774982
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;499800;78.000;Odense;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1776311
+Audi A5;2,0 TDi 190 Sportback Multitr.;249989;135.000;Esbjerg;2016;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-multitr/1776330
+Audi A5;2,0 TDi 170 Sportback;139400;196.000;Vojens;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-170-sportback/1776524
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;479900;91.000;Grindsted;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1776546
+Audi A1;1,4 TDi 90 Ultra Sportback;114900;95.000;Lejre;2016;https://www.biltorvet.dk/bil/audi/a1/1-4-tdi-90-ultra-sportback/1777455
+Audi A3;1,6 TDi 116 Sportback;194900;54.000;Slagelse;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sportback/1777867
+Audi A3;2,0 TDi 140 Ambiente Sportback;69800;204.000;Roskilde;2008;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1777907
+Audi SQ7;4,0 TDi quattro Tiptr.;1198800;69.000;Odense;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr/1777920
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;135000;125.000;Glostrup;2013;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1778063
+Audi A3;1,6 TDi Ambiente Sportback;59900;204.000;Kokkedal;2010;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1778202
+Audi A4;2,0 TDi 143 Avant Multitr.;89700;292.000;Vodskov;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant-multitr/1778519
+Audi A3;2,0 TDi 140 Ambiente Sportback;58700;269.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambiente-sportback/1778563
+Audi A4;2,0 TDi 136 Ultra;209989;131.000;Esbjerg;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-ultra/1779167
+Audi Q7;4,2 TDi 340 quattro Tiptr.;399900;185.000;Vejle;2014;https://www.biltorvet.dk/bil/audi/q7/4-2-tdi-340-quattro-tiptr/1779299
+Audi A3;1,6 TDi Ambiente Sportback;84700;178.000;Herning;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback/1779508
+Audi A4;2,0 TDi 136 Avant;129700;223.000;Vodskov;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1776911
+Audi A6;3,0 TDi 204 Multitr.;134700;298.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-multitr/1696915
+Audi A4;2,0 TDI 136HK 6g;119900;165.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136hk-6g/1761614
+Audi A6 Allroad;3,0 TDi 313 quattro Tiptr.;399900;106.000;Kolding;2012;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-313-quattro-tiptr/1429489
+Audi A3;1,6 TDi Ambiente Sportback S-tr.;147500;190.000;Gadstrup;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback-s-tr/1591536
+Audi Q7;3,0 TDI Quattro Tiptr. 272HK 5d 8g Aut.;750000;65.763;Køge;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-quattro-tiptr--272hk-5d-8g-aut/1636774
+Audi A3;2,0 TDi 150 Sport S-tr.;214700;76.000;Vodskov;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1669351
+Audi A4;2,0 TDi 150 Avant S-tr.;249900;149.000;Greve;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1676780
+Audi A6 Allroad;3,0 TDi 320 quattro Tiptr.;499800;132.000;Ribe;2016;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-320-quattro-tiptr/1712375
+Audi A6;40 TDi Sport Avant S-tr.;599900;7.000;Varde;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1719668
+Audi A3;Sportback 2,0 TDI DPF Ambition 140HK 5d 6g;114900;142.000;Hejnsvig;2012;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-dpf-ambition-140hk-5d-6g/1722141
+Audi A4;2,0 TDi 136 S-line Avant;163800;130.000;Aabybro;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line-avant/1744030
+Audi A3;1,6 TDi 116 Sport S-tr.;219800;146.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-s-tr/1756471
+Audi A6;2,0 TDi 177 S-line Avant;199700;130.000;Vodskov;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line-avant/1757142
+Audi Q5;2,0 TDi 190 S-tr.;529000;176.000;Vojens;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-tr/1760539
+Audi A3;2,0 TDi 184 Sport Sportback quattro S-tr.;247000;101.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-sport-sportback-quattro-s-tr/1774320
+Audi Q5;3,0 TDi 240 S-line quattro S-tr.;179900;243.000;Aabybro;2009;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-s-line-quattro-s-tr/1606417
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;489900;104.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1628534
+Audi A4;Avant 2,0 TDI S Tronic 150HK Stc 7g Aut.;214900;173.000;Gentofte;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-150hk-stc-7g-aut/1716602
+Audi A4 Allroad;2,0 TDi 190 quattro S-tr.;379900;111.000;Åbyhøj;2018;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tdi-190-quattro-s-tr/1746816
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;327000;72.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1775286
+Audi A4;Avant 40 2,0 TDI Quattro S-Tronic 190HK Stc;469900;41.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/a4/avant-40-2-0-tdi-quattro-s-tronic-190hk-stc/1775771
+Audi A4;2,0 TDi 190 Sport Avant quattro S-tr.;329800;117.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-quattro-s-tr/1747694
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;419800;58.000;Kjellerup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1750244
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;459800;112.000;Kjellerup;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1762204
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;419800;102.000;Kjellerup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1772040
+Audi A4;2,0 TDi 190 Avant S-tr.;259900;110.000;Horsens;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1583469
+Audi A6;3,0 TDi 326 Competition Avant quattro Tiptr.;549900;132.000;Roskilde;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-competition-avant-quattro-tiptr/1604013
+Audi Q7;3,0 TDI Quattro Tiptr. 218HK 5d 8g Aut.;579900;105.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-quattro-tiptr--218hk-5d-8g-aut/1638073
+Audi Q7;3,0 TDI Quattro Tiptr. 218HK 5d 8g Aut.;5567;105.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-quattro-tiptr--218hk-5d-8g-aut/1638075
+Audi A5;2,0 TDi 190 S-line Sportback quattro S-tr.;349800;34.000;Hillerød;2016;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-quattro-s-tr/1511410
+Audi A6;3,0 TDi 218 Avant S-tr.;329000;159.000;Kastrup;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-avant-s-tr/1677165
+Audi A6;2,0 TDi 190 Ultra S-tr.;346995;73.000;Kastrup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-tr/1677196
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;294900;105.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1626523
+Audi Q3;2,0 TDi 184 S-line quattro S-tr.;289900;108.000;Herfølge;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-184-s-line-quattro-s-tr/1653747
+Audi A6;40 TDi Sport Avant quattro S-tr.;674900;11.000;Engesvang;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-quattro-s-tr/1654077
+Audi A6;40 TDi Sport Avant quattro S-tr.;649900;11.000;Engesvang;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-quattro-s-tr/1654078
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;349900;141.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1665379
+Audi A4;Avant 2,0 TDI DPF Multitr. 143HK Stc Trinl. Gear;149900;166.000;Varde;2013;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-dpf-multitr--143hk-stc-trinl--gear/1702196
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;249900;143.000;Hillerød;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1721417
+Audi A5;2,0 TDi 190 S-line Sportback Multitr.;259900;92.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-multitr/1737049
+Audi A6;50 TDi S-line Avant quattro Tiptr;649900;43.000;Horsens;2019;https://www.biltorvet.dk/bil/audi/a6/50-tdi-s-line-avant-quattro-tiptr/1767377
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;286800;124.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1776712
+Audi A4;Avant 2,0 TDI S Tronic 150HK Stc 7g Aut.;209800;239.000;Løgumkloster;2017;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-150hk-stc-7g-aut/1777517
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;215000;245.000;Skærbæk;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1451096
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;329800;108.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1718714
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;529800;105.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1728772
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;949800;64.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1774020
+Audi A7;Sportback 3,0 TDI Quat S Tron 245HK 4d 7g Aut.;169000;95.000;Stenløse;2014;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-tdi-quat-s-tron-245hk-4d-7g-aut/1776579
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;629900;64.000;Storvorde;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1776595
+Audi A3;2,0 TDi 150 Ambition Sportback S-tr.;224700;49.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback-s-tr/1779408
+Audi A4;2,0 TDi 190 S-line Avant S-tr.;319900;129.000;Vojens;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-s-tr/1312133
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;429900;67.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1564875
+Audi A7;3,0 TDi 272 Sportback quattro S-tr.;699500;85.000;Tønder;2018;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-272-sportback-quattro-s-tr/1619076
+Audi A4 Allroad;40 TDi quattro S-tr.;499900;57.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a4-allroad/40-tdi-quattro-s-tr/1628533
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;429900;63.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1685354
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;875000;58.000;Odense;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1700610
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;260000;153.000;Gadstrup;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1741991
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;349800;139.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1747329
+Audi A5;2,0 TDi 177 S-line Sportback Multitr.;199500;219.000;Tønder;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-s-line-sportback-multitr/1751731
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;889900;29.000;Køge;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1769503
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;159900;215.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1771044
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;444900;73.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1776333
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;369990;87.000;Skanderborg;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1766264
+Audi Q5;2,0 TDI Sport Quat S Tron 190HK 5d 7g Aut.;465000;105.000;Struer;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-sport-quat-s-tron-190hk-5d-7g-aut/1600093
+Audi A6;3,0 TDi 272 Avant quattro S-tr.;459500;133.000;Vejle Øst;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-avant-quattro-s-tr/1648763
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;519800;130.000;Kjellerup;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1732535
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;339800;195.000;Kjellerup;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1773751
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;949800;46.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1774021
+Audi Q5;2,0 TDi 177 S-line quattro S-tr.;269900;181.000;Køge;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-s-line-quattro-s-tr/1473708
+Audi A4;2,0 TDi 190 S-line Avant Multitr.;247900;137.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-multitr/1586447
+Audi A4;2,0 TDi 177 Avant quattro S-tr.;219900;207.000;Højer;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-avant-quattro-s-tr/1619671
+Audi A3;2,0 TDi 150 Sport Cabriolet S-tr.;365800;43.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-cabriolet-s-tr/1632314
+Audi A3;35 TDi Sport Limited Sportback S-tr.;289700;39.000;Hjørring;2019;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1682266
+Audi Q5;3,0 TDi 245 S-line quattro S-tr.;271000;216.000;Mørkøv;2012;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-s-line-quattro-s-tr/1701785
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;299700;113.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1720541
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;319900;150.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1753560
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;329500;95.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1766326
+Audi A6;2,0 TDi 190 Ultra S-line S-tr.;299800;122.000;Stenløse;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-s-tr/1766385
+Audi A3;2,0 TDi 150 Sport Cabriolet S-tr.;359900;49.000;Hjørring;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-cabriolet-s-tr/1768526
+Audi A6;3,0 TDi 204 S-line Avant quattro S-tr.;349900;143.000;Vojens;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-s-line-avant-quattro-s-tr/1179732
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;299900;93.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1575476
+Audi A6;Avant 2,0 TDI Sport S Tronic 204HK Stc 7g Aut.;509900;23.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-sport-s-tronic-204hk-stc-7g-aut/1592053
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;339800;86.000;Billund;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1598004
+Audi A6;3,0 TDi 218 S-line Avant quattro S-tr.;429900;102.000;Hillerød;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-quattro-s-tr/1625578
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;259900;145.000;Greve;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1676815
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;929800;68.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1733329
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;439900;46.000;Åbyhøj;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1740134
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;329000;123.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1740557
+Audi Q5;3,0 TDi 245 S-line quattro S-tr.;299900;150.000;Fredericia;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-s-line-quattro-s-tr/1759011
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;339800;102.000;Køge;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1774991
+Audi A4;2,0 TDI Edition Plus S Tronic 150HK 6g Aut.;299900;128.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-edition-plus-s-tronic-150hk-6g-aut/1624463
+Audi A7;3,0 TDi 313 S-line Sportback quattro Tiptr.;419800;121.000;Kastrup;2013;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-313-s-line-sportback-quattro-tiptr/1654690
+Audi A6;3,0 TDi 320 S-line Avant quattro Tiptr.;519500;129.000;Vejle Øst;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-s-line-avant-quattro-tiptr/1694045
+Audi A6 Allroad;3,0 TDI Quat S Tron 218HK Stc 7g Aut.;359900;187.000;Hedensted;2016;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-quat-s-tron-218hk-stc-7g-aut/1492207
+Audi A6;3,0 TDi 245 S-line Avant quattro Tiptr.;349900;129.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-s-line-avant-quattro-tiptr/1628525
+Audi A5;3,0 TDi 245 Sportback quattro S-tr.;249600;145.000;Taastrup;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-245-sportback-quattro-s-tr/1640339
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;289900;178.000;Tønder;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1669346
+Audi A6 Allroad;3,0 TDi 204 quattro S-tr.;299999;195.000;Næstved;2014;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-204-quattro-s-tr/1684892
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;354900;76.000;Søborg;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1691836
+Audi A6;Avant 3,0 V6 TDI Quattro Tiptr. 225HK Stc Aut.;83500;311.000;Vodskov;2006;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-v6-tdi-quattro-tiptr--225hk-stc-aut/1693096
+Audi A3;2,0 TDi 150 S-line Sportback S-tr.;279900;107.000;Tønder;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-s-line-sportback-s-tr/1718687
+Audi A6;Avant 3,0 TDI Multitr. 204HK Stc 8g Trinl. Gear;189900;335.000;Hjallerup;2014;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-multitr--204hk-stc-8g-trinl--gear/1726292
+Audi A3;2,0 TDi 184 Ambiente Sportback quattro S-tr.;229800;124.000;Frederikshavn;2013;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-ambiente-sportback-quattro-s-tr/1730026
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;349900;113.000;Daugård;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1735564
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;377500;86.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1737364
+Audi A6;2,0 TDi 177 S-line Avant Multitr.;239900;150.000;Langå;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line-avant-multitr/1740913
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;139800;300.000;Odense;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1742865
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;349900;62.000;Hjørring;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1744380
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;349800;109.000;Thisted;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1748145
+Audi A4;2,0 TDi 143 S-line Avant Multitr.;109900;299.000;Silkeborg;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant-multitr/1748367
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;349900;110.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1748992
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;249800;147.000;Bramming;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1752670
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;279900;58.000;Hørsholm;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1760696
+Audi A4;Avant 2,0 TDI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;284900;106.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1769861
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;339800;116.000;Ribe;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1772039
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;369700;130.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1776671
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;389900;64.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1777428
+Audi A4 Allroad;2,0 TDI Quat S Tron 190HK Stc 7g Aut.;299900;75.000;Ballerup;2015;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tdi-quat-s-tron-190hk-stc-7g-aut/1208534
+Audi SQ5;3,0 biturbo TDI Quattro Tiptr. 326HK 5d 8g Aut.;719100;27.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-biturbo-tdi-quattro-tiptr--326hk-5d-8g-aut/1556883
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;599900;92.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1745450
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;599900;100.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1747985
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;939900;63.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1754707
+Audi A4;Avant 2,0 TDI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;309800;95.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1760231
+Audi A6;3,0 TDi 218 S-line Avant quattro S-tr.;429900;120.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-quattro-s-tr/1770749
+Audi A7;Sportback 3,0 biturbo TDI Quattro Tiptr. 313HK 4d 8g Aut.;317500;202.000;Tørring;2013;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-biturbo-tdi-quattro-tiptr--313hk-4d-8g-aut/1548359
+Audi Q5;3,0 TDi 286 S-line quattro Tiptr.;674800;104.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-286-s-line-quattro-tiptr/1757482
+Audi A6;3,0 TDi 245 quattro S-tr.;285000;219.000;Sønder Omme;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-quattro-s-tr/823963
+Audi A6;2,0 TDI Multitr. 177HK 8g Trinl. Gear;249800;149.000;Ribe;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-multitr--177hk-8g-trinl--gear/1076232
+Audi Q5;2,0 TDI DPF Quattro 143HK 5d 6g;249800;112.000;Ribe;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-dpf-quattro-143hk-5d-6g/1282157
+Audi A3;Sportback 2,0 TDI DPF Ambiente 140HK Stc 6g;79900;239.000;Ribe;2012;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-dpf-ambiente-140hk-stc-6g/1309700
+Audi A3;Sportback 1,6 TDI DPF Ambition 105HK Stc;84900;198.000;Vojens;2010;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-dpf-ambition-105hk-stc/1360865
+Audi A5;Sportback 3,0 TDI Quattro 245HK 5d 6g;244900;148.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/a5/sportback-3-0-tdi-quattro-245hk-5d-6g/1386230
+Audi A1;Sportback 1,6 TDI DPF Ambition 90HK 5d;107700;130.000;Sorring;2014;https://www.biltorvet.dk/bil/audi/a1/sportback-1-6-tdi-dpf-ambition-90hk-5d/1444756
+Audi Q2;1,6 TDI S Tronic 116HK 5d 7g Aut.;289800;13.000;Ribe;2019;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-s-tronic-116hk-5d-7g-aut/1467581
+Audi A6;2,7 TDi S-line Avant Tiptr.;69400;285.000;Kruså;2006;https://www.biltorvet.dk/bil/audi/a6/2-7-tdi-s-line-avant-tiptr/1475871
+Audi A6;2,0 TDI Multitr. 177HK 8g Trinl. Gear;194900;218.000;Randers;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-multitr--177hk-8g-trinl--gear/1526440
+Audi A4;3,0 V6 TDI DPF Quattro 240HK 6g;169900;237.000;Ballerup;2008;https://www.biltorvet.dk/bil/audi/a4/3-0-v6-tdi-dpf-quattro-240hk-6g/1556466
+Audi A4;2,0 TDi 150 Avant S-tr.;255800;106.000;Slagelse;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1556983
+Audi A4;2,0 TDi 190 Avant S-tr.;239700;185.000;Holmegaard;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1570392
+Audi Q5;3,0 TDi 245 quattro S-tr.;209900;222.000;Give;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1600634
+Audi A6;40 TDi Avant S-tr.;549900;38.000;Køge;2020;https://www.biltorvet.dk/bil/audi/a6/40-tdi-avant-s-tr/1610340
+Audi A6;3,0 TDi 245 quattro S-tr.;65000;297.000;Sønderborg;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-quattro-s-tr/1612634
+Audi Q5;2,0 TDi 190 quattro S-tr.;499900;68.000;Sulsted;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1613014
+Audi A4;2,0 TDi 140 S-line Avant;49900;425.000;Them;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-140-s-line-avant/1613074
+Audi Q5;2,0 TDi 177 quattro S-tr.;249900;215.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-quattro-s-tr/1613950
+Audi Q5;2,0 TDi 190 Business S-tr.;369900;66.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-business-s-tr/1618347
+Audi A3;Sportback 2,0 TDI DPF Ambition 150HK Stc 6g;114880;190.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-dpf-ambition-150hk-stc-6g/1618538
+Audi Q3;2,0 TDi 150 quattro S-tr.;289989;79.000;Esbjerg;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-quattro-s-tr/1631523
+Audi A6;3,0 TDi 218 Avant S-tr.;369800;105.000;Holstebro;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-avant-s-tr/1633753
+Audi A6;3,0 TDi 326 Competition Avant quattro Tiptr.;606900;121.000;Viby;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-competition-avant-quattro-tiptr/1634445
+Audi A4;40 TDi Sport Avant S-tr.;374900;85.000;Ikast;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1641431
+Audi Q7;3,0 V6 TDI Quattro 240HK 5d 6g Aut.;217500;251.000;Tørring;2010;https://www.biltorvet.dk/bil/audi/q7/3-0-v6-tdi-quattro-240hk-5d-6g-aut/1642136
+Audi A4;2,0 TDI Sport S Tronic 190HK Aut.;270000;118.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-sport-s-tronic-190hk-aut/1650027
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;3365;85.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1650069
+Audi A4;2,0 TDi 136 S-line;169900;189.000;Thyborøn;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line/1651525
+Audi A3;2,0 TDi 150 Sport S-tr.;249900;88.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1653176
+Audi A4;2,0 TDI Sport S Tronic 190HK Aut.;245000;169.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-sport-s-tronic-190hk-aut/1653272
+Audi A4;2,0 TDI Sport S Tronic 190HK Aut.;2484;169.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-sport-s-tronic-190hk-aut/1653275
+Audi A6;3,0 TDi 218 S-tr.;339900;106.000;Engesvang;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-tr/1654122
+Audi Q3;2,0 TDi 177 quattro S-tr.;164700;212.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-177-quattro-s-tr/1654515
+Audi A4;Avant 2,0 TDI DPF 143HK Stc 6g;78500;234.000;Søndersø;2009;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-dpf-143hk-stc-6g/1658453
+Audi Q5;2,0 TDi 190 quattro S-tr.;259700;170.000;Vodskov;2015;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1659871
+Audi A3;2,0 TDi 150 Ambition S-tr.;219900;64.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-s-tr/1661096
+Audi Q5;3,0 TDi 240 quattro S-tr.;199500;259.000;Tønder;2008;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-quattro-s-tr/1663051
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;352500;85.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1663728
+Audi A6;Avant 2,0 TDI Multitr. 177HK Stc 8g Aut.;209900;185.000;Brøndby;2013;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-multitr--177hk-stc-8g-aut/1664998
+Audi Q5;3,0 TDi 258 quattro S-tr.;299800;187.000;Holstebro;2017;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-258-quattro-s-tr/1673645
+Audi A4;40 TDi Sport Avant S-tr.;389900;46.000;Brøndby;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1674960
+Audi A6;3,0 TDI S Tronic 218HK 7g Aut.;314940;132.000;Hadsund;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-s-tronic-218hk-7g-aut/1679486
+Audi A4;2,0 TDI Sport S Tronic 190HK Aut.;2661;117.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-sport-s-tronic-190hk-aut/1681079
+Audi Q5;2,0 TDI S Tronic 190HK 5d Aut.;369800;146.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-s-tronic-190hk-5d-aut/1682660
+Audi Allroad;3,0 TDI Quattro Tiptr. 233HK Stc 6g Aut.;109900;284.000;Randers;2006;https://www.biltorvet.dk/bil/audi/allroad/3-0-tdi-quattro-tiptr--233hk-stc-6g-aut/1684977
+Audi A4;40 TDi Advanced Avant S-tr.;399900;34.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-advanced-avant-s-tr/1687322
+Audi A4;2,0 TDi S-line Avant;59900;269.000;Jægerspris;2006;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-s-line-avant/1690129
+Audi Q5;3,0 TDi 240 quattro S-tr.;199900;162.000;Kalundborg;2010;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-quattro-s-tr/1690962
+Audi A4;Avant 2,0 TDI S Tronic 150HK Stc;269900;110.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-150hk-stc/1691023
+Audi A3;2,0 TDi 140 Attraction S-tr.;79900;197.000;Rødekro;2010;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-s-tr/1696499
+Audi A6;2,0 TDi 170 S-line Avant;119900;255.000;Silkeborg;2011;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-170-s-line-avant/1697642
+Audi Q5;3,0 TDi 245 quattro S-tr.;349980;131.000;Næstved;2015;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1698107
+Audi Q5;2,0 TDi 190 quattro S-tr.;439800;158.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1699960
+Audi A4;2,0 TDi 150 S-line Multitr.;179900;189.000;Grindsted;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-multitr/1700622
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;362500;61.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1702044
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;3453;61.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1702045
+Audi A6;40 TDi Avant S-tr.;469800;84.000;Sønderborg;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-avant-s-tr/1705355
+Audi A6;3,0 TDi 218 Avant S-tr.;329900;102.000;Haderslev;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-avant-s-tr/1706856
+Audi A6;3,0 TDi 326 Competition Avant quattro Tiptr.;639900;52.000;Ølstykke;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-326-competition-avant-quattro-tiptr/1707489
+Audi A6;3,0 TDi 204 quattro S-tr.;179900;253.000;Randers;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-quattro-s-tr/1709736
+Audi A4;2,0 TDi 136 S-line Avant;134700;198.000;Taastrup;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line-avant/1709913
+Audi Q7;3,0 TDI Quattro Tiptr. 272HK 8g Aut.;854800;82.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-quattro-tiptr--272hk-8g-aut/1711975
+Audi SQ7;4,0 TDI Quattro Tiptr. 435HK 5d 8g Aut.;1198000;9.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/sq7/4-0-tdi-quattro-tiptr--435hk-5d-8g-aut/1712002
+Audi A4;40 TDi Sport Avant S-tr.;329900;146.000;Brøndby;2018;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1712339
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;312500;122.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1712731
+Audi A6;2,0 TDI S Tronic 190HK 7g Aut.;3013;122.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-s-tronic-190hk-7g-aut/1712732
+Audi Q5;2,0 TDi 190 quattro S-tr.;269900;178.000;Ballerup;2016;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1713504
+Audi Q5;2,0 TDi 170 quattro S-tr.;239800;133.000;Holsted;2010;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-170-quattro-s-tr/1713699
+Audi A3;Sportback 2,0 TDI Ambiente 140HK 5d 6g;79900;174.000;Nykøbing F;2010;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-ambiente-140hk-5d-6g/1713718
+Audi Q3;2,0 TDi 177 quattro S-tr.;259900;85.000;Vejle;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-177-quattro-s-tr/1716458
+Audi A3;2,0 TDi 150 Sport S-tr.;219900;138.000;Brøndby;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1724050
+Audi A3;1,6 TDi Ambiente S-tr.;174800;99.000;Ballerup;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-s-tr/1724456
+Audi A4;2,0 TDi 150 Avant S-tr.;234900;138.000;Ballerup;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1726072
+Audi Q5;2,0 TDi 170 quattro S-tr.;249800;131.000;Kjellerup;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-170-quattro-s-tr/1728744
+Audi A6 Allroad;3,0 TDi 320 quattro Tiptr.;439800;173.000;Christiansfeld;2015;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-320-quattro-tiptr/1730605
+Audi A5;3,0 TDI Quattro Tiptr. 240HK 2d 6g Aut.;169900;253.000;Dianalund;2009;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-quattro-tiptr--240hk-2d-6g-aut/1731406
+Audi A4;40 TDi Sport Avant S-tr.;374900;62.000;Grindsted;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1732206
+Audi A3;2,0 TDI Ambiente S Tronic 150HK Aut.;199900;148.000;Randers;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-ambiente-s-tronic-150hk-aut/1732296
+Audi A3;1,6 TDi Ambiente S-tr.;184800;107.000;Farum;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-s-tr/1732508
+Audi A6;40 TDi Sport Avant S-tr.;519900;42.000;Grindsted;2019;https://www.biltorvet.dk/bil/audi/a6/40-tdi-sport-avant-s-tr/1733146
+Audi Q5;2,0 TDi 177 quattro S-tr.;329900;145.000;Storvorde;2015;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-quattro-s-tr/1735289
+Audi A6;3,0 TDi 204 S-line Multitr.;239900;135.000;Fredericia;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-s-line-multitr/1735917
+Audi Q5;2,0 TDi 190 quattro S-tr.;469700;113.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1736934
+Audi A6;2,0 TDi 177 S-line;204900;113.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line/1741356
+Audi A3;2,0 TDi 150 Ambition S-tr.;209900;95.000;Køge;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-s-tr/1742454
+Audi A4;2,0 TDi 150 Avant S-tr.;224900;157.000;Stenløse;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1742744
+Audi A3;35 TDi Sport Sportback S-tr.;254775;91.000;Svinninge;2018;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-sportback-s-tr/1745179
+Audi A4;2,0 TDi S-line Avant;44800;257.000;Kjellerup;2006;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-s-line-avant/1745282
+Audi Q2;1,6 TDi 116 Sport S-tr.;249990;105.000;Ølstykke;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1747384
+Audi A4;2,0 TDi 140 S-line Avant;35900;299.000;Silkeborg;2007;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-140-s-line-avant/1749704
+Audi A6;3,0 TDi 218 quattro S-tr.;499900;75.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-quattro-s-tr/1750025
+Audi A6;2,0 TDi 170 S-line;179900;42.000;Vejle;2011;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-170-s-line/1752108
+Audi A4;2,0 TDi 150 Sport S-tr.;249800;170.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-s-tr/1752343
+Audi A4;2,0 TDi 136 S-line Avant;164995;174.000;Kastrup;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line-avant/1752749
+Audi Q3;2,0 TDi 177 quattro S-tr.;239900;110.000;Vejle;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-177-quattro-s-tr/1755953
+Audi Q2;1,6 TDi 116 Sport S-tr.;229700;149.000;Vodskov;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1759161
+Audi Q2;1,6 TDi 116 Sport S-tr.;249900;68.000;Horsens;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1759566
+Audi A4;2,0 TDi 190 Avant S-tr.;289900;136.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-avant-s-tr/1760145
+Audi A3;1,6 TDi Ambition S-tr.;149900;198.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition-s-tr/1761342
+Audi A6;3,0 TDi 218 S-tr.;349900;152.000;Ishøj;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-tr/1761873
+Audi A7;3,0 TDi 218 Sportback S-tr.;399900;161.000;Søndersø;2016;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-218-sportback-s-tr/1762070
+Audi Q5;3,0 TDi 245 quattro S-tr.;349800;178.000;Kjellerup;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1762274
+Audi A4;2,0 TDi 136 S-line;159700;143.000;Gislinge;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line/1763501
+Audi Q5;3,0 TDi 245 quattro S-tr.;259700;172.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1763570
+Audi A4;2,0 TDi 150 Sport S-tr.;249900;172.000;Hornsyld;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-s-tr/1764445
+Audi A7;Sportback 3,0 TDI Multitr. 204HK 4d 6g Aut.;239700;277.000;Vejen;2012;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-tdi-multitr--204hk-4d-6g-aut/1765477
+Audi Q3;2,0 TDi 150 S-tr.;267000;111.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-s-tr/1765810
+Audi A4;2,0 TDi 177 S-line;144800;178.000;Farum;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-s-line/1766199
+Audi A3;2,0 TDi Ambiente Sportback S-tr.;64700;279.000;Vodskov;2009;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-ambiente-sportback-s-tr/1766772
+Audi A4;2,0 TDi 150 Avant S-tr.;279800;142.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1768563
+Audi Q2;1,6 TDi 116 Sport S-tr.;244880;89.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1769456
+Audi A4;40 TDi Sport Avant S-tr.;369900;73.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a4/40-tdi-sport-avant-s-tr/1769963
+Audi Q2;1,6 TDi 116 Sport S-tr.;259900;75.000;Holstebro;2017;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-116-sport-s-tr/1770179
+Audi A5;2,0 TDi 190 Sportback S-tr.;299900;179.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-s-tr/1771126
+Audi A3;1,6 TDi Ambiente Sportback S-tr.;72700;278.000;Vodskov;2012;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambiente-sportback-s-tr/1771473
+Audi Q5;3,0 TDi 240 quattro S-tr.;129900;349.000;Silkeborg;2010;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-quattro-s-tr/1772193
+Audi A4;2,0 TDi 150 S-line Multitr.;219900;134.000;Brørup;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-multitr/1772483
+Audi A3;2,0 TDi 150 Sport S-tr.;289900;52.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1772669
+Audi A3;2,0 TDi 150 Sport S-tr.;259900;68.000;Ishøj;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-s-tr/1773511
+Audi A6;2,0 TDi 190 Ultra S-tr.;317000;107.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-tr/1774401
+Audi A6;2,0 TDi 190 Ultra S-tr.;279900;86.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-tr/1778408
+Audi A4;2,0 TDi 136 S-line Avant;159800;131.000;Ballerup;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-s-line-avant/1778857
+Audi A4;2,0 TDi 150 Avant S-tr.;314900;13.000;Nørresundby;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1778964
+Audi A6;3,0 TDi 218 Avant S-tr.;309900;172.000;Hedensted;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-avant-s-tr/1779584
+Audi Q5;2,0 TDi 190 quattro S-tr.;484900;71.000;Hjørring;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1779785
+Audi A6 Allroad;3,0 TDi 313 quattro Tiptr.;130000;159.000;Glostrup;2012;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-313-quattro-tiptr/1779881
+Audi A4;2,0 TDi 150 Avant S-tr.;239400;125.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1702993
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;349900;76.000;Vojens;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1389315
+Audi A7;Sportback 3,0 biturbo TDI Quattro Tiptr. 313HK 4d 8g Aut.;4395;202.000;Tørring;2013;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-biturbo-tdi-quattro-tiptr--313hk-4d-8g-aut/1548362
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;359900;72.000;Varde;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1581966
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;234800;150.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1629373
+Audi Q2;1,6 TDI Sport S Tronic 116HK 5d 7g Aut.;257500;71.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-sport-s-tronic-116hk-5d-7g-aut/1650071
+Audi A4;Avant 2,0 TDI S Tronic 190HK Stc 7g Aut.;265000;167.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-190hk-stc-7g-aut/1663866
+Audi A4;Avant 2,0 TDI S Tronic 190HK Stc 7g Aut.;2837;167.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-190hk-stc-7g-aut/1663872
+Audi Q3;2,0 TDi 177 S-line quattro S-tr.;249500;103.000;Vejle Øst;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-177-s-line-quattro-s-tr/1664944
+Audi Q5;2,0 TDi 177 S-line quattro S-tr.;329900;67.000;Varde;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-177-s-line-quattro-s-tr/1664980
+Audi A6;3,0 TDi 320 S-line Avant quattro Tiptr.;479900;86.000;Varde;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-s-line-avant-quattro-tiptr/1666158
+Audi A7;3,0 TDi 204 Sportback quattro S-tr.;304500;175.000;Tønder;2012;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-204-sportback-quattro-s-tr/1670952
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;859900;62.000;Varde;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1679389
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;879900;42.000;Varde;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1683203
+Audi Q2;1,6 TDI Sport S Tronic 116HK 5d 7g Aut.;2572;71.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-sport-s-tronic-116hk-5d-7g-aut/1688748
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;369500;165.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1692134
+Audi A6 Allroad;3,0 TDi 245 quattro S-tr.;230000;186.000;København;2013;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-245-quattro-s-tr/1708504
+Audi A5;2,0 TDi 150 S-line Sportback Multitr.;264900;96.000;Kolding;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-150-s-line-sportback-multitr/1709584
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;329900;75.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1715618
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;469800;79.000;Thisted;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1722053
+Audi A4 Allroad;2,0 TDi 190 quattro S-tr.;419900;72.000;København;2018;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tdi-190-quattro-s-tr/1722727
+Audi Q3;2,0 TDi 184 S-line quattro S-tr.;309900;125.000;Varde;2016;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-184-s-line-quattro-s-tr/1726476
+Audi A4;2,0 TDi 150 S-line Avant S-tr.;314800;135.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-s-tr/1730793
+Audi Q3;2,0 TDi 140 S-line quattro S-tr.;229900;157.000;Them;2014;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-140-s-line-quattro-s-tr/1735823
+Audi A3;1,6 TDi 116 Sport Sportback S-tr.;244900;89.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback-s-tr/1736218
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;3541;86.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1737365
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;579900;88.000;Odense;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1740262
+Audi A3;2,0 TDi 150 Ambition Sportback S-tr.;183000;111.000;Havdrup;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback-s-tr/1740379
+Audi A6 Allroad;3,0 TDi 272 quattro S-tr.;524800;134.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-272-quattro-s-tr/1740807
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;289800;170.000;Kjellerup;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1741710
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;519900;99.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1742702
+Audi A7;3,0 TDi 245 Sportback quattro S-tr.;289900;180.000;Varde;2012;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-245-sportback-quattro-s-tr/1745717
+Audi A6;3,0 TDI Sport Prestige Quattro Tiptr. 286HK 8g Trinl. Gear;569900;54.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-sport-prestige-quattro-tiptr--286hk-8g-trinl--gear/1745898
+Audi A4;2,0 TDi 177 S-line Avant Multitr.;189900;158.000;Hillerød;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-s-line-avant-multitr/1750616
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;399800;85.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1752525
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;729900;155.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1761681
+Audi A4;Avant 2,0 TDI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;2661;106.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1769862
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;329900;118.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1772333
+Audi A6;3,0 TDi S-line Avant quattro Tiptr;49900;315.000;Ans By;2007;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-s-line-avant-quattro-tiptr/1776529
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;3629;64.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1777429
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;649900;61.000;Varde;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1779120
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;629900;72.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1625619
+Audi A5;2,0 TDi 190 S-line Coupé quattro S-tr.;379900;78.000;Svenstrup;2016;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-coupe-quattro-s-tr/1714303
+Audi A4;Avant 2,0 TDI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;299900;122.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1600208
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;359900;102.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1605869
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;1025000;47.000;Varde;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1698864
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;339800;112.000;Kjellerup;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1756746
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;979800;70.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1762481
+Audi A5;2,0 TDi 190 S-line Sportback S-tr.;499900;76.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-s-tr/1625606
+Audi A6;Avant 3,0 biturbo TDI Quattro Tiptr. 320HK Stc 8g Aut.;498900;134.000;Struer;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-biturbo-tdi-quattro-tiptr--320hk-stc-8g-aut/1643834
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;854800;94.000;Esbjerg;2018;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1765071
+Audi A6;3,0 TDi 320 S-line Avant quattro Tiptr.;449895;86.000;Glostrup;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-s-line-avant-quattro-tiptr/1772949
+Audi A3;Sportback 1,6 TDI Sport Limited Edition S Tronic 116HK 5d 7g Aut.;289800;30.000;Nørre Snede;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-sport-limited-edition-s-tronic-116hk-5d-7g-aut/1602474
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;479900;120.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1625614
+Audi A4;Avant 2,0 TDI S Tronic 190HK Stc 7g Aut.;279800;116.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-190hk-stc-7g-aut/1734009
+Audi A4;Avant 2,0 TDI Sport S Tronic 150HK Stc 7g Aut.;289800;124.000;Nørre Snede;2017;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-sport-s-tronic-150hk-stc-7g-aut/1741373
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;489900;25.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1770201
+Audi A4;Avant 2,0 TDI D Sport Edition Plus S Tronic 190HK Stc 7g Aut.;325000;46.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-d-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1732705
+Audi A3;Sportback 1,6 TDI DPF Ambition S Tronic 105HK Stc Aut.;104900;155.000;Ribe;2011;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-dpf-ambition-s-tronic-105hk-stc-aut/730783
+Audi Q7;4,2 TDI DPF Quattro Tiptr. 340HK 5d 6g Aut.;399000;113.000;Karrebæksminde;2010;https://www.biltorvet.dk/bil/audi/q7/4-2-tdi-dpf-quattro-tiptr--340hk-5d-6g-aut/936438
+Audi A6;3,0 TDi 204 S-line Avant Multitr.;319900;113.000;Svenstrup;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-s-line-avant-multitr/1105571
+Audi Q3;2,0 TDi 177 S-line quattro S-tr.;269900;145.000;Svenstrup;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-177-s-line-quattro-s-tr/1105582
+Audi A5;2,0 TDi 177 S-line Sportback Multitr.;249900;136.000;Svenstrup;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-s-line-sportback-multitr/1105590
+Audi A5;3,0 TDi 245 Coupé quattro S-tr.;257000;270.000;Vodskov;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-245-coupe-quattro-s-tr/1117022
+Audi A4;Avant 2,0 TDI Multitr. 150HK Stc 8g Trinl. Gear;249900;82.955;Ribe;2015;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-multitr--150hk-stc-8g-trinl--gear/1198401
+Audi A7;Sportback 3,0 TDI Quat S Tron 245HK 4d 7g Aut.;389800;70.000;Ribe;2014;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-tdi-quat-s-tron-245hk-4d-7g-aut/1275778
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;389900;42.000;Vojens;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1334988
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;349900;76.000;Vojens;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1348254
+Audi A4;Avant 3,0 TDI Sport S Tronic 218HK Stc 7g Aut.;429800;113.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/a4/avant-3-0-tdi-sport-s-tronic-218hk-stc-7g-aut/1372888
+Audi A4;2,0 TDi 190 Sport Avant quattro S-tr.;349900;53.000;Ikast;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-quattro-s-tr/1440402
+Audi A4;Avant 3,0 TDI Sport S Tronic 218HK Stc 7g Aut.;314900;115.000;Spentrup;2016;https://www.biltorvet.dk/bil/audi/a4/avant-3-0-tdi-sport-s-tronic-218hk-stc-7g-aut/1450931
+Audi Q2;1,6 TDI Sport S Tronic 116HK 5d 7g Aut.;309800;5.000;Ribe;2019;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-sport-s-tronic-116hk-5d-7g-aut/1491289
+Audi A4;2,0 TDi 190 S-line Avant S-tr.;299900;128.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-s-tr/1524616
+Audi A5;3,0 TDi 240 Cabriolet quattro S-tr;249900;182.000;Hørsholm;2010;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-240-cabriolet-quattro-s-tr/1531732
+Audi A6;Avant 3,0 TDI S Tronic 218HK Stc 7g Aut.;272500;175.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-s-tronic-218hk-stc-7g-aut/1539663
+Audi A6;Avant 3,0 TDI S Tronic 218HK Stc 7g Aut.;2837;175.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-s-tronic-218hk-stc-7g-aut/1539687
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;189800;150.000;Vallensbæk;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1543926
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;259900;165.000;Køge;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1544866
+Audi A4;3,0 TDi 272 S-line Avant quattro Tiptr.;499900;93.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-s-line-avant-quattro-tiptr/1564515
+Audi A6;Avant 3,0 biturbo TDI Competition Quattro Tiptr. 313HK Stc;399900;176.404;Skærbæk;2013;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-biturbo-tdi-competition-quattro-tiptr--313hk-stc/1567774
+Audi A6;3,0 TDi 272 Avant quattro S-tr.;439900;93.000;Varde;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-avant-quattro-s-tr/1568953
+Audi A6;Avant 2,7 TDI DPF Multitr. 180HK Stc Trinl. Gear;45000;360.000;Tørring;2006;https://www.biltorvet.dk/bil/audi/a6/avant-2-7-tdi-dpf-multitr--180hk-stc-trinl--gear/1573835
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;269900;112.000;Ishøj;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1581776
+Audi Q5;2,0 TDI Quat S Tron 190HK 5d 7g Aut.;580000;53.000;Nakskov;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-quat-s-tron-190hk-5d-7g-aut/1598315
+Audi A5;3,0 TDi 204 S-line Sportback Multitr.;309900;126.000;Hørsholm;2014;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-204-s-line-sportback-multitr/1603932
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;169900;156.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1613510
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;699900;27.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1616417
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;599321;80.000;Farsø;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1619219
+Audi A5;3,0 TDi 245 Sportback quattro S-tr.;269900;81.000;Holstebro;2013;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-245-sportback-quattro-s-tr/1621147
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;309800;117.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1623659
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;362500;58.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1624593
+Audi Q5;2,0 TDI Sport Quat S Tron 190HK 5d 7g Aut.;442500;69.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-sport-quat-s-tron-190hk-5d-7g-aut/1624638
+Audi A6;3,0 TDi 218 S-line Avant quattro S-tr.;359900;211.000;Svenstrup;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-quattro-s-tr/1625596
+Audi A6;45 TDi S-line Avant quattro Tiptr;639900;134.000;Svenstrup;2019;https://www.biltorvet.dk/bil/audi/a6/45-tdi-s-line-avant-quattro-tiptr/1625609
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;355780;75.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1626111
+Audi A5;3,0 TDi 240 Cabriolet quattro S-tr;209800;245.000;Birkerød;2010;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-240-cabriolet-quattro-s-tr/1626558
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;239500;109.000;Slagelse;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1628863
+Audi A6;2,0 TDi 190 Ultra Avant quattro S-tr;406900;95.000;Viby;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-quattro-s-tr/1634496
+Audi A6;Avant 2,0 TDI Sport S Tronic 204HK Stc 7g Aut.;580000;38.237;Køge;2020;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-sport-s-tronic-204hk-stc-7g-aut/1636776
+Audi A4;40 TDi S-line Avant S-tr.;459900;33.000;Brøndby;2020;https://www.biltorvet.dk/bil/audi/a4/40-tdi-s-line-avant-s-tr/1637880
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;329900;94.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1638318
+Audi A5;2,0 TDi 190 Sportback quattro S-tr.;399000;53.000;Rødovre;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-quattro-s-tr/1639357
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;849900;48.000;Sulsted;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1639694
+Audi A4;2,0 TDi 190 Sport Avant quattro S-tr.;319800;119.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-quattro-s-tr/1641239
+Audi Q5;2,0 TDI DPF Quat S Tron 170HK 5d 6g Aut.;177500;215.000;Tørring;2010;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-dpf-quat-s-tron-170hk-5d-6g-aut/1642646
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;514900;73.000;Randers;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1643370
+Audi A6;3,0 TDi 320 S-line Avant quattro Tiptr.;549900;107.000;Middelfart;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-s-line-avant-quattro-tiptr/1646458
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;339900;87.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1649423
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;279800;182.000;Haderslev;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1650517
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;719500;121.000;Nørresundby;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1652273
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;169900;84.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1652681
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;324900;118.000;Engesvang;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1654084
+Audi A6;3,0 TDi 245 S-line Avant quattro S-tr.;299900;151.000;Engesvang;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-s-line-avant-quattro-s-tr/1654085
+Audi A5;2,0 TDi 190 S-line Sportback Multitr.;249900;125.000;Herning;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-multitr/1656392
+Audi A5;Sportback 2,0 TDI Sport S Tronic 190HK 5d 7g Aut.;3541;58.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-sport-s-tronic-190hk-5d-7g-aut/1663532
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;299900;151.000;Engesvang;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1664181
+Audi Q5;2,0 TDI Quat S Tron 190HK 5d 7g Aut.;484990;86.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-quat-s-tron-190hk-5d-7g-aut/1664898
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;399900;48.000;Varde;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1665096
+Audi A6;3,0 TDi 320 S-line Avant quattro Tiptr.;419900;179.000;Varde;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-320-s-line-avant-quattro-tiptr/1665300
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;349900;125.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1665524
+Audi Q5;2,0 TDI Sport Quat S Tron 190HK 5d 7g Aut.;4157;69.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-sport-quat-s-tron-190hk-5d-7g-aut/1667576
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3277;87.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1671912
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;399900;65.000;Randers;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1674419
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;219900;186.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1679511
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;359900;68.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1680206
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;364900;70.000;Grindsted;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1680353
+Audi A6;2,0 TDi 190 S-line S-tr.;449800;83.000;Ishøj;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-s-tr/1683864
+Audi A4;2,0 TDi 177 S-line Avant Multitr.;159700;144.000;Herning;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-s-line-avant-multitr/1691091
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;229900;139.000;Brøndby;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1691667
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;199900;155.000;Hedensted;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1691821
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;234800;117.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1691890
+Audi A3;35 TDi Sport Limited Sportback S-tr.;309880;31.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1692393
+Audi Q3;2,0 TDI Quat S Tron 150HK 5d 7g Aut.;249800;90.978;Herning;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-quat-s-tron-150hk-5d-7g-aut/1697228
+Audi A3;2,0 TDi 150 S-line Sportback S-tr.;274900;117.000;Struer;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-s-line-sportback-s-tr/1697437
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;309900;128.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1698652
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3013;128.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1698653
+Audi A6;3,0 TDi 204 S-line Avant Multitr.;169800;251.000;Møldrup;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-s-line-avant-multitr/1699039
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;349900;68.000;Brøndby;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1699103
+Audi A6;3,0 TDi 218 S-line Avant quattro S-tr.;399700;119.000;Hadsund;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-quattro-s-tr/1699944
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;399900;47.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1700434
+Audi A6;2,0 TDi 190 Ultra Avant quattro S-tr;399900;88.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-quattro-s-tr/1700444
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;279900;187.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1701038
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;2749;187.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1701040
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;309900;139.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1701960
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3013;139.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1701961
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;275000;248.000;Odense;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1703374
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr. 7prs;489900;258.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr--7prs/1705082
+Audi A3;Sportback 2,0 TDI Sport Limited Edition S Tronic 150HK 5d 6g Aut.;299900;22.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-sport-limited-edition-s-tronic-150hk-5d-6g-aut/1705304
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;299900;134.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1705305
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;2925;134.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1705307
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;599900;157.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1705509
+Audi A4;2,0 TDi 177 S-line Avant quattro S-tr.;259900;105.000;Varde;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-s-line-avant-quattro-s-tr/1707331
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;499900;91.000;Langå;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1709326
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;329900;80.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1709985
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3189;80.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1710038
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;319900;107.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1710040
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3191;107.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1710041
+Audi A6;Avant 2,0 TDI Quat S Tron 190HK Stc 7g Aut.;399800;92.000;Rødding;2016;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-quat-s-tron-190hk-stc-7g-aut/1710439
+Audi A6;Avant 3,0 TDI Competition Quattro Tiptr. 326HK Stc 8g Aut.;658800;44.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-competition-quattro-tiptr--326hk-stc-8g-aut/1710457
+Audi Q5;3,0 TDi 245 S-line quattro S-tr.;239800;240.000;Herning;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-s-line-quattro-s-tr/1710624
+Audi A6;2,0 TDi 190 Ultra S-line S-tr.;245200;146.000;Varde;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-s-tr/1710649
+Audi A6;2,0 TDi 190 Ultra S-line S-tr.;299900;142.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-s-tr/1711119
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;279900;131.000;Viborg;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1711628
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;418000;93.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1711971
+Audi A6;Avant 3,0 TDI Competition Quattro Tiptr. 326HK Stc 8g Aut.;768800;65.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-competition-quattro-tiptr--326hk-stc-8g-aut/1711972
+Audi A6;Avant 2,0 TDI Sport Quat S Tron 204HK Stc 7g Aut.;566800;40.000;Rødding;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-sport-quat-s-tron-204hk-stc-7g-aut/1711973
+Audi Q5;2,0 TDI Sport Quat S Tron 190HK 5d 7g Aut.;599800;48.000;Rødding;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-sport-quat-s-tron-190hk-5d-7g-aut/1711974
+Audi Q5;3,0 TDI Quat S Tron 240HK 5d 7g Aut.;132000;375.000;Brovst;2008;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-quat-s-tron-240hk-5d-7g-aut/1712297
+Audi A6;2,0 TDi 190 S-line Avant quattro S-tr.;379780;110.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-quattro-s-tr/1713618
+Audi A4;2,0 TDi 190 S-line Avant S-tr.;399900;107.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-s-tr/1714234
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;332500;111.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1715270
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3189;111.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1715271
+Audi A5;3,0 TDi 286 S-line Sportback quattro Tiptr.;599900;114.000;Svenstrup;2018;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-286-s-line-sportback-quattro-tiptr/1715399
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;469900;75.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1715416
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;349900;101.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1715476
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;359900;107.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1715566
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;312500;105.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1715907
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3013;105.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1715908
+Audi A4;3,0 TDi 245 S-line Avant quattro S-tr.;196900;163.000;Stenløse;2013;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-245-s-line-avant-quattro-s-tr/1716417
+Audi Q7;3,0 TDi 240 S-line quattro Tiptr. 7prs;299999;270.000;Haderslev;2010;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-240-s-line-quattro-tiptr--7prs/1718341
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;312500;114.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1719181
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3013;114.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1719182
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;734321;98.000;Farsø;2017;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1720171
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;179995;205.000;Viby;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1722541
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;214900;140.000;Vejle;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1722779
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;295000;182.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1724367
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;2837;182.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1724368
+Audi Q7;3,0 TDi 272 S-line quattro Tiptr.;619321;120.000;Farsø;2016;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-272-s-line-quattro-tiptr/1725320
+Audi A5;3,0 TDi 240 Sportback quattro S-tr.;149700;292.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-240-sportback-quattro-s-tr/1725787
+Audi A3;2,0 TDi 150 Ambition Sportback S-tr.;149900;197.000;Rødekro;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback-s-tr/1725947
+Audi A5;2,0 TDi 190 S-line Sportback quattro S-tr.;419800;86.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-quattro-s-tr/1727597
+Audi A4;2,0 TDi 190 S-line Avant S-tr.;379800;68.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-s-tr/1727598
+Audi A3;2,0 TDi 184 Sport Sportback quattro S-tr.;285000;116.000;Lynge;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-sport-sportback-quattro-s-tr/1728318
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;319900;174.000;Hørsholm;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1728359
+Audi A6;Avant 3,0 TDI S Tronic 218HK Stc 7g Aut.;355000;93.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-s-tronic-218hk-stc-7g-aut/1730480
+Audi A6;Avant 3,0 TDI S Tronic 218HK Stc 7g Aut.;3365;93.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-s-tronic-218hk-stc-7g-aut/1730481
+Audi A5;Sportback 2,0 TDI Multitr. 150HK 5d 8g Trinl. Gear;249900;132.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-multitr--150hk-5d-8g-trinl--gear/1730530
+Audi A3;35 TDi Sport Limited Sportback S-tr.;299900;27.000;Viborg;2019;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1731602
+Audi A7;3,0 TDi 218 Sportback quattro S-tr.;449900;173.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-218-sportback-quattro-s-tr/1731682
+Audi A3;Sportback 2,0 TDI Ambiente S Tronic 150HK 5d 7g Aut.;1234;25.000;Hedensted;2015;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tdi-ambiente-s-tronic-150hk-5d-7g-aut/1732731
+Audi A6;Avant 3,0 TDI Quattro Tiptr. 286HK Stc 8g Trinl. Gear;1234;1.000;Hedensted;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-quattro-tiptr--286hk-stc-8g-trinl--gear/1732739
+Audi A4;Avant 2,0 TDI DPF Multitr. 143HK Stc Trinl. Gear;1234;1.000;Hedensted;2015;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-dpf-multitr--143hk-stc-trinl--gear/1732740
+Audi A5;Sportback 3,0 TDI Sport Quattro Tiptr. 286HK 5d 8g Trinl. Gear;150000;50.000;Hedensted;2017;https://www.biltorvet.dk/bil/audi/a5/sportback-3-0-tdi-sport-quattro-tiptr--286hk-5d-8g-trinl--gear/1732755
+Audi A6;3,0 TDi 313 S-line quattro Tiptr.;339995;116.000;Kastrup;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-quattro-tiptr/1732923
+Audi A7;Sportback 3,0 TDI Quat S Tron 218HK 5d 7g Aut.;100000;50.000;Hedensted;2017;https://www.biltorvet.dk/bil/audi/a7/sportback-3-0-tdi-quat-s-tron-218hk-5d-7g-aut/1733359
+Audi Q3;2,0 TDI Quat S Tron 140HK 5d 7g Aut.;50000;-;Hedensted;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-quat-s-tron-140hk-5d-7g-aut/1733407
+Audi Q5;3,0 TDI Quat S Tron 240HK 5d 7g Aut.;1234;1.234;Hedensted;2015;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-quat-s-tron-240hk-5d-7g-aut/1733408
+Audi Q3;2,0 TDi 150 S-line quattro S-tr.;259800;129.000;Christiansfeld;2015;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-s-line-quattro-s-tr/1735830
+Audi Q5;3,0 TDi 245 S-line quattro S-tr.;210000;215.000;Faaborg;2013;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-s-line-quattro-s-tr/1736651
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;229900;130.000;Vejle;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1737197
+Audi A4;3,0 TDi 272 S-line Avant quattro Tiptr.;399900;130.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-s-line-avant-quattro-tiptr/1739852
+Audi A5;2,0 TDi 190 S-line Sportback quattro S-tr.;299700;93.000;Viborg;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-quattro-s-tr/1740135
+Audi Q5;3,0 TDi 286 S-line quattro Tiptr.;679900;68.000;Odense;2018;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-286-s-line-quattro-tiptr/1740576
+Audi A4;2,0 TDi 136 Ultra S-line Avant;189800;131.000;Randers;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-ultra-s-line-avant/1740787
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;379900;143.000;Lunderskov;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1740859
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;277500;165.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1740995
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;2661;165.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1740996
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;465000;154.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1742049
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;184900;175.000;Vodskov;2017;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1743111
+Audi A4;Avant 2,0 TDI S Tronic 150HK Stc 7g Aut.;229900;167.000;Hedensted;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-150hk-stc-7g-aut/1743444
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;347500;83.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1744878
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3277;83.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1744879
+Audi A3;30 TDi Sport Limited Sportback S-tr.;289900;52.000;Køge;2019;https://www.biltorvet.dk/bil/audi/a3/30-tdi-sport-limited-sportback-s-tr/1744896
+Audi A6;3,0 TDi 272 S-line quattro S-tr.;445000;135.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-quattro-s-tr/1745139
+Audi A5;2,0 TDi 190 S-line Sportback Multitr.;239800;168.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-multitr/1745570
+Audi A3;2,0 TDi 150 Ambition Sportback S-tr.;189800;124.000;Taastrup;2015;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback-s-tr/1745593
+Audi A4 Allroad;3,0 TDi 245 quattro S-tr.;299900;140.000;Varde;2014;https://www.biltorvet.dk/bil/audi/a4-allroad/3-0-tdi-245-quattro-s-tr/1746113
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;254900;181.000;Vonge;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1748559
+Audi Q3;2,0 TDi 150 Sport Limited S-tr.;254900;132.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport-limited-s-tr/1748829
+Audi Q5;2,0 TDi 190 Sport S-line quattro S-tr.;599880;90.000;Støvring;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-s-line-quattro-s-tr/1749503
+Audi Allroad;3,0 V6 TDI Quattro Tiptr. 240HK Stc 6g Aut.;164900;231.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/allroad/3-0-v6-tdi-quattro-tiptr--240hk-stc-6g-aut/1751926
+Audi A3;2,0 TDi 184 Ambition quattro S-tr.;199900;197.000;Grindsted;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-ambition-quattro-s-tr/1751947
+Audi Q7;3,0 TDi 245 S-line quattro Tiptr.;369900;160.000;Højer;2012;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-245-s-line-quattro-tiptr/1752354
+Audi A4;2,0 TDi 177 Avant quattro S-tr.;219900;148.000;Hillerød;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-177-avant-quattro-s-tr/1752503
+Audi A6;Avant 3,0 V6 TDI Quattro Tiptr. 225HK Stc Aut.;89900;128.000;Randers;2006;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-v6-tdi-quattro-tiptr--225hk-stc-aut/1752882
+Audi A6;2,0 TDi 177 S-line Avant Multitr.;214700;173.000;Gislinge;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line-avant-multitr/1753074
+Audi A6 Allroad;3,0 TDi 245 quattro S-tr.;329800;139.000;Aalestrup;2013;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-245-quattro-s-tr/1753459
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;347500;67.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1755439
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3277;67.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1755440
+Audi A4;2,0 TDi 150 S-line Avant S-tr.;319500;144.000;Nørresundby;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-s-tr/1755674
+Audi A3;Sportback 1,6 TDI Sport S Tronic 116HK 5d 7g Aut.;219900;63.000;Hedensted;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-sport-s-tronic-116hk-5d-7g-aut/1755940
+Audi A5;2,0 TDi 190 S-line Sportback Multitr.;249900;88.000;Vejle;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-s-line-sportback-multitr/1755955
+Audi A4 Allroad;2,0 TDi 177 quattro S-tr.;239900;160.000;Storvorde;2013;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tdi-177-quattro-s-tr/1756926
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;339900;96.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1757404
+Audi A4;Avant 2,0 TDI S Tronic 190HK Stc 7g Aut.;277500;155.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-190hk-stc-7g-aut/1757555
+Audi A4;Avant 2,0 TDI S Tronic 190HK Stc 7g Aut.;2661;155.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-190hk-stc-7g-aut/1757556
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;429900;72.000;Hjørring;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1757923
+Audi Q5;2,0 TDi 190 S-line quattro S-tr.;579900;59.000;Grindsted;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-s-line-quattro-s-tr/1758289
+Audi A3;1,6 TDi 116 Sport Sportback S-tr.;289900;20.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback-s-tr/1758437
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;399900;118.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1759149
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;324880;69.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1759602
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;169800;222.000;Harlev;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1759685
+Audi A6;3,0 TDi 204 Avant quattro S-tr.;179700;314.000;Vodskov;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-avant-quattro-s-tr/1759781
+Audi A4;2,0 TDi 150 Ultra Sport Avant S-tr;284990;125.000;Taastrup;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-ultra-sport-avant-s-tr/1759932
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;489900;71.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1760482
+Audi A3;2,0 TDi 184 Ambition Sportback quattro S-tr.;209700;152.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-ambition-sportback-quattro-s-tr/1760727
+Audi A6;Avant 3,0 TDI Quat S Tron 218HK Stc 7g Aut.;327500;155.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-quat-s-tron-218hk-stc-7g-aut/1761346
+Audi A6;Avant 3,0 TDI Quat S Tron 218HK Stc 7g Aut.;3191;155.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tdi-quat-s-tron-218hk-stc-7g-aut/1761347
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;299900;147.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1762564
+Audi A3;1,6 TDi 110 Attraction Sportback S-tr.;164900;165.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-attraction-sportback-s-tr/1762646
+Audi A3;35 TDi Sport Limited Sportback S-tr.;329900;20.000;København;2020;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1762811
+Audi A4;Avant 2,0 TDI Multitr. 150HK Stc 8g Trinl. Gear;229900;120.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-multitr--150hk-stc-8g-trinl--gear/1763295
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;179000;122.000;Taastrup;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1764066
+Audi A3;1,6 TDi 110 Attraction Sportback S-tr.;159800;149.000;Vemmelev;2015;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-attraction-sportback-s-tr/1764210
+Audi A4;2,0 TDi 190 S-line Avant S-tr.;329800;123.000;Bramming;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-s-tr/1764364
+Audi Q5;3,0 TDI Quat S Tron 240HK 5d 7g Aut.;1495;189.000;Lemvig;2011;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-quat-s-tron-240hk-5d-7g-aut/1764428
+Audi A3;2,0 TDi 150 S-line Sportback S-tr.;199800;106.000;Bramming;2016;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-s-line-sportback-s-tr/1764523
+Audi A3;1,6 TDi 116 Sport Sportback S-tr.;229900;55.000;Rødekro;2017;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback-s-tr/1764975
+Audi A3;2,0 TDi 184 Ambiente Sportback quattro S-tr.;199900;192.000;Langå;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-184-ambiente-sportback-quattro-s-tr/1765567
+Audi A6;3,0 TDi 272 S-line Avant quattro S-tr.;399989;131.000;Esbjerg;2015;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-272-s-line-avant-quattro-s-tr/1766069
+Audi Q3;2,0 TDI Sport S Tronic 150HK 5d 7g Aut.;277500;106.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-sport-s-tronic-150hk-5d-7g-aut/1766162
+Audi Q3;2,0 TDI Sport S Tronic 150HK 5d 7g Aut.;2661;106.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-sport-s-tronic-150hk-5d-7g-aut/1766163
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;399800;134.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1766227
+Audi A4;2,0 TDi 190 S-line Avant quattro S-tr.;334900;102.000;Grindsted;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-quattro-s-tr/1766545
+Audi A6;Avant 3,0 biturbo TDI Quattro Tiptr. 313HK Stc 8g Aut.;32000;217.000;Svenstrup;2013;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-biturbo-tdi-quattro-tiptr--313hk-stc-8g-aut/1767029
+Audi Q5;3,0 TDi 240 S-line quattro S-tr.;179900;241.000;Vejle;2010;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-s-line-quattro-s-tr/1767252
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;229800;180.000;Kjellerup;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1767465
+Audi A3;Sportback 1,6 TDI Ambition S Tronic 110HK 5d 7g Aut.;185000;260.000;Valby;2014;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-ambition-s-tronic-110hk-5d-7g-aut/1768644
+Audi A6 Allroad;3,0 TDi 204 quattro S-tr.;399900;99.000;Varde;2013;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-204-quattro-s-tr/1769106
+Audi A4;2,0 TDi 190 Sport Avant quattro S-tr.;339900;88.000;Lunderskov;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-quattro-s-tr/1770553
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;232000;194.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1770877
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;349900;105.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1771127
+Audi Q5;3,0 TDi 286 S-line quattro Tiptr.;739800;68.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-286-s-line-quattro-tiptr/1771601
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;319400;155.000;Sønderborg;2014;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1771942
+Audi A3;2,0 TDi 150 Sport Sportback S-tr.;279800;63.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-sport-sportback-s-tr/1772211
+Audi A3;1,6 TDi 116 Sport Sportback S-tr.;214900;117.000;Egå;2018;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-116-sport-sportback-s-tr/1772854
+Audi A6;3,0 TDi 245 Avant quattro S-tr.;219900;246.000;Lunderskov;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-avant-quattro-s-tr/1773939
+Audi A3;Sportback 1,6 TDI DPF Attraction S Tronic 105HK 5d Aut.;84900;253.000;Holsted;2012;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-tdi-dpf-attraction-s-tronic-105hk-5d-aut/1774057
+Audi A7;3,0 TDi 245 Sportback quattro S-tr.;319900;187.000;Nykøbing F;2013;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-245-sportback-quattro-s-tr/1774867
+Audi A3;2,0 TDi 140 Attraction Sportback S-tr.;94800;154.000;Køge;2010;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-attraction-sportback-s-tr/1775251
+Audi A4;2,0 TDi 190 S-line Avant Multitr.;204000;167.000;Ikast;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-s-line-avant-multitr/1775510
+Audi A4;3,0 TDi 245 S-line Avant quattro S-tr.;299900;128.000;Thisted;2015;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-245-s-line-avant-quattro-s-tr/1775872
+Audi A4;Avant 2,0 TDI S Tronic 150HK Stc 7g Aut.;224900;165.000;Hejnsvig;2017;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-s-tronic-150hk-stc-7g-aut/1776054
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;289900;104.000;Esbjerg;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1776336
+Audi Q5;2,0 TDi 190 Sport S-line quattro S-tr.;694900;57.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-s-line-quattro-s-tr/1776593
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;334900;84.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1778530
+Audi A6;2,0 TDi 177 S-line Avant Multitr.;214800;163.000;Roskilde;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-177-s-line-avant-multitr/1778608
+Audi Q5;3,0 TDI DPF Quat S Tron 240HK 5d 7g Aut.;299900;165.000;Vester Skerninge;2012;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-dpf-quat-s-tron-240hk-5d-7g-aut/1778678
+Audi Q2;1,6 TDI Sport S Tronic 116HK 5d 7g Aut.;289900;17.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q2/1-6-tdi-sport-s-tronic-116hk-5d-7g-aut/1778717
+Audi Q5;3,0 TDi 240 S-line quattro S-tr.;299900;165.000;Vester Skerninge;2011;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-240-s-line-quattro-s-tr/1778806
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;269900;208.000;Struer;2016;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1779054
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;359900;82.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1779315
+Audi A6;Avant 2,0 TDI Ultra S Tronic 190HK Stc 7g Aut.;3365;82.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tdi-ultra-s-tronic-190hk-stc-7g-aut/1779316
+Audi A4;2,0 TDi 150 Edition+ Avant S-tr.;234900;149.000;Hedensted;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-edition--avant-s-tr/1779575
+Audi A5;2,0 TDi 190 Sport Sportback S-tr.;399800;115.000;Harlev;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sport-sportback-s-tr/1779582
+Audi Q5;2,0 TDi 190 Sport quattro S-tr.;669900;54.000;Varde;2019;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-sport-quattro-s-tr/1779851
+Audi A4;2,0 TDi 143 S-line Avant Multitr.;89700;435.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant-multitr/1776218
+Audi A4;Avant 2,0 TDI D Sport Edition Plus S Tronic 190HK Stc 7g Aut.;3191;46.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tdi-d-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1732706
+Audi A5;Sportback 2,0 TDI S Line Prestige Plus S Tronic 190HK 5d 7g Aut.;464900;20.000;Taastrup;2020;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-s-line-prestige-plus-s-tronic-190hk-5d-7g-aut/1732231
+Seat Exeo;2,0 TDi 143 Style ST;89900;202.000;Silkeborg;2010;https://www.biltorvet.dk/bil/seat/exeo/2-0-tdi-143-style-st/1357567
+BMW 320d;2,0 D 163HK 6g;26000;496.000;Nykøbing F;2005;https://www.biltorvet.dk/bil/bmw/320d/2-0-d-163hk-6g/1768579
+Volvo XC90;2,4 D5 200 Momentum aut. AWD;260000;164.000;Aars;2011;https://www.biltorvet.dk/bil/volvo/xc90/2-4-d5-200-momentum-aut--awd/1630407
+VW Polo;1,2 blueMotion TDI 75HK 5d;63500;174.500;Søborg;2012;https://www.biltorvet.dk/bil/vw/polo/1-2-bluemotion-tdi-75hk-5d/1742918
+Opel Vivaro;2,0 CDTI 114HK;89900;260.000;Løgumkloster;2011;https://www.biltorvet.dk/bil/opel/vivaro/2-0-cdti-114hk/1747048
+Skoda Octavia;1,6 TDI Common Rail DPF Elegance DSG 105HK 5d 7g Aut.;119000;173.000;Frederikssund;2015;https://www.biltorvet.dk/bil/skoda/octavia/1-6-tdi-common-rail-dpf-elegance-dsg-105hk-5d-7g-aut/1680590
+Audi A4;2,0 TDi 122 Avant;239900;171.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-122-avant/1768422
+Audi Q5;2,0 TDi 143;164900;191.000;Viborg;2013;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-143/1709880
+Audi A4;2,0 TDi Avant;44900;316.000;Bagsværd;2006;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-avant/1732210
+Audi A4;2,0 TDi 143;114900;171.000;Fredericia;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143/1748942
+Audi A4;2,0 TDi 136;115000;208.000;Rødovre;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136/1774165
+Audi A4;2,0 TDi 143;124900;199.000;Fredericia;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143/1777535
+Audi A4;2,7 TDi 190 Multitr.;119900;127.000;Bagsværd;2008;https://www.biltorvet.dk/bil/audi/a4/2-7-tdi-190-multitr/1758194
+Audi A4;2,7 TDi 180 Cabriolet Multitr.;99900;357.000;Vejle;2007;https://www.biltorvet.dk/bil/audi/a4/2-7-tdi-180-cabriolet-multitr/1697189
+Audi A8;4,2 TDi 350 quattro Tiptr.;329900;234.000;Fredericia;2010;https://www.biltorvet.dk/bil/audi/a8/4-2-tdi-350-quattro-tiptr/1678130
+Audi SQ5;3,0 TDi 313 quattro Tiptr.;364500;179.000;Glostrup;2014;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-313-quattro-tiptr/1760296
+Audi A7;3,0 TDi 326 Sportback quattro Tiptr.;290000;86.000;Slagelse;2016;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-326-sportback-quattro-tiptr/1652857
+Audi A4;2,0 TDi 143 Multitr.;139500;188.000;Glostrup;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-multitr/1725181
+Audi A6;3,0 TDi 218 S-tr.;330000;129.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-tr/1688554
+Audi A6;2,0 TDi 190 S-line S-tr.;340000;68.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-s-tr/1678314
+Audi A4;2,0 TDi 150 Avant S-tr.;234900;141.000;Vejle Øst;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1609189
+Audi Q5;2,0 TDi 190 quattro S-tr.;459900;76.000;Vejle Øst;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tdi-190-quattro-s-tr/1627587
+Audi A4;2,0 TDi 150 Avant S-tr.;254900;113.000;Vejle Øst;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1721568
+Audi A6;3,0 TDi 245 quattro S-tr.;249800;176.000;Taastrup;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-245-quattro-s-tr/1777607
+Audi A4;3,0 TDi 218 Sport Avant quattro S-tr;375000;127.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-quattro-s-tr/1722883
+Audi A6;3,0 TDi 204 Avant Multitr.;175000;219.000;Vinderup;2011;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-204-avant-multitr/1627112
+Audi A4;2,0 TDi 136 Avant;169900;187.000;Fredericia;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1678105
+Audi Q3;2,0 TDi 150 Sport;94900;236.000;Viborg;2017;https://www.biltorvet.dk/bil/audi/q3/2-0-tdi-150-sport/1699972
+Audi SQ5;3,0 TDi 326 Competition quattro Tiptr.;619999;86.000;Odense;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tdi-326-competition-quattro-tiptr/1711088
+Audi A4;2,0 TDi 150 Avant Multitr.;186900;179.000;Vejle;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-multitr/1722644
+Audi A3;2,0 TDi 150 Ambition Sportback;109900;225.000;Odense;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback/1723858
+Audi A3;1,6 TDi 110 Ultra Attraction Sportback;129900;195.000;Agerbæk;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ultra-attraction-sportback/1731433
+Audi A4;2,0 TDi 136 Avant;89900;254.000;Vinderup;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1733900
+Audi A3;1,6 TDi Ambition Sportback;99900;158.000;Vejle Øst;2013;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-ambition-sportback/1745291
+Audi A3;1,9 TDi Ambiente Sportback;39900;312.000;Vejle;2009;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-ambiente-sportback/1750757
+Audi A3;2,0 TDi 140 Ambition Sportback;79900;147.000;Bagsværd;2012;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-140-ambition-sportback/1752455
+Audi Q7;3,0 TDi 245 quattro Tiptr.;269900;219.000;Vinderup;2011;https://www.biltorvet.dk/bil/audi/q7/3-0-tdi-245-quattro-tiptr/1754205
+Audi A6;2,0 TDi 136 Avant Multitr.;129900;259.000;Vamdrup;2009;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-136-avant-multitr/1758941
+Audi A7;3,0 TDi 313 Sportback quattro Tiptr.;299800;202.000;Viborg;2013;https://www.biltorvet.dk/bil/audi/a7/3-0-tdi-313-sportback-quattro-tiptr/1766201
+Audi A4;2,0 TDi 143 Avant Multitr.;144500;171.000;Glostrup;2013;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-avant-multitr/1766388
+Audi A4;2,0 TDi 136 Avant;124900;193.000;Vejle Øst;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-136-avant/1767058
+Audi A4;2,0 TDi 150 Multitr.;219900;93.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-multitr/1768190
+Audi A4;2,0 TDi 150 Multitr.;229900;87.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-multitr/1768198
+Audi A3;2,0 TDi 150 Ambition Sportback;124800;191.000;Taastrup;2014;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback/1769096
+Audi Q7;4,2 TDi quattro Tiptr.;220000;246.000;Vinderup;2008;https://www.biltorvet.dk/bil/audi/q7/4-2-tdi-quattro-tiptr/1774761
+Audi A3;1,9 TDi Ambition Sportback;34900;210.000;Odense;2007;https://www.biltorvet.dk/bil/audi/a3/1-9-tdi-ambition-sportback/1774839
+Audi A5;2,0 TDi 177 Sportback;189800;188.000;Skjern;2013;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-177-sportback/1778839
+Audi A4;2,0 TDi 120 Avant;59900;395.000;Vanløse;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-120-avant/1776375
+Audi A4;3,0 TDi 272 Sport Avant quattro Tiptr.;380000;105.000;Rødovre;2015;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-272-sport-avant-quattro-tiptr/1704136
+Audi A3;2,0 TDi 150 S-line Sportback S-tr.;280000;77.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-s-line-sportback-s-tr/1690649
+Audi A3;35 TDi Sport Limited Sportback S-tr.;285000;22.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/35-tdi-sport-limited-sportback-s-tr/1691987
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;350000;79.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1742359
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;350000;120.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1770523
+Audi A6;3,0 TDi 218 S-line Avant S-tr.;400000;127.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-218-s-line-avant-s-tr/1771703
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;375000;75.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1776570
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;360000;95.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1776626
+Audi A6;2,0 TDi 190 Ultra Avant quattro S-tr;379800;88.000;Skjern;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-quattro-s-tr/1704442
+Audi A6 Allroad;3,0 TDi 204 quattro S-tr.;289999;195.000;Odense;2014;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-204-quattro-s-tr/1692214
+Audi A4;3,0 TDi 218 Sport Avant S-tr.;309900;124.000;Vejle Øst;2016;https://www.biltorvet.dk/bil/audi/a4/3-0-tdi-218-sport-avant-s-tr/1621261
+Audi A6;2,0 TDi 150 Ultra Avant S-tr.;289900;134.000;Kalundborg;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-150-ultra-avant-s-tr/1751078
+Audi A6;2,0 TDi Ultra S-line Avant quattro S-tr.;349900;123.000;Vejle Øst;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-ultra-s-line-avant-quattro-s-tr/1765020
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;349900;108.000;Vejle Øst;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1765779
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;350000;77.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1647033
+Audi Q5;3,0 TDi 245 quattro S-tr.;339900;177.000;Fredericia;2015;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-quattro-s-tr/1678095
+Audi A6 Allroad;3,0 TDi 313 quattro Tiptr.;299900;234.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-313-quattro-tiptr/1724455
+Audi A4;2,0 TDi 150 S-line Multitr.;229900;130.000;Middelfart;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-multitr/1747006
+Audi A4;2,0 TDi 150 Avant S-tr.;244900;112.000;Vejle;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-avant-s-tr/1756720
+Audi A5;2,0 TDi 190 Sportback S-tr.;284900;86.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-190-sportback-s-tr/1778779
+Audi A3;1,6 TDi 110 Ambition Sportback S-tr.;239680;115.000;Viborg;2016;https://www.biltorvet.dk/bil/audi/a3/1-6-tdi-110-ambition-sportback-s-tr/1750860
+Audi A6 Allroad;3,0 TDi 245 quattro S-tr.;279900;181.000;Vinderup;2012;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-245-quattro-s-tr/1627136
+Audi A6;2,0 TDi 190 Ultra Avant S-tr.;249900;145.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-avant-s-tr/1666111
+Audi A6 Allroad;3,0 TDi 204 quattro S-tr.;319900;172.000;Fredericia;2014;https://www.biltorvet.dk/bil/audi/a6-allroad/3-0-tdi-204-quattro-s-tr/1678125
+Audi A4;2,0 TDi 143 S-line Avant Multitr.;134800;265.000;Skjern;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant-multitr/1686970
+Audi A4 Allroad;3,0 TDi 245 quattro S-tr.;269999;144.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a4-allroad/3-0-tdi-245-quattro-s-tr/1687769
+Audi A5;3,0 TDi 218 Sport Sportback quattro S-tr.;489999;130.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-218-sport-sportback-quattro-s-tr/1707565
+Audi A1;1,6 TDi 90 Attraction Sportback S-tr.;114900;204.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a1/1-6-tdi-90-attraction-sportback-s-tr/1715024
+Audi A4;2,0 TDi 190 Sport Avant S-tr.;299999;79.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-190-sport-avant-s-tr/1721416
+Audi A4;2,0 TDi 143 S-line Avant Multitr.;109900;299.000;Vinderup;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant-multitr/1734144
+Audi A6;3,0 TDi 313 S-line Avant quattro Tiptr.;309900;174.000;Vinderup;2013;https://www.biltorvet.dk/bil/audi/a6/3-0-tdi-313-s-line-avant-quattro-tiptr/1737241
+Audi A3;2,0 TDi 150 Ambition Sportback S-tr.;149900;151.000;Bagsværd;2015;https://www.biltorvet.dk/bil/audi/a3/2-0-tdi-150-ambition-sportback-s-tr/1740613
+Audi A4;2,0 TDi 143 S-line Avant Multitr.;99900;315.000;Middelfart;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-143-s-line-avant-multitr/1747022
+Audi A6;2,0 TDi 190 Ultra S-line Avant S-tr.;369680;94.000;Viborg;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-ultra-s-line-avant-s-tr/1751270
+Audi A5;3,0 TDi 240 Sportback quattro S-tr.;199900;198.000;Middelfart;2011;https://www.biltorvet.dk/bil/audi/a5/3-0-tdi-240-sportback-quattro-s-tr/1754113
+Audi A4 Allroad;3,0 TDi 245 quattro S-tr.;199800;174.000;Viborg;2012;https://www.biltorvet.dk/bil/audi/a4-allroad/3-0-tdi-245-quattro-s-tr/1755148
+Audi A4;2,0 TDi 150 Ultra Avant S-tr.;254900;140.000;Middelfart;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-ultra-avant-s-tr/1757470
+Audi Q5;3,0 TDi 245 S-line quattro S-tr.;320000;158.000;Rødovre;2014;https://www.biltorvet.dk/bil/audi/q5/3-0-tdi-245-s-line-quattro-s-tr/1768330
+Audi A5;2,0 TDi 150 S-line Sportback Multitr.;285000;157.000;Rødovre;2016;https://www.biltorvet.dk/bil/audi/a5/2-0-tdi-150-s-line-sportback-multitr/1774244
+Audi A6;2,0 TDi 190 S-line Avant S-tr.;276900;149.000;Vamdrup;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tdi-190-s-line-avant-s-tr/1774519
+Audi A4 Allroad;3,0 TDi 245 quattro S-tr.;99999;144.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a4-allroad/3-0-tdi-245-quattro-s-tr/1775300
+Audi A4;2,0 TDi 150 S-line Avant Multitr.;229999;122.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-s-line-avant-multitr/1776622
+Audi A4;2,0 TDi 150 Sport Avant S-tr.;229900;109.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tdi-150-sport-avant-s-tr/1778174
+Skoda Rapid;1,6 TDi 105 Ambition SB GreenTec;109900;84.000;Viborg;2015;https://www.biltorvet.dk/bil/skoda/rapid/1-6-tdi-105-ambition-sb-greentec/1637563

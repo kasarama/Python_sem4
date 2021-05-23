@@ -5,15 +5,17 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
 
 from datetime import date
+from datetime import datetime
 import pandas as pd
 
 
 base_url = "https://www.biltorvet.dk/"
 
-fuel = ["Hybrid","El","Benzin", "Diesel"]
+fuel = ["Hybrid", "El", "Benzin", "Diesel"]
+# fuel = ["Hybrid"]
 
 
-def connect():
+def __connect():
     """opens page and clicks on the cookie button.
     Returns a webdriver"""
     profile = webdriver.FirefoxProfile()
@@ -44,13 +46,7 @@ def connect():
         raise e
 
 
-try:
-    browser = connect()
-except TimeoutException as e:
-    print("connection failed: ", e)
-
-
-def select_make():
+def __select_make(browser):
     # pase make to the input field
     browser.find_element_by_id("textSearch_input").send_keys("audi")
     browser.save_screenshot("../screenshots/select_make.png")
@@ -58,7 +54,7 @@ def select_make():
     sleep(3)
 
 
-def select_price():
+def __select_price(browser):
 
     price_p = browser.find_element_by_xpath("//p[contains(text(), 'Pris')]")
     price_div = price_p.find_element_by_xpath("../.")
@@ -76,7 +72,7 @@ def select_price():
     print("Price set")
 
 
-def select_fuel(fuel):
+def __select_fuel(browser, fuel):
     fuel_p = browser.find_element_by_xpath("//p[contains(text(), 'Brændstof')]")
     fuel_button = fuel_p.find_element_by_xpath("../.")
     fuel_button.click()
@@ -91,14 +87,14 @@ def select_fuel(fuel):
     browser.save_screenshot("../screenshots/select_fuel.png")
 
 
-def select_used():
+def __select_used(browser):
     inner_div = browser.find_element_by_xpath("//div[contains(text(), 'Brugt')]")
     clickable_div = inner_div.find_element_by_xpath("../../.")
     clickable_div.click()
     browser.save_screenshot("../screenshots/click_brugt.png")
 
 
-def load_all_results_on_one_page():
+def __load_all_results_on_one_page(browser):
 
     try:
         no_results = browser.find_element_by_xpath(
@@ -124,10 +120,10 @@ def load_all_results_on_one_page():
             except Exception as e:
                 stop = 2
                 print("Load  more exception: ", e)
-                browser.save_screenshot("../data/load_more_exc.png")
+                browser.save_screenshot("../screenshots/load_more_exc.png")
 
 
-def search():
+def __search(browser):
 
     search = browser.find_element_by_class_name(
         "button.button--highlight.advanced-search__button"
@@ -138,10 +134,17 @@ def search():
     sleep(3)
 
 
-def scrap_results(fuel):
+def __scrap_results(browser, fuel):
     car_elements = browser.find_elements_by_class_name(
         "card-ad-results__result.card-ad-results__result--default-view"
     )
+
+    now = datetime.now()
+    date_string = now.strftime("%d-%B-%Y")
+
+    filename = "../data/torvet_" + fuel + "_" + date_string + ".csv"
+    with open(filename, "w") as file_object:
+        file_object.write("model;type;price;km;location;year;link\n")
 
     print("in scrap_result")
     for element in list(car_elements):
@@ -193,7 +196,7 @@ def scrap_results(fuel):
         # print (car)
         df = pd.DataFrame([car])
         df.to_csv(
-            path_or_buf="../data/torvet_" + fuel + ".csv",
+            path_or_buf=filename,
             sep=";",
             mode="a",
             header=None,
@@ -201,33 +204,31 @@ def scrap_results(fuel):
         )
 
 
-def scrap_by_fuel(fuel):
+def __scrap_by_fuel(fuel):
 
-    browser = connect()
+    browser = __connect()
     print("connected")
-    select_price()
+    __select_price(browser)
 
-    select_fuel(fuel)
-    print("fule selected")
-    select_make()
+    __select_fuel(browser, fuel)
+    print("fuel selected")
+    __select_make(browser)
     print("make selected")
-    select_used()
+    __select_used(browser)
     print("brugt selected")
-    search()
+    __search(browser)
     print("searching")
-    load_all_results_on_one_page()
+    __load_all_results_on_one_page(browser)
     print("loaded all")
-    scrap_results(fuel)
+    __scrap_results(browser, fuel)
     browser.close()
-    browser = None
 
 
 def scrap_all_audis():
     for f in fuel:
         print("FUEL to scrap: ", f)
-        scrap_by_fuel(f)
+        __scrap_by_fuel(f)
         print(f, " scrapped!")
 
 
 #scrap_all_audis()
-

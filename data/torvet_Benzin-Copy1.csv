@@ -1,0 +1,949 @@
+model;type;price;km;location;year;link
+
+Audi Q2;30 TFSi Sport;275900;6.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-sport/1737957
+Audi Q2;30 TFSi Prestige;282900;4.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1775379
+Audi A3;35 TFSi Prestige;329900;10.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige/1738081
+Audi Q2;30 TFSi Prestige;284900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1759265
+Audi A1;30 TFSi Sportback;274900;4.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a1/30-tfsi-sportback/1738770
+Audi Q2;30 TFSi Prestige;289900;15.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1743602
+Audi Q2;30 TFSi Prestige;289900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1748473
+Audi Q2;30 TFSi Prestige;280900;5.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1757559
+Audi Q2;1,0 TFSi 116;219900;59.000;Kastrup;2017;https://www.biltorvet.dk/bil/audi/q2/1-0-tfsi-116/1774455
+Audi Q2;30 TFSi Prestige;279900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1776340
+Audi Q2;30 TFSi Prestige;299900;6.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1738240
+Audi Q2;30 TFSi Prestige;279900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-prestige/1738264
+Audi Q3;35 TFSi S-tr.;364900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-s-tr/1737955
+Audi A3;35 TFSi Prestige Sportback;369900;6.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback/1738796
+Audi A3;1,0 TFSi 116 Sport Sportback;209900;92.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sport-sportback/1738113
+Audi SQ5;3,0 TFSi quattro Tiptr.;769900;62.000;Kastrup;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1738711
+Audi A3;30 TFSi Attitude Sportback;282900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/30-tfsi-attitude-sportback/1763858
+Audi A3;35 TFSi Prestige S-tr.;409900;8.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738750
+Audi A3;35 TFSi Prestige S-tr.;399900;5.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738748
+Audi S3;2,0 TFSi quattro S-tr.;724900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quattro-s-tr/1738249
+Audi A3;35 TFSi Prestige Sportback S-tr.;379900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1776711
+Audi A3;35 TFSi Prestige Sportback S-tr.;389900;4.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738713
+Audi A3;35 TFSi Prestige Sportback S-tr.;389900;11.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738736
+Audi A3;35 TFSi Prestige Sportback S-tr.;389900;9.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738755
+Audi A3;35 TFSi Prestige Sportback;339900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback/1738166
+Audi Q3;35 TFSi S-tr.;369900;7.000;Odense;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-s-tr/1764950
+Audi Q3;35 TFSi S-tr.;354900;30.000;Odense;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-s-tr/1777233
+Audi SQ5;3,0 TFSi quattro Tiptr.;749900;69.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1779831
+Audi Q3;35 TFSi Advanced S-tr.;389900;5.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1737943
+Audi A3;35 TFSi Prestige Sportback S-tr.;344900;4.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1746297
+Audi A3;35 TFSi Prestige Sportback S-tr.;339900;4.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1768257
+Audi A4;40 TFSi Edition+ Avant S-tr.;324900;31.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-edition--avant-s-tr/1738104
+Audi A3;35 TFSi Prestige Sportback S-tr.;369900;6.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738779
+Audi A4;40 TFSi Advanced+ Avant S-tr.;424900;15.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738046
+Audi A4;40 TFSi Advanced+ Avant S-tr.;424900;9.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738060
+Audi A3;35 TFSi Prestige Sportback S-tr.;384900;6.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738656
+Audi S5;3,0 TFSi Cabriolet quattro Tiptr.;759900;34.000;Risskov;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-tiptr/1738294
+Audi Q5;2,0 TFSi 225 quattro Tiptr.;349900;94.000;Kastrup;2014;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-225-quattro-tiptr/1767155
+Audi S8;4,0 TFSi quattro Tiptr.;599900;55.000;Fredericia;2012;https://www.biltorvet.dk/bil/audi/s8/4-0-tfsi-quattro-tiptr/1738116
+Audi A3;35 TFSi Prestige Sportback S-tr.;371900;9.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738297
+Audi A3;35 TFSi Prestige Sportback S-tr.;371900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738301
+Audi A3;35 TFSi Prestige Sportback S-tr.;371900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738303
+Audi A3;35 TFSi Prestige Sportback S-tr.;371900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738308
+Audi A3;35 TFSi Prestige S-tr.;381900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738316
+Audi A3;35 TFSi Prestige Sportback S-tr.;377900;7.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1737951
+Audi A3;35 TFSi Prestige S-tr.;382900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1737956
+Audi A3;35 TFSi Prestige S-tr.;382900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1737968
+Audi A3;35 TFSi Prestige S-tr.;382900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1737978
+Audi A4;40 TFSi Advanced+ Avant S-tr.;429900;8.000;Kastrup;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738714
+Audi Q3;35 TFSi Advanced S-tr.;389900;5.000;Kastrup;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738733
+Audi A4;40 TFSi Prestige+ Avant S-tr.;429900;4.000;Kastrup;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1738745
+Audi A3;35 TFSi Prestige S-tr.;379900;10.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738064
+Audi A3;35 TFSi Prestige S-tr.;379900;11.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738068
+Audi A3;35 TFSi Prestige S-tr.;373900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738312
+Audi A3;35 TFSi Prestige S-tr.;381900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738315
+Audi A4;40 TFSi Prestige+ Avant S-tr.;453900;9.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1738664
+Audi A4;40 TFSi Prestige+ Avant S-tr.;503900;4.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1738668
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;509900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1738690
+Audi A3;35 TFSi Prestige S-tr.;379900;8.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738075
+Audi A3;35 TFSi Prestige S-tr.;379900;14.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738080
+Audi A3;35 TFSi Prestige S-tr.;359900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1763855
+Audi A3;35 TFSi Prestige Sportback S-tr.;347900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738190
+Audi A3;35 TFSi Prestige S-tr.;357900;9.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738191
+Audi A3;35 TFSi Prestige S-tr.;377900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738197
+Audi A3;35 TFSi Prestige S-tr.;369900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738211
+Audi Q3;35 TFSi Advanced S-tr.;419900;11.000;Odense;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738777
+Audi A3;35 TFSi Prestige Sportback S-tr.;339900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1763856
+Audi Q2;35 TFSi Prestige S-tr.;344900;4.000;Kastrup;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1775380
+Audi A1;35 TFSi Sportback S-tr.;259900;64.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a1/35-tfsi-sportback-s-tr/1766503
+Audi Q5;45 TFSi Sport quattro S-tr.;649900;9.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q5/45-tfsi-sport-quattro-s-tr/1738188
+Audi A3;1,4 TFSi 140 Ambition Sportback S-tr.;209900;82.000;Søborg;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambition-sportback-s-tr/1776656
+Audi Q2;35 TFSi Prestige S-tr.;335900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1737991
+Audi Q2;35 TFSi Prestige S-tr.;335900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738006
+Audi Q3;35 TFSi Advanced S-tr.;364900;15.000;Risskov;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738330
+Audi Q3;35 TFSi Advanced S-tr.;394900;8.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738759
+Audi A3;35 TFSi Prestige Sportback S-tr.;349900;7.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738794
+Audi A3;40 TFSi Sport Limited S-tr.;324900;26.000;Risskov;2019;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-sport-limited-s-tr/1751700
+Audi Q2;35 TFSi Prestige S-tr.;342900;8.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1759597
+Audi A6;45 TFSi Sport Avant S-tr.;549900;26.000;Kokkedal;2019;https://www.biltorvet.dk/bil/audi/a6/45-tfsi-sport-avant-s-tr/1760013
+Audi Q2;35 TFSi Prestige S-tr.;339900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1776753
+Audi Q2;35 TFSi Prestige S-tr.;339900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1776754
+Audi Q2;35 TFSi Prestige S-tr.;334900;8.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1776755
+Audi RS Q8;4,0 TFSi quattro Tiptr.;2595900;24.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/rs-q8/4-0-tfsi-quattro-tiptr/1773458
+Audi A5;40 TFSi Advanced Sportback S-tr.;449900;11.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-advanced-sportback-s-tr/1738059
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;478900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1738333
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;488900;8.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1738335
+Audi A4;40 TFSi Prestige+ Avant S-tr.;448900;13.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1738663
+Audi A4;40 TFSi Prestige+ Avant S-tr.;489900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1738666
+Audi S3;2,0 TFSi Sportback quattro S-tr.;689900;12.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-sportback-quattro-s-tr/1738700
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;464900;12.000;Kastrup;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1774504
+Audi A5;40 TFSi Advanced+ Sportback S-tr.;469900;6.000;Kastrup;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-advanced--sportback-s-tr/1774505
+Audi A5;40 TFSi Advanced+ Sportback S-tr.;454900;19.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-advanced--sportback-s-tr/1777110
+Audi RS Q8;4,0 TFSi quattro Tiptr.;2995000;5.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/rs-q8/4-0-tfsi-quattro-tiptr/1738001
+Audi Q2;35 TFSi Prestige S-tr.;335900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738336
+Audi Q3;35 TFSi Prestige Sportback S-tr.;384900;9.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-prestige-sportback-s-tr/1738768
+Audi A3;1,4 TFSi 140 Ambition S-tr.;199900;133.000;Fredericia;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambition-s-tr/1738138
+Audi S1;2,0 TFSi Sportback quattro;354900;42.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/s1/2-0-tfsi-sportback-quattro/1738203
+Audi A1;30 TFSi Advanced Sportback S-tr.;289900;4.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a1/30-tfsi-advanced-sportback-s-tr/1737990
+Audi A1;30 TFSi Advanced Sportback S-tr.;295900;4.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a1/30-tfsi-advanced-sportback-s-tr/1738016
+Audi Q2;35 TFSi Prestige S-tr.;334900;5.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738653
+Audi A4;40 TFSi Advanced S-tr.;419900;8.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-s-tr/1738763
+Audi Q3;35 TFSi Advanced S-tr.;404900;7.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738772
+Audi Q3;35 TFSi Prestige S-tr.;364900;10.000;Odense;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-prestige-s-tr/1777317
+Audi Q2;35 TFSi Prestige S-tr.;499900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738090
+Audi S6;4,0 TFSi Avant quattro S-tr.;449900;201.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1738153
+Audi Q3;35 TFSi Sportback S-tr.;419900;15.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-sportback-s-tr/1738158
+Audi A3;35 TFSi Prestige Sportback S-tr.;371900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1738306
+Audi Q2;35 TFSi Prestige S-tr.;335900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738682
+Audi Q2;35 TFSi Prestige S-tr.;335900;6.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738683
+Audi Q3;35 TFSi Advanced S-tr.;404900;11.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738773
+Audi A5;40 TFSi Advanced Sportback S-tr.;484900;2.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-advanced-sportback-s-tr/1738787
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;479900;6.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1738790
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;479900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1743434
+Audi A3;35 TFSi Prestige S-tr.;374900;4.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1775381
+Audi A3;35 TFSi Prestige S-tr.;394900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738073
+Audi A5;40 TFSi S-line+ Sportback S-tr.;667900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1739783
+Audi RS 6;4,0 TFSi Avant quattro Tiptr.;2428900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-avant-quattro-tiptr/1740027
+Audi A3;40 TFSi Limited+ Sportback quattro S-tr;319900;53.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-limited--sportback-quattro-s-tr/1763640
+Audi A3;35 TFSi S-line Sportback S-tr.;404900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-s-line-sportback-s-tr/1763894
+Audi A3;35 TFSi Sport Limited+ Sportback S-tr.;318900;8.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-limited--sportback-s-tr/1770903
+Audi A4;40 TFSi Advanced S-tr.;399900;10.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-s-tr/1738167
+Audi A4;35 TFSi Advanced S-tr.;369900;6.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/35-tfsi-advanced-s-tr/1738180
+Audi Q3;35 TFSi Advanced S-tr.;394900;6.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1762824
+Audi A4;40 TFSi Advanced S-tr.;399900;12.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-s-tr/1738171
+Audi Q3;35 TFSi Advanced S-tr.;394900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738243
+Audi A4;40 TFSi Prestige+ Avant S-tr.;469900;9.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1749411
+Audi Q3;35 TFSi Advanced S-tr.;389900;10.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738111
+Audi Q2;35 TFSi Prestige S-tr.;364900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738118
+Audi Q3;35 TFSi Sportback S-tr.;399900;6.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-sportback-s-tr/1738293
+Audi A4;40 TFSi Advanced+ Avant S-tr.;424900;9.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738305
+Audi Q3;35 TFSi Advanced S-tr.;388900;10.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738334
+Audi A6;45 TFSi Sport Avant S-tr.;669900;7.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/a6/45-tfsi-sport-avant-s-tr/1738674
+Audi A4;40 TFSi Advanced+ Avant S-tr.;419900;5.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738681
+Audi Q3;35 TFSi Advanced S-tr.;409900;8.000;Odense;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738762
+Audi Q3;35 TFSi Advanced S-tr.;389900;9.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1741480
+Audi Q2;35 TFSi S-line S-tr.;433900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-s-line-s-tr/1739606
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;459900;10.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1738055
+Audi S3;2,0 TFSi Sportback quattro S-tr.;674900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-sportback-quattro-s-tr/1738108
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;479900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1776369
+Audi A4;40 TFSi Advanced+ Avant S-tr.;436900;6.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1737959
+Audi A4;40 TFSi Advanced+ Avant S-tr.;429900;6.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1737961
+Audi A4;40 TFSi Prestige+ Avant S-tr.;429900;8.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1737979
+Audi A4;40 TFSi Advanced+ Avant S-tr.;424900;14.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1738175
+Audi A4;35 TFSi Prestige+ S-tr.;394900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/a4/35-tfsi-prestige--s-tr/1738250
+Audi A1;30 TFSi Advanced Sportback S-tr.;289900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/a1/30-tfsi-advanced-sportback-s-tr/1738321
+Audi Q3;35 TFSi Advanced S-tr.;404900;4.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738774
+Audi Q3;35 TFSi Advanced S-tr.;389900;8.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738781
+Audi Q3;35 TFSi Advanced S-tr.;384900;13.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738795
+Audi A4;40 TFSi Prestige+ Avant S-tr.;435900;12.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige--avant-s-tr/1745277
+Audi A3;35 TFSi Prestige Sportback S-tr.;349900;8.000;Odense;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-sportback-s-tr/1777284
+Audi Q2;35 TFSi Prestige S-tr.;359900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738092
+Audi Q2;35 TFSi Prestige S-tr.;334900;9.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1738120
+Audi Q3;35 TFSi Sportback S-tr.;384900;13.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-sportback-s-tr/1738758
+Audi Q2;1,4 TFSi 150 Sport S-tr.;284900;27.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport-s-tr/1740122
+Audi A5;40 TFSi Advanced+ Sportback S-tr.;479900;11.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-advanced--sportback-s-tr/1738771
+Audi TT;40 TFSi S-line Coupé S-tr.;607900;6.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/tt/40-tfsi-s-line-coupe-s-tr/1738318
+Audi A3;35 TFSi S-line S-tr.;414900;12.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-s-line-s-tr/1738670
+Audi RS Q3;2,5 TFSi Sportback quattro S-tr.;1099900;10.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/rs-q3/2-5-tfsi-sportback-quattro-s-tr/1738685
+Audi A4;2,0 TFSi 252 Sport Avant S-tr.;399900;105.000;Aalborg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-252-sport-avant-s-tr/1738281
+Audi Q2;35 TFSi S-line S-tr.;359900;10.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-s-line-s-tr/1764620
+Audi Q3;1,4 TFSi 150 Sport Limited S-tr.;299900;53.000;Søborg;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-limited-s-tr/1776903
+Audi A4;40 TFSi S-line+ Avant S-tr.;467900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-s-line--avant-s-tr/1745278
+Audi Q2;35 TFSi S-line S-tr.;364900;11.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-s-line-s-tr/1762318
+Audi A3;40 TFSi Limited+ Sportback quattro S-tr;369900;9.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-limited--sportback-quattro-s-tr/1773286
+Audi A4;40 TFSi S-line+ S-tr.;439900;8.000;Kokkedal;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-s-line--s-tr/1738676
+Audi A4;35 TFSi Advanced+ Avant S-tr.;429900;4.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a4/35-tfsi-advanced--avant-s-tr/1738769
+Audi Q3;35 TFSi Advanced S-tr.;384900;7.000;Odense;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738783
+Audi A4;40 TFSi Advanced+ Avant S-tr.;409900;21.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1775565
+Audi A5;40 TFSi S-line+ Sportback S-tr.;541900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1744794
+Audi A5;40 TFSi S-line+ Sportback S-tr.;540900;8.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1744795
+Audi Q2;35 TFSi Prestige S-tr.;339900;6.000;Aalborg;2021;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-prestige-s-tr/1763940
+Audi A3;1,4 TFSi 150 Ambition S-tr.;199900;106.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambition-s-tr/1779331
+Audi TT;40 TFSi S-line Coupé S-tr.;585900;15.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/tt/40-tfsi-s-line-coupe-s-tr/1737981
+Audi A3;1,4 TFSi 150 Sport Sportback S-tr.;239900;68.000;Kokkedal;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback-s-tr/1738701
+Audi A4;40 TFSi S-line+ S-tr.;451900;8.000;Søborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-s-line--s-tr/1737948
+Audi A5;40 TFSi S-line+ Sportback S-tr.;584900;14.000;Fredericia;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1738100
+Audi A4;40 TFSi S-line+ Avant S-tr.;448900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-s-line--avant-s-tr/1745279
+Audi A4;40 TFSi Advanced Prestige Tour+ Avant S-tr.;419900;22.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-prestige-tour--avant-s-tr/1758485
+Audi A4;35 TFSi S-line+ S-tr.;439900;3.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a4/35-tfsi-s-line--s-tr/1738756
+Audi S3;2,0 TFSi quattro S-tr.;449900;67.000;Søborg;2015;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quattro-s-tr/1764507
+Audi A5;40 TFSi S-line+ Sportback S-tr.;489900;13.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1738096
+Audi A4;40 TFSi S-line+ Avant S-tr.;459900;7.000;Kokkedal;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-s-line--avant-s-tr/1738677
+Audi A3;35 TFSi Sport Limited+ Sportback S-tr.;314900;7.000;Odense;2020;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-limited--sportback-s-tr/1738778
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;384900;46.000;Odense;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1768633
+Audi A5;1,8 TFSi 177 S-line Sportback Multitr.;299900;53.000;Risskov;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-177-s-line-sportback-multitr/1779713
+Audi A3;35 TFSi Sport Limited+ Sportback S-tr.;334900;19.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-limited--sportback-s-tr/1769556
+Audi Q3;35 TFSi S-line Sportback S-tr.;449900;6.000;Risskov;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-s-line-sportback-s-tr/1738343
+Audi A5;40 TFSi S-line+ Sportback S-tr.;555900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1744841
+Audi A5;40 TFSi S-line+ Sportback S-tr.;554900;6.000;Søborg;2021;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-s-line--sportback-s-tr/1745226
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;349900;16.000;Risskov;2020;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1757709
+Audi A4;1,8 TFSi 170 Avant;169900;108.000;Aalborg;2012;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-avant/1738238
+Audi Q2;1,0 TFSi 116 Sport;239900;38.000;Aalborg;2017;https://www.biltorvet.dk/bil/audi/q2/1-0-tfsi-116-sport/1738270
+Audi A3;1,4 TFSi 150 Sport Sportback;209900;91.000;Holbæk;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback/1738651
+Audi A3;1,4 TFSi 122 Ambition Sportback;169900;67.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambition-sportback/1740121
+Audi A5;1,8 TFSi 144 Limited Sportback Multitr.;279900;88.000;Kastrup;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-144-limited-sportback-multitr/1762209
+Audi A3;1,4 TFSi 125 Attraction Sportback;184900;49.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-attraction-sportback/1764951
+Audi A4;2,0 TFSi 190 Sport Avant;274900;35.000;Holbæk;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant/1775024
+Audi A3;1,4 TFSi 122 Ambition Sportback;149900;151.000;Aalborg;2013;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambition-sportback/1775174
+Audi A5;1,8 TFSi 170 Cabriolet;289900;81.000;Søborg;2013;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-cabriolet/1775249
+Audi A3;1,0 TFSi 116 Sport;199900;69.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sport/1775253
+Audi A5;1,8 TFSi 170 Cabriolet Multitr.;389900;102.000;Aalborg;2015;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-cabriolet-multitr/1775254
+Audi A3;1,2 TFSi 110 Ambiente Sportback;169900;64.000;Odense;2016;https://www.biltorvet.dk/bil/audi/a3/1-2-tfsi-110-ambiente-sportback/1777283
+Audi A3;1,4 TFSi 150 Sport;234900;69.000;Odense;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport/1778601
+Audi A4;40 TFSi Sport Prestige Avant S-tr;364900;39.000;Aalborg;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1748596
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;339900;6.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1763895
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;314900;8.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1738176
+Audi A3;1,5 TFSi 150 Sport S-tr.;274900;44.000;Aalborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-s-tr/1738278
+Audi A1;1,4 TFSi 122 Ambition S-tr.;109900;51.000;Holbæk;2010;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-ambition-s-tr/1738640
+Audi Q3;35 TFSi Sportback S-tr.;389900;10.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-sportback-s-tr/1738646
+Audi Q3;35 TFSi Advanced S-tr.;389900;5.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738648
+Audi Q3;35 TFSi Advanced S-tr.;389900;9.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1738649
+Audi A3;35 TFSi Prestige S-tr.;374900;6.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738657
+Audi RS Q3;2,5 TFSi quattro S-tr.;629900;56.000;Kastrup;2015;https://www.biltorvet.dk/bil/audi/rs-q3/2-5-tfsi-quattro-s-tr/1738725
+Audi Q2;1,4 TFSi 150 Sport S-tr.;269900;29.000;Odense;2017;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport-s-tr/1738792
+Audi Q3;1,4 TFSi 150 S-tr.;229900;96.000;Aalborg;2015;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-s-tr/1740120
+Audi Q3;35 TFSi Advanced S-tr.;389900;8.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1745518
+Audi Q3;35 TFSi Advanced S-tr.;389900;9.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1745520
+Audi A3;1,0 TFSi 116 Sportback S-tr.;234900;36.000;Kastrup;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback-s-tr/1749851
+Audi A4;40 TFSi Sport Avant S-tr.;329900;57.000;Søborg;2018;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-avant-s-tr/1762602
+Audi Q3;35 TFSi Advanced Prestige S-tr.;399900;4.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-prestige-s-tr/1774287
+Audi Q2;1,4 TFSi 150 Sport S-tr.;274900;38.000;Holbæk;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport-s-tr/1774945
+Audi Q2;1,4 TFSi 150 Sport S-tr.;264900;39.000;Holbæk;2017;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport-s-tr/1777852
+Audi A3;35 TFSi Prestige S-tr.;364900;8.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-prestige-s-tr/1738644
+Audi A5;40 TFSi Prestige+ Sportback S-tr.;474900;12.000;Holbæk;2020;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-prestige--sportback-s-tr/1763769
+Audi A3;35 TFSi S-line Sportback S-tr.;399900;5.000;Holbæk;2021;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-s-line-sportback-s-tr/1738643
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;294900;23.000;Aalborg;2020;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1738267
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;294900;97.000;Søborg;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1776059
+Alfa Romeo Giulietta;1,4 M-Air 170 Super TCT;184900;75.000;Risskov;2018;https://www.biltorvet.dk/bil/alfa-romeo/giulietta/1-4-m-air-170-super-tct/1754694
+Renault Captur;0,9 TCe 90 Expression;79900;98.000;Risskov;2015;https://www.biltorvet.dk/bil/renault/captur/0-9-tce-90-expression/1746301
+BMW 116i;1,6;179900;95.000;Aalborg;2014;https://www.biltorvet.dk/bil/bmw/116i/1-6/1761982
+Kia Picanto;1,0 MPi Advance;79900;30.000;Kastrup;2018;https://www.biltorvet.dk/bil/kia/picanto/1-0-mpi-advance/1766608
+Toyota Corolla;1,2 T3;219900;30.000;Kastrup;2019;https://www.biltorvet.dk/bil/toyota/corolla/1-2-t3/1767586
+VW T-Roc;1,5 TSi 150 Sport DSG;289900;35.000;Kokkedal;2018;https://www.biltorvet.dk/bil/vw/t-roc/1-5-tsi-150-sport-dsg/1775025
+Audi A4;1,6;19800;219.000;Farum;2002;https://www.biltorvet.dk/bil/audi/a4/1-6/1775952
+Audi 100;1,6;44900;138.000;Them;1978;https://www.biltorvet.dk/bil/audi/100/1-6/1613150
+Audi 80;1,8;39980;177.000;Brenderup;1989;https://www.biltorvet.dk/bil/audi/80/1-8/1771596
+Audi A4;2,0;36800;276.000;Tønder;2004;https://www.biltorvet.dk/bil/audi/a4/2-0/1679112
+Audi A4;1,6;64900;129.000;Herlev;2006;https://www.biltorvet.dk/bil/audi/a4/1-6/1729443
+Audi 80;1,5 LS;69800;125.000;Vejen;1974;https://www.biltorvet.dk/bil/audi/80/1-5-ls/1756167
+Audi A4;1,6;19400;340.000;Kruså;2002;https://www.biltorvet.dk/bil/audi/a4/1-6/1687296
+Audi A4;1,6;37900;203.000;Brædstrup;2006;https://www.biltorvet.dk/bil/audi/a4/1-6/1705119
+Audi A6;2,6;6000;243.000;Taastrup;1994;https://www.biltorvet.dk/bil/audi/a6/2-6/1730800
+Audi A4;1,6;19500;348.000;Slagelse;2002;https://www.biltorvet.dk/bil/audi/a4/1-6/1732170
+Audi A4;2,0;35980;275.000;Nørre Aaby;2005;https://www.biltorvet.dk/bil/audi/a4/2-0/1756710
+Audi A4;1,6;23000;201.000;Gislinge;2004;https://www.biltorvet.dk/bil/audi/a4/1-6/1759469
+Audi A4;1,6;27000;187.000;Hvidovre;2001;https://www.biltorvet.dk/bil/audi/a4/1-6/1768372
+Audi A6;2,0 TFSi;58500;246.000;Næstved;2007;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1516816
+Audi V8;4,2 quattro aut.;59800;316.000;Christiansfeld;1991;https://www.biltorvet.dk/bil/audi/-/4-2-quattro-aut/1745426
+Audi A6;2,4 V6 Multitr.;36999;247.000;Hørsholm;2005;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-multitr/1757065
+Audi A8;4,2 quattro Tiptr.;129800;230.000;Taastrup;2003;https://www.biltorvet.dk/bil/audi/a8/4-2-quattro-tiptr/1713461
+Audi 100;1,8 LS;39000;168.000;Brenderup;1973;https://www.biltorvet.dk/bil/audi/100/1-8-ls/1754982
+Audi A4;2,0 TFSi 180;199900;97.000;Næstved;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-180/1545696
+Audi Q2;30 TFSi Sport;279900;25.000;Hundested;2020;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-sport/1617271
+Audi A4;40 TFSi Avant;309800;13.000;Hillerød;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-avant/1642423
+Audi A4;2,0 130HK Stc;34000;246.000;Horsens;2003;https://www.biltorvet.dk/bil/audi/a4/2-0-130hk-stc/1713264
+Audi A4;2,0 Avant;22800;239.000;Thisted;2002;https://www.biltorvet.dk/bil/audi/a4/2-0-avant/1730932
+Audi A6;2,0 E;12900;213.000;Horsens;1995;https://www.biltorvet.dk/bil/audi/a6/2-0-e/1748199
+Audi A3;30 TFSi;199900;83.000;Holstebro;2019;https://www.biltorvet.dk/bil/audi/a3/30-tfsi/1753992
+Audi Q2;1,4 TFSi 150;194900;139.000;Roskilde;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150/1764637
+Audi A4;1,8 TFSI 160HK;79900;177.000;Odense;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160hk/1765291
+Audi A3;30 TFSi Sportback;239800;24.000;Hillerød;2019;https://www.biltorvet.dk/bil/audi/a3/30-tfsi-sportback/1642431
+Audi Q3;1,4 TFSi 150;213980;147.000;Haderslev;2014;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150/1650549
+Audi A4;2,4 V6 Cabriolet;134700;124.000;Gislinge;2004;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet/1724751
+Audi A4;1,8 TFSi 160;94999;189.000;Hinnerup;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160/1758356
+Audi A4;1,6 Avant;17900;330.000;Greve;2005;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1766234
+Audi A4;2,4 V6 Cabriolet;140000;100.000;Næstved;2002;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet/1773942
+Audi A4;2,4 V6 170HK Cabr.;98000;193.145;Vordingborg;2003;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-170hk-cabr/1702660
+Audi A3;1,0 TFSi 116;219995;44.000;Ølstykke;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116/1775408
+Audi S3;2,0 TFSi Sportback quattro S-tr.;389900;83.000;Støvring;2014;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-sportback-quattro-s-tr/1668259
+Audi A4;1,8 TFSi 160;48800;371.000;Albertslund;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160/1718601
+Audi A4;2,0 TFSI 190HK;295000;17.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190hk/1726397
+Audi A4;2,0 TFSI 190HK;2837;17.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190hk/1726398
+Audi A3;1,6 Ambiente;7990;375.000;Lejre;1998;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente/1774547
+Audi A6;2,8 FSi Multitr.;185000;155.000;Hvidovre;2013;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-multitr/1779075
+Audi A3;1,6 Ambiente Sportback;44900;278.000;Højbjerg;2004;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente-sportback/1765338
+Audi A4;1,8 T 150HK;28000;256.000;Taastrup;1996;https://www.biltorvet.dk/bil/audi/a4/1-8-t-150hk/1773440
+Audi A3;1,6 Ambiente Sportback;29900;308.000;Them;2006;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente-sportback/1777274
+Audi A6;2,0 TFSI 170HK 6g;99900;205.000;Hillerød;2010;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-170hk-6g/1699939
+Audi A6;2,4 V6 Tiptr.;44900;200.000;Ans By;2000;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-tiptr/1774343
+Audi Q2;1,4 TFSi 150 Sport;239900;61.000;Ringkøbing;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport/1767530
+Audi TT;1,8 Coupé quattro 225HK 2d;85000;256.000;Føllenslev;2000;https://www.biltorvet.dk/bil/audi/tt/1-8-coupe-quattro-225hk-2d/1773498
+Audi A4;2,0 TFSi 190 Sport;269900;63.000;Hillerød;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport/1730101
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;729900;48.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1699271
+Audi TT;1,8 T 225 Coupé quattro;99800;200.000;Stenløse;2000;https://www.biltorvet.dk/bil/audi/tt/1-8-t-225-coupe-quattro/1740391
+Audi A6;2,0 TFSi 180 Avant Multitr.;299500;99.000;Viborg;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-180-avant-multitr/1080871
+Audi A4;2,4 V6 Cabriolet Multitr.;79900;262.000;Aabybro;2002;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet-multitr/1620580
+Audi TT;1,8 T 180 Coupé;49000;270.000;Horsens;1999;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1718251
+Audi A4;1,8 T 163 Cabriolet;189900;79.000;Hørsholm;2007;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163-cabriolet/1769538
+Audi A3;1,4 TFSi 125 Ambition Sportback;209900;78.000;Nordborg;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-ambition-sportback/1744472
+Audi A6;Avant 2,0 TFSI 170HK Stc 6g;84000;127.000;Janderup Vestj;2006;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tfsi-170hk-stc-6g/1744515
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;799799;41.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1658171
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;799799;44.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1685483
+Audi A3;1,0 TFSi 116 Sportback;209900;43.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1758740
+Audi A5;2,0 TFSi 211 Sportback Multitr.;189900;167.000;Solrød Strand;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-211-sportback-multitr/1431197
+Audi Cabriolet;2,8 E 174HK Cabr. Aut.;90000;145.000;Hillerød;1996;https://www.biltorvet.dk/bil/audi/cabriolet/2-8-e-174hk-cabr--aut/1510219
+Audi A4;2,0 TFSi 190 Sport;249900;69.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport/1735859
+Audi A1;1,0 TFSi 95 Sportback;184000;30.000;Brønderslev;2017;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-sportback/1759561
+Audi A3;1,4 TFSi Ambition Sportback;129900;121.000;Fredensborg;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition-sportback/1777004
+Audi A5;1,8 TFSi 170 Cabriolet;259900;138.000;Herning;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-cabriolet/1778290
+Audi A6;2,8 FSi Multitr.;299900;128.000;Taastrup;2012;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-multitr/1432949
+Audi A3;1,4 TFSi Ambition;99900;100.000;Nykøbing M;2011;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition/1445131
+Audi A4;1,8 TFSi 120;154900;115.000;Slagelse;2012;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120/1589667
+Audi Q3;35 TFSi Advanced;384900;14.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced/1593663
+Audi A4;1,6 Avant;53900;244.000;Hvidovre;2007;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1595271
+Audi A6;2,4 V6;69800;230.000;Bramming;2007;https://www.biltorvet.dk/bil/audi/a6/2-4-v6/1607608
+Audi A4;2,4 V6 Cabriolet;139700;151.000;Vodskov;2003;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet/1612096
+Audi A4;1,8 T 163;49400;244.000;Kruså;2005;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163/1623216
+Audi A6;2,4 V6;29900;299.000;Esbjerg;2004;https://www.biltorvet.dk/bil/audi/a6/2-4-v6/1624648
+Audi A3;1,6 Attraction;72080;196.000;Aalborg;2006;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction/1644457
+Audi A6;2,0 TFSi;89900;142.000;Randers;2007;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1644780
+Audi A3;3,2 Ambition quattro;149800;152.000;Brørup;2004;https://www.biltorvet.dk/bil/audi/a3/3-2-ambition-quattro/1645778
+Audi A4;1,6 Avant;15000;300.000;Høng;1998;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1646277
+Audi A3;1,6 Attraction Sportback;149900;48.000;Taastrup;2011;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction-sportback/1651566
+Audi 80;2,0 E aut.;28000;183.000;Herlev;1992;https://www.biltorvet.dk/bil/audi/80/2-0-e-aut/1655782
+Audi A3;1,6 Ambition Sportback;49900;229.000;Silkeborg;2007;https://www.biltorvet.dk/bil/audi/a3/1-6-ambition-sportback/1666352
+Audi A4;2,0 TFSi 211;149500;109.000;Viborg;2012;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-211/1679540
+Audi A6;2,8 FSi Multitr.;174900;137.000;Stenderup;2011;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-multitr/1686100
+Audi A6;2,0 Avant;14900;302.000;Slangerup;2003;https://www.biltorvet.dk/bil/audi/a6/2-0-avant/1695800
+Audi A3;1,6 Attraction;12980;312.000;Nørre Aaby;1998;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction/1698467
+Audi A6;2,0 TFSi 170;99900;289.000;Brønderslev;2010;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-170/1700095
+Audi A4;2,4 V6 Cabriolet;99000;-;Mørkøv;2002;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet/1701781
+Audi A6;3,2 FSi Multitr.;59900;269.000;Hjørring;2005;https://www.biltorvet.dk/bil/audi/a6/3-2-fsi-multitr/1704797
+Audi A6;2,0 TFSi;99900;159.000;Taastrup;2009;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1708035
+Audi A3;1,6 Ambiente Sportback;28600;316.000;Herfølge;2004;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente-sportback/1718508
+Audi A6;2,4 V6 Multitr.;38000;305.000;Skanderborg;2007;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-multitr/1721804
+Audi A6;2,0 TFSi;63900;227.000;Åbyhøj;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1726829
+Audi A3;1,6 Attraction Sportback;19800;360.000;Viborg;2005;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction-sportback/1732120
+Audi A1;- 122HK 3d;109800;113.000;Birkerød;2012;https://www.biltorvet.dk/bil/audi/a1/122hk-3d/1733873
+Audi A6;2,0 TFSi Avant;59900;250.000;Grindsted;2006;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-avant/1739804
+Audi A6;2,4 V6 Tiptr.;12990;229.000;Herlev;1997;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-tiptr/1743321
+Audi Q3;1,4 TFSi 150;189900;94.000;Lejre;2014;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150/1746984
+Audi A8;2,8 aut.;49700;234.000;Vodskov;1994;https://www.biltorvet.dk/bil/audi/a8/2-8-aut/1749178
+Audi A3;1,6 102HK 3d;69000;189.000;Frederiksberg;2007;https://www.biltorvet.dk/bil/audi/a3/1-6-102hk-3d/1750218
+Audi A6;2,0 TFSi 170;95800;180.000;Frederikshavn;2010;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-170/1752205
+Audi A4;1,8 T 163;79900;149.000;Jægerspris;2006;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163/1754768
+Audi A6;2,0 TFSi;84321;264.000;Farsø;2008;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1756561
+Audi A4;2,0 130HK;29900;352.000;Hobro;2003;https://www.biltorvet.dk/bil/audi/a4/2-0-130hk/1756592
+Audi A6;2,8 V6;12980;428.000;Nørre Aaby;1997;https://www.biltorvet.dk/bil/audi/a6/2-8-v6/1756691
+Audi A4;1,6 Avant;24800;328.000;Kjellerup;2004;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1757097
+Audi A4;1,8 TFSi 120;184700;90.000;Vodskov;2015;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120/1757143
+Audi A4;1,8 TFSI 160HK;109900;103.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160hk/1759184
+Audi A4;2,4 V6 Cabriolet;89999;220.000;Roskilde;2004;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-cabriolet/1761527
+Audi A6;2,4 V6 Multitr.;59900;234.000;Silkeborg;2005;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-multitr/1761695
+Audi A6;1,8 T;8980;150.000;Nørre Aaby;1997;https://www.biltorvet.dk/bil/audi/a6/1-8-t/1763380
+Audi A6;2,0 TFSi;55000;256.000;Slangerup;2007;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1765265
+Audi A4;2,0 Avant;84900;154.000;Grindsted;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-avant/1767092
+Audi A3;1,6 Ambiente;34700;198.000;Herning;2004;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente/1769197
+Audi A4;1,8 T 163HK;60000;161.000;Rødding;2007;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163hk/1770786
+Audi A3;1,6 Ambiente Sportback;30000;219.000;Karise;2004;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente-sportback/1772169
+Audi A6;2,8 FSi Multitr.;179700;199.000;Vodskov;2014;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-multitr/1772282
+Audi A4;1,6 Avant;39900;-;Hvidovre;2005;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1772541
+Audi A3;1,6 Ambition aut.;79800;116.000;Jelling;2007;https://www.biltorvet.dk/bil/audi/a3/1-6-ambition-aut/1772573
+Audi A4;1,8 T 163;49900;283.000;Middelfart;2006;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163/1773154
+Audi A6;2,4 V6;119800;63.000;Nørresundby;2005;https://www.biltorvet.dk/bil/audi/a6/2-4-v6/1773555
+Audi A4;1,6 Avant;47900;175.000;Hvidovre;2005;https://www.biltorvet.dk/bil/audi/a4/1-6-avant/1774471
+Audi A4;1,8 T 163;59000;223.000;Kerteminde;2006;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163/1776808
+Audi A4;1,8 T 163HK;55000;212.000;Kongerslev;2007;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163hk/1776894
+Audi 100;2,6 E aut.;19900;296.000;Kerteminde;1992;https://www.biltorvet.dk/bil/audi/100/2-6-e-aut/1777350
+Audi A3;1,6 Ambiente;39900;172.000;Holmegaard;2006;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente/1777727
+Audi A6;2,0 Avant;16200;314.000;Køge;2003;https://www.biltorvet.dk/bil/audi/a6/2-0-avant/1774321
+Audi A4;1,8 TFSi 160;89900;188.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160/1779751
+Audi A3;1,6 Attraction;15000;188.000;Hillerød;2006;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction/1779142
+Audi A3;1,6 Ambiente Sportback;59900;198.000;Ringe;2007;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente-sportback/1779011
+Audi S6;4,0 TFSi Avant quattro S-tr.;699900;83.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1657377
+Audi A5;1,8 TFSi 170 Sportback;229900;92.000;Næstved;2013;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/732152
+Audi A4;1,8 T 163 Avant;39800;220.000;Nørresundby;2004;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163-avant/1654946
+Audi A1;1,4 TFSi 122 Attraction Sportback;109900;71.000;Næstved;2013;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-attraction-sportback/1664297
+Audi A1;1,0 TFSi 81 Sport Sportback;169900;41.000;Nordborg;2017;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-81-sport-sportback/1691658
+Audi A5;1,8 TFSi 170 Sportback;200000;118.000;Esbjerg;2014;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1718518
+Audi A1;1,0 TFSi 95 Sport Sportback;159900;27.000;Hjørring;2016;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-sport-sportback/1772715
+Audi Q3;35 TFSi Advanced S-tr.;419000;19.000;Greve;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1682866
+Audi SQ5;3,0 TFSi quattro Tiptr.;869900;61.000;Holbæk;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1725729
+Audi S5;3,0 TFSi Cabriolet quattro Tiptr.;849849;62.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-tiptr/1774231
+Audi S3;2,0 TFSI Quat S Tron 300HK 6g Aut.;365000;129.000;Bryrup;2014;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quat-s-tron-300hk-6g-aut/1765252
+Audi A6;2,0 Avant Limited Edition Multitr.;29500;357.000;Risskov;2004;https://www.biltorvet.dk/bil/audi/a6/2-0-avant-limited-edition-multitr/1603533
+Audi S8;4,0 TFSi Plus quattro Tiptr.;1249900;52.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/s8/4-0-tfsi-plus-quattro-tiptr/1657434
+Audi A1;1,2 TFSI Ambition 86HK 3d;95000;90.000;Dronninglund;2011;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-ambition-86hk-3d/1689239
+Audi A3;1,0 TFSi 116 Sportback;209800;47.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1706019
+Audi A4;2,0 TFSi 190 Sport Avant;289800;58.000;Hundested;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant/1710419
+Audi A3;1,4 TFSi 150 Sport Sportback;233780;52.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback/1713580
+Audi Q5;3,0 TFSi quattro Tiptr.;359000;97.000;Skærbæk;2014;https://www.biltorvet.dk/bil/audi/q5/3-0-tfsi-quattro-tiptr/1722418
+Audi Q3;1,4 TFSI 150HK 5d 6g;229995;71.000;Svendborg;2015;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150hk-5d-6g/1730255
+Audi A4;2,0 TFSI 180HK Stc;129000;157.000;Frederiksværk;2011;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-180hk-stc/1745991
+Audi A5;1,8 TFSi 170 Sportback;139900;180.000;Aabybro;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1767998
+Audi A3;1,2 TFSi 105 Ambiente Sportback;99800;145.000;Næstved;2011;https://www.biltorvet.dk/bil/audi/a3/1-2-tfsi-105-ambiente-sportback/1770748
+Audi A3;1,4 TFSi Ambiente Sportback;79900;137.000;Fredensborg;2008;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambiente-sportback/1772962
+Audi A3;1,0 TFSi 116 Sportback;224800;29.000;Hundested;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1606792
+Audi S8;4,0 TFSI Quattro Tiptr. 605HK 8g Aut.;1199800;45.000;Viby;2016;https://www.biltorvet.dk/bil/audi/s8/4-0-tfsi-quattro-tiptr--605hk-8g-aut/1691288
+Audi A5;1,8 TFSi 170 Cabriolet;354900;59.000;Skanderborg;2015;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-cabriolet/1718684
+Audi A6;Avant 2,8 193HK Stc;49900;409.000;Brørup;2000;https://www.biltorvet.dk/bil/audi/a6/avant-2-8-193hk-stc/1553006
+Audi A3;1,4 TFSi 140 Ambition Sportback;169700;79.000;Gislinge;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambition-sportback/1595502
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;208800;38.070;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1597628
+Audi A1;1,4 TFSi 125 Sportback;199900;90.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-125-sportback/1621021
+Audi A5;1,8 TFSi 170 Cabriolet;239900;107.000;Fredericia;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-cabriolet/1644251
+Audi A3;1,8 TFSi Attraction Sportback;109800;147.000;Ishøj;2009;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-attraction-sportback/1683856
+Audi TT;2,0 TFSi 230 Coupé;359900;87.000;Næstved;2015;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-230-coupe/1703937
+Audi A1;1,0 TFSi 95 Ultra Sportback;179900;20.000;Varde;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1734799
+Audi Q2;1,4 TFSi 150 Sport;249900;52.000;Skanderborg;2017;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport/1748971
+Audi TT;1,8 T 180 Coupé;79900;244.000;Silkeborg;1999;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1754869
+Audi A3;1,4 TFSI Sport 116HK Cabr. 6g;264900;35.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-sport-116hk-cabr--6g/1758259
+Audi A1;1,0 TFSi 95 Ultra Sportback;179900;22.000;Næstved;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1766769
+Audi A6;Avant 2,0 TFSI 170HK Stc 6g;60000;287.000;Slagelse;2007;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tfsi-170hk-stc-6g/1773683
+Audi A3;30 TFSi S-tr.;254900;19.000;Næstved;2019;https://www.biltorvet.dk/bil/audi/a3/30-tfsi-s-tr/1777293
+Audi RS 6;5,0 FSI Quattro Tiptr. 580HK 6g Aut.;219999;94.000;Herning;2009;https://www.biltorvet.dk/bil/audi/rs-6/5-0-fsi-quattro-tiptr--580hk-6g-aut/1668153
+Audi A4;2,4 V6 Multitr. 170HK Cabr. Trinl. Gear;99500;196.000;Kongens Lyngby;2004;https://www.biltorvet.dk/bil/audi/a4/2-4-v6-multitr--170hk-cabr--trinl--gear/1772477
+Audi A3;1,4 TFSI Sport S Tronic 150HK 7g Aut.;245000;87.500;Årre;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-sport-s-tronic-150hk-7g-aut/1773635
+Audi A3;Sportback 1,4 T FSI Attraction 125HK Stc 6g;74800;183.000;Albertslund;2009;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-t-fsi-attraction-125hk-stc-6g/653630
+Audi S6;4,0 TFSI Quat S Tron 420HK;449000;144.000;Egå;2014;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-quat-s-tron-420hk/1524764
+Audi A3;1,4 TFSi 140 Ambition Sportback;169900;115.000;Bogense;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambition-sportback/1619029
+Audi A4;Avant 1,4 TFSI 150HK Stc 6g;277500;56.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-1-4-tfsi-150hk-stc-6g/1638533
+Audi A4;Avant 1,4 TFSI 150HK Stc 6g;2749;56.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-1-4-tfsi-150hk-stc-6g/1638579
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;799900;32.000;Engesvang;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1654086
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;839800;37.000;Ribe;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1713790
+Audi SQ5;3,0 TFSi quattro Tiptr.;5140;34.000;Esbjerg;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1733821
+Audi S5;3,0 TFSi Cabriolet quattro Tiptr.;799800;63.000;Bramming;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-tiptr/1766875
+Audi S5;3,0 TFSi Cabriolet quattro Tiptr.;899900;38.000;Frederikshavn;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-tiptr/1777553
+Audi Q2;1,4 TFSi 150 S-tr.;289900;48.000;Greve;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-s-tr/1682877
+Audi Q2;1,4 TFSi 150 Sport S-tr.;279900;48.000;Kolding;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-sport-s-tr/1753333
+Audi A3;Sportback 1,5 TFSI Sport Limited Edition S Tronic 150HK 5d 7g Aut.;279900;50.000;Løgstrup;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-5-tfsi-sport-limited-edition-s-tronic-150hk-5d-7g-aut/1761548
+Audi A1;Sportback 1,4 TFSI 125HK 5d;189800;31.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a1/sportback-1-4-tfsi-125hk-5d/1622817
+Audi Q3;1,4 TFSi 150 Limited Edition;254800;45.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-limited-edition/1578601
+Audi A3;1,8 TFSi 180 Ambition Cabriolet;299700;37.000;Viborg;2015;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-180-ambition-cabriolet/1625405
+Audi Q3;1,4 TFSI 150HK 5d 6g;269800;46.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150hk-5d-6g/1636770
+Audi S4;4,2 V8 Avant quattro;219900;106.000;Varde;2003;https://www.biltorvet.dk/bil/audi/s4/4-2-v8-avant-quattro/1666130
+Audi Q3;35 TFSi S-tr.;349800;50.000;Frederikshavn;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-s-tr/1680533
+Audi SQ5;3,0 TFSi quattro Tiptr.;649400;120.000;Sønderborg;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1728197
+Audi A4;2,0 TFSi Avant quattro Tiptr.;119800;154.000;Birkerød;2007;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-avant-quattro-tiptr/1734529
+Audi A4;3,0 V6 Avant quattro Tiptr.;47000;242.000;Rødovre;2004;https://www.biltorvet.dk/bil/audi/a4/3-0-v6-avant-quattro-tiptr/1736449
+Audi A4;1,8 TFSi 170 Avant Multitr.;199800;141.000;Kastrup;2013;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-avant-multitr/1743349
+Audi A4;1,8 TFSi 120 Avant;149995;155.000;Ølstykke;2012;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-avant/1750332
+Audi A1;1,0 TFSi 95 Ultra Sportback;169000;41.000;Brønderslev;2016;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1751617
+Audi RS 4;4,2 Avant quattro;249995;169.000;Silkeborg;2007;https://www.biltorvet.dk/bil/audi/rs-4/4-2-avant-quattro/1758354
+Audi TT;1,8 T 180 Coupé;59500;312.000;Tønder;2000;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1772501
+Audi A8;4,2 Quattro Tiptr. 335HK 6g Aut.;119000;236.000;København;2004;https://www.biltorvet.dk/bil/audi/a8/4-2-quattro-tiptr--335hk-6g-aut/1779632
+Audi A3;3,2 Ambition quattro DSG;89900;96.000;Hjørring;2004;https://www.biltorvet.dk/bil/audi/a3/3-2-ambition-quattro-dsg/1757074
+Audi SQ5;3,0 TFSi quattro Tiptr.;859000;36.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1766075
+Audi SQ5;3,0 TFSi quattro Tiptr.;859000;36.500;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1766076
+Audi S7;4,0 TFSi Sportback quattro S-tr.;939939;62.000;Bramming;2016;https://www.biltorvet.dk/bil/audi/s7/4-0-tfsi-sportback-quattro-s-tr/1610311
+Audi Q3;35 TFSi Prestige Sportback S-tr.;384900;15.000;Højbjerg;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-prestige-sportback-s-tr/1776858
+Audi TT;Roadster 2,0 TFSI Tiptr. 200HK Cabr. 6g Aut.;195000;205.000;Jyllinge;2008;https://www.biltorvet.dk/bil/audi/tt/roadster-2-0-tfsi-tiptr--200hk-cabr--6g-aut/1756381
+Audi A3;1,0 TFSI Sport 116HK 6g;219800;49.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-sport-116hk-6g/1746067
+Audi S5;3,0 TFSI quattro aut. 333HK 5d;299900;147.000;Struer;2011;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-quattro-aut--333hk-5d/1577744
+Audi A1;1,0 TFSi 95 Ultra Sportback;174900;43.000;Kastrup;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1579562
+Audi A5;1,8 TFSi 160 Sportback;154980;129.000;Lejre;2011;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-160-sportback/1597245
+Audi A3;Sportback 1,4 TFSI Ambition 150HK 5d;165000;106.000;Aarhus;2016;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambition-150hk-5d/1689569
+Audi A5;2,0 TFSI 180HK 2d;135000;193.000;Varde;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180hk-2d/1750210
+Audi A4;2,0 TFSi 190 Avant;259900;93.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-avant/1757591
+Audi A3;1,4 TFSi 122 Ambiente Sportback;154700;94.000;Vodskov;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambiente-sportback/1766585
+Audi A1;Sportback 1,0 TFSI 95HK 5d;149800;67.000;Valby;2016;https://www.biltorvet.dk/bil/audi/a1/sportback-1-0-tfsi-95hk-5d/1777348
+Audi A1;1,4 TFSi 140 Attraction S-tr.;169990;70.000;Faaborg;2014;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-140-attraction-s-tr/1744327
+Audi Q2;1,4 TFSi 150 S-tr.;339900;60.000;Storvorde;2017;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-s-tr/1749280
+Audi A4;40 TFSi Advanced Avant S-tr.;347000;31.000;Taastrup;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-avant-s-tr/1779121
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;204800;40.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1698898
+Audi A3;1,4 TFSi 122 Attraction Sportback;154800;114.000;Haslev;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-attraction-sportback/1751868
+Audi TTS;Roadster 2,0 TFSI Quat S Tron 272HK Cabr. 6g Aut.;269000;156.000;Frederiksværk;2009;https://www.biltorvet.dk/bil/audi/tts/roadster-2-0-tfsi-quat-s-tron-272hk-cabr--6g-aut/1590781
+Audi SQ5;3,0 TFSi quattro Tiptr.;799995;59.000;Kastrup;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1731586
+Audi SQ5;3,0 TFSi quattro Tiptr.;799800;81.000;Esbjerg;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1774635
+Audi Q2;30 TFSi Sport S-tr.;289995;27.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/q2/30-tfsi-sport-s-tr/1641227
+Audi A6;1,8 TFSi 190 Ultra S-tr.;334800;54.000;Farum;2017;https://www.biltorvet.dk/bil/audi/a6/1-8-tfsi-190-ultra-s-tr/1724794
+Audi A6;2,0 TFSi 252 S-tr.;319900;66.000;Fredericia;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-252-s-tr/1730484
+Audi A4;40 TFSi Advanced+ Avant S-tr.;414900;16.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1734810
+Audi A7;1,8 TFSi 190 Sportback S-tr.;459900;59.000;Næstved;2017;https://www.biltorvet.dk/bil/audi/a7/1-8-tfsi-190-sportback-s-tr/1758517
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;389900;43.000;København;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1640476
+Audi A3;35 TFSi Sport Limited Sportback S-tr.;319900;5.000;Daugård;2020;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-limited-sportback-s-tr/1776474
+Audi S7;4,0 TFSi Sportback quattro S-tr.;619900;118.000;Ringsted;2012;https://www.biltorvet.dk/bil/audi/s7/4-0-tfsi-sportback-quattro-s-tr/1744026
+Audi S3;2,0 TFSi Cabriolet quattro S-tr.;619800;31.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-cabriolet-quattro-s-tr/1753068
+Audi Q3;35 TFSi Advanced S-tr.;364900;24.000;Egå;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1778047
+Audi R8;4,2 FSi Spyder quattro S-tr.;1299900;28.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/r8/4-2-fsi-spyder-quattro-s-tr/1657422
+Audi Q2;1,0 TFSI Sport 116HK 5d 6g;224800;68.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/q2/1-0-tfsi-sport-116hk-5d-6g/1675764
+Audi A5;2,0 TFSi 190 Sport Coupé S-tr.;359900;48.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-coupe-s-tr/1558996
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;314900;42.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1724141
+Audi A3;1,5 TFSI Sport Prestige S Tronic 150HK Cabr. 7g Aut.;380000;12.500;Hørsholm;2019;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-sport-prestige-s-tronic-150hk-cabr--7g-aut/1736694
+Audi A3;1,8 TFSi 180 Ambition Sportback S-tr.;184000;166.000;Stenløse;2013;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-180-ambition-sportback-s-tr/1759953
+Audi RS 6;4,0 TFSi Avant quattro Tiptr.;1199900;121.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-avant-quattro-tiptr/1677055
+Audi RS 6;4,0 TFSi performance Avant quattro;1199500;89.000;Vejle Øst;2017;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-performance-avant-quattro/1777438
+Audi A6;2,0 TFSi 252 Avant S-tr.;364800;130.000;Slangerup;2016;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-252-avant-s-tr/1484375
+Audi S3;2,0 TFSi Sportback quattro S-tr.;449900;68.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-sportback-quattro-s-tr/1533101
+Audi A3;1,4 TFSi Ambition Sportback S-tr.;149900;130.000;Viborg;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition-sportback-s-tr/1549630
+Audi R8;4,2 FSi Coupé quattro R-tr.;399995;71.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/r8/4-2-fsi-coupe-quattro-r-tr/1607584
+Audi A1;1,4 TFSi 122 Attraction S-tr.;159900;81.000;Ringe;2014;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-attraction-s-tr/1687825
+Audi A3;1,4 TFSi 125 Ambition S-tr.;214900;95.000;Holstebro;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-ambition-s-tr/1710932
+Audi A6;2,0 TFSi 252 S-tr.;395000;55.000;Taastrup;2017;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-252-s-tr/1779392
+Audi S5;Sportback 3,0 TFSI Quat S Tron 333HK 5d 7g Aut.;279000;214.000;Esbjerg;2012;https://www.biltorvet.dk/bil/audi/s5/sportback-3-0-tfsi-quat-s-tron-333hk-5d-7g-aut/1762483
+Audi A3;Sportback 1,4 TFSI Ambition S Tronic 150HK 5d 7g Aut.;194900;96.000;Kastrup;2015;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambition-s-tronic-150hk-5d-7g-aut/1769049
+Audi A3;1,4 TFSi 150 Sport Sportback S-tr.;239700;137.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback-s-tr/1717379
+Audi A3;30 TFSi Sportback S-tr.;259900;27.000;Viborg;2019;https://www.biltorvet.dk/bil/audi/a3/30-tfsi-sportback--s-tr/1717263
+Audi A6;45 TFSi Sport Avant S-tr.;699900;3.000;Frederikssund;2019;https://www.biltorvet.dk/bil/audi/a6/45-tfsi-sport-avant-s-tr/1748111
+Audi A4;40 TFSi Advanced Avant S-tr.;359900;20.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-avant-s-tr/1748945
+Audi A3;1,0 TFSi 116 Sportback S-tr.;245000;23.000;Gadstrup;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback-s-tr/1755652
+Audi S6;4,0 TFSi Avant quattro S-tr.;689900;49.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1764559
+Audi Q3;1,4 TFSi 150 Sport S-tr.;399800;46.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-s-tr/1778948
+Audi S3;2,0 TFSi Cabriolet quattro S-tr.;549649;63.000;Bramming;2015;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-cabriolet-quattro-s-tr/1545690
+Audi A4;2,0 TFSi 190 Sport S-tr.;319900;47.000;Bogense;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-s-tr/1616405
+Audi Q3;35 TFSi Advanced S-tr.;374800;22.000;Køge;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1639014
+Audi A5;2,0 TFSI Multitr. 180HK Cabr. Trinl. Gear;229800;177.000;Them;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-multitr--180hk-cabr--trinl--gear/1662645
+Audi RS 6;5,0 TFSi Avant quattro Tiptr.;419900;211.000;Østbirk;2008;https://www.biltorvet.dk/bil/audi/rs-6/5-0-tfsi-avant-quattro-tiptr/1706406
+Audi A4;2,0 TFSi 190 Avant S-tr.;304900;50.000;Vejle;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-avant-s-tr/1711690
+Audi A5;2,0 TFSI Multitr. 180HK Cabr. Trinl. Gear;89000;180.300;Varde;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-multitr--180hk-cabr--trinl--gear/1725295
+Audi S6;4,0 TFSi Avant quattro S-tr.;389900;206.000;Nørresundby;2012;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1730778
+Audi R8;4,2 FSi Coupé quattro R-tr.;285000;118.000;Agerskov;2008;https://www.biltorvet.dk/bil/audi/r8/4-2-fsi-coupe-quattro-r-tr/1746528
+Audi A7;2,0 TFSi 252 Sportback S-tr.;399895;150.000;Ølstykke;2016;https://www.biltorvet.dk/bil/audi/a7/2-0-tfsi-252-sportback-s-tr/1747831
+Audi A4;40 TFSi Sport Prestige Avant S-tr;384900;21.000;Hillerød;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1695576
+Audi Q5;2,0 TFSi 252 Sport quattro S-tr.;624900;49.000;Køge;2018;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-252-sport-quattro-s-tr/1740235
+Audi A5;2,0 TFSi 252 Sport Sportback S-tr.;459900;60.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-252-sport-sportback-s-tr/1537905
+Audi A3;40 TFSi Limited+ Sportback quattro S-tr;369900;21.000;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-limited--sportback-quattro-s-tr/1734143
+Audi A4;2,0 TFSI Sport S Tronic 190HK Aut.;329800;20.000;Nørre Snede;2019;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-sport-s-tronic-190hk-aut/1570618
+Audi A3;Sportback 1,0 TFSI Sport 116HK 5d 6g;214800;56.000;Nørre Snede;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-sport-116hk-5d-6g/1742427
+Audi A7;1,8 TFSi 190 Sportback S-tr.;499895;32.000;Glostrup;2017;https://www.biltorvet.dk/bil/audi/a7/1-8-tfsi-190-sportback-s-tr/1428770
+Audi A4;Avant 1,8 T Quattro 150HK Stc;49800;-;Albertslund;1998;https://www.biltorvet.dk/bil/audi/a4/avant-1-8-t-quattro-150hk-stc/731355
+Audi Q5;2,0 TFSi 180 quattro;199900;207.000;Solrød Strand;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-180-quattro/997755
+Audi A4;2,0 TFSi 180 Avant quattro;209900;127.000;Solrød Strand;2014;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-180-avant-quattro/1020567
+Audi A4;1,8 TFSi 120 Avant;269900;24.000;Taastrup;2015;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-avant/1204834
+Audi A6;Avant 2,0 130HK Stc;19900;265.000;Maribo;2004;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-130hk-stc/1225255
+Audi A5;1,8 TFSi 170 Sportback;199700;117.000;Viborg;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1246902
+Audi A3;1,4 TFSI 125HK 5d;186500;71.000;Søndersø;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125hk-5d/1247494
+Audi A5;Sportback 1,8 TFSI 170HK 5d 6g;268900;47.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-170hk-5d-6g/1282761
+Audi A1;Sportback 1,0 TFSI Sport 95HK 5d;179900;20.150;Vordingborg;2018;https://www.biltorvet.dk/bil/audi/a1/sportback-1-0-tfsi-sport-95hk-5d/1340047
+Audi A3;1,4 TFSI Attraction 125HK 6g;198900;75.000;Skærbæk;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-attraction-125hk-6g/1362293
+Audi A3;Sportback 1,0 TFSI 116HK Stc 6g;229900;17.000;Løgumkloster;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-stc-6g/1371711
+Audi A3;1,4 TFSi 150 Sport Sportback;249900;29.000;Taastrup;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback/1393354
+Audi A5;1,8 TFSI 177HK Cabr. 6g;394800;28.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-177hk-cabr--6g/1413273
+Audi TT;1,8 T 180HK 2d;109900;185.000;Ballerup;1999;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180hk-2d/1472669
+Audi Q3;2,0 TFSI Quattro 170HK 5d 6g;207500;108.000;Tørring;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tfsi-quattro-170hk-5d-6g/1477518
+Audi A3;1,4 TFSi 122 Ambition;109800;225.000;Fårevejle;2013;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambition/1478210
+Audi A4;Avant 1,8 TFSI 170HK Stc 6g;189900;115.000;Odense;2015;https://www.biltorvet.dk/bil/audi/a4/avant-1-8-tfsi-170hk-stc-6g/1486223
+Audi A1;1,4 TFSi 122 Attraction;110000;108.000;Rude;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-attraction/1503228
+Audi A3;1,8 TFSI Ambiente 160HK 3d 6g;89900;97.000;Randers;2009;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-ambiente-160hk-3d-6g/1505894
+Audi A4;2,0 TFSI aut. 200HK Cabr.;169900;165.000;Tjele;2007;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-aut--200hk-cabr/1507069
+Audi A4;1,4 TFSi 150 Avant;279900;34.000;Hørsholm;2016;https://www.biltorvet.dk/bil/audi/a4/1-4-tfsi-150-avant/1510490
+Audi A5;2,0 TFSi 180 Cabriolet Multitr.;219980;147.000;Næstved;2009;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180-cabriolet-multitr/1530489
+Audi A3;1,4 TFSI Sport 116HK Cabr. 6g;284900;60.000;Skærbæk;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-sport-116hk-cabr--6g/1530575
+Audi A4;Avant 1,8 TFSI 119HK Stc 6g;79900;191.000;Hjørring;2009;https://www.biltorvet.dk/bil/audi/a4/avant-1-8-tfsi-119hk-stc-6g/1532895
+Audi A5;2,0 TFSi 180 Sportback;189800;102.000;Birkerød;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180-sportback/1578919
+Audi A6;2,4 V6 Quattro 177HK 6g;89900;205.000;Ballerup;2007;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-quattro-177hk-6g/1597263
+Audi SQ5;3,0 TFSi quattro Tiptr.;839900;62.000;Varde;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1606502
+Audi Coupé;2,0 E;119900;74.000;Them;1986;https://www.biltorvet.dk/bil/audi/coupe/2-0-e/1613104
+Audi SQ5;3,0 TFSi quattro Tiptr.;350000;40.000;Albertslund;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1614930
+Audi SQ5;3,0 TFSi quattro Tiptr.;799500;58.000;Slagelse;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1616613
+Audi A3;1,0 TFSi 116 Sportback;214880;56.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1632387
+Audi A3;1,4 TFSi 150 Sport Sportback;234700;32.000;Kolding;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback/1632805
+Audi A5;2,0 TFSi 180 Sportback;132000;118.000;Lejre;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180-sportback/1635542
+Audi TT;1,8 T 180 Coupé;69900;280.000;Lunderskov;1998;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1641181
+Audi Q3;1,4 TFSi 150 Sport Limited;289900;57.000;Greve;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-limited/1643979
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;202500;34.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1645481
+Audi A3;1,4 TFSi 150 Sport Sportback;229900;64.000;Kolding;2017;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback/1648778
+Audi A5;1,8 TFSi 170 Sportback;204980;156.000;Silkeborg;2014;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1655301
+Audi A4;2,0 TFSi 190 Sport Avant;314900;33.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant/1658100
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;2132;34.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1666899
+Audi 100;2,8 E Avant quattro;34900;222.000;Holmegaard;1992;https://www.biltorvet.dk/bil/audi/100/2-8-e-avant-quattro/1669696
+Audi A3;1,8 TFSi Attraction Sportback;169900;72.000;Vester Skerninge;2013;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-attraction-sportback/1676163
+Audi RS 4;4,2 quattro;399900;177.000;Agerskov;2006;https://www.biltorvet.dk/bil/audi/rs-4/4-2-quattro/1678018
+Audi A4;2,0 TFSI 180HK 6g;82900;221.000;Randers;2009;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-180hk-6g/1679406
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;695000;116.000;Odense;2018;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1681050
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;206995;46.975;Hirtshals;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1687754
+Audi A1;1,2 TFSi 86 Ambition;99900;115.000;Kongens Lyngby;2012;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86-ambition/1689384
+Audi S5;3,0 TFSi Sportback quattro Tiptr.;280000;60.000;Albertslund;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-tiptr/1689858
+Audi A5;1,8 TFSi 170 Sportback Multitr.;219900;132.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback-multitr/1690543
+Audi S6;5,2 FSi quattro Tiptr.;239900;117.000;Silkeborg;2006;https://www.biltorvet.dk/bil/audi/s6/5-2-fsi-quattro-tiptr/1691049
+Audi A5;1,8 TFSi 170 Sportback;144700;172.000;Vodskov;2013;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1692081
+Audi A6;2,8 FSi Avant Multitr.;219900;170.000;Blommenslyst;2012;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-avant-multitr/1696687
+Audi A5;2,0 TFSi 190 Sport Sportback;299900;100.000;Brøndby;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback/1699490
+Audi A5;1,8 TFSi 170 Sportback;174900;128.000;Sulsted;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1699629
+Audi A8;3,0 TFSi quattro Tiptr. lang;369900;115.000;Grindsted;2011;https://www.biltorvet.dk/bil/audi/a8/3-0-tfsi-quattro-tiptr--lang/1700618
+Audi Q7;3,0 TFSi quattro Tiptr.;389800;117.000;Grindsted;2014;https://www.biltorvet.dk/bil/audi/q7/3-0-tfsi-quattro-tiptr/1700639
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;292500;45.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1701136
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;2837;45.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1701137
+Audi A4;2,0 TFSI 190HK 6g;292500;29.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190hk-6g/1703212
+Audi A4;2,0 TFSI 190HK 6g;2837;29.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190hk-6g/1703213
+Audi A4;1,6 S-line;49900;211.000;Vemmelev;2007;https://www.biltorvet.dk/bil/audi/a4/1-6-s-line/1704840
+Audi A3;1,0 TFSI 116HK 6g;215000;32.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116hk-6g/1705394
+Audi A3;1,0 TFSI 116HK 6g;2132;32.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116hk-6g/1705396
+Audi A3;1,8 TFSi Ambition Sportback;59400;197.000;Vojens;2007;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-ambition-sportback/1707097
+Audi A6;Avant 2,0 TFSI 170HK Stc 6g;69880;222.000;Aalborg;2007;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-tfsi-170hk-stc-6g/1708941
+Audi A1;1,4 TFSi 122 Ambition;99900;128.000;Aalborg;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-ambition/1709744
+Audi A3;1,8 T Ambition aut.;49900;139.000;Grindsted;2001;https://www.biltorvet.dk/bil/audi/a3/1-8-t-ambition-aut/1713653
+Audi A1;Sportback 1,2 TFSI Attraction 86HK 5d;139900;64.000;Hedensted;2014;https://www.biltorvet.dk/bil/audi/a1/sportback-1-2-tfsi-attraction-86hk-5d/1717281
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;232500;26.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1717285
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;2308;26.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1717343
+Audi A4;Avant 2,0 130HK Stc;79800;143.000;Svendborg;2008;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-130hk-stc/1718561
+Audi A1;1,2 TFSi 86 Attraction;99800;87.000;Næstved;2011;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86-attraction/1718970
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;275000;59.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1719481
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;2661;59.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1719482
+Audi A3;1,4 TFSi 125 Attraction Sportback;177500;62.000;Slagelse;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-attraction-sportback/1719755
+Audi A3;1,0 TFSi 116 Sportback;189900;70.000;Kongens Lyngby;2017;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1720510
+Audi A5;1,8 TFSi 170 Sportback;155000;145.000;Silkeborg;2013;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback/1723538
+Audi A5;2,0 TFSi 211 Sportback quattro;169500;131.000;Nykøbing M;2011;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-211-sportback-quattro/1724269
+Audi A4;1,8 TFSi 170 Avant;149700;166.000;Gislinge;2012;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-avant/1727837
+Audi A3;1,4 TFSi Ambition Cabriolet;189900;128.000;Horsens;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition-cabriolet/1729733
+Audi A6;2,8 FSi Avant Multitr.;89900;279.000;Fredericia;2009;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-avant-multitr/1730570
+Audi A3;2,0 TFSi Ambition Sportback quattro;89900;178.000;Middelfart;2005;https://www.biltorvet.dk/bil/audi/a3/2-0-tfsi-ambition-sportback-quattro/1731956
+Audi TT;1,8 Coupé 180HK 2d;45000;275.000;Tørring;1999;https://www.biltorvet.dk/bil/audi/tt/1-8-coupe-180hk-2d/1732261
+Audi A1;1,0 TFSi 95 Ultra Sportback;179900;49.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1733292
+Audi A3;1,5 TFSI Sport 150HK 6g;235000;42.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-sport-150hk-6g/1735794
+Audi A3;1,5 TFSI Sport 150HK 6g;2308;42.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-sport-150hk-6g/1735795
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;295000;49.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1735951
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;2837;49.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1735952
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;217500;31.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1736131
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;2132;31.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1736132
+Audi A3;Sportback 1,6 Ambition 102HK 5d;44000;298.000;Rødding;2007;https://www.biltorvet.dk/bil/audi/a3/sportback-1-6-ambition-102hk-5d/1736723
+Audi A1;1,0 TFSi 95 Ultra Sportback;164900;62.000;Åbyhøj;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1737691
+Audi A4;1,8 TFSi 160 Avant;69400;274.000;Vojens;2009;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160-avant/1737815
+Audi TT;1,8 T 180 Coupé;45000;266.000;Grindsted;1998;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1739855
+Audi A5;1,8 TFSi 160 Sportback;139700;156.000;Gislinge;2010;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-160-sportback/1741121
+Audi A3;1,4 TFSi 122 Attraction Sportback;134700;182.000;Vodskov;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-attraction-sportback/1743197
+Audi Q3;1,4 TFSi 150 Ultra;219500;96.000;Hobro;2016;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-ultra/1743992
+Audi A4;1,8 TFSi 120 Avant;144800;95.000;Grindsted;2013;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-avant/1744109
+Audi A3;1,4 TFSi Attraction Sportback;134900;91.000;Engesvang;2011;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-attraction-sportback/1744132
+Audi A3;1,4 TFSI 125HK 5d;134900;91.000;Engesvang;2011;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125hk-5d/1744710
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;217500;36.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1744911
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;2132;36.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1744912
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;217500;39.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1745172
+Audi A3;Sportback 1,0 TFSI 116HK 5d 6g;2132;39.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-116hk-5d-6g/1745173
+Audi A3;1,0 TFSi 116 Sport Sportback;219880;41.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sport-sportback/1746254
+Audi A3;1,0 TFSi 116 Sportback;224880;22.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1746257
+Audi A1;1,4 TFSi 125 Sport Sportback;159900;93.000;Herning;2016;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-125-sport-sportback/1746550
+Audi A1;1,0 TFSi 95 Ultra Sportback;174900;44.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1746817
+Audi TT;1,8 T 180 Coupé;64800;255.000;Viborg;1998;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1748009
+Audi A3;1,8 Ambiente 125HK 5d;24800;332.000;Sønder Omme;2002;https://www.biltorvet.dk/bil/audi/a3/1-8-ambiente-125hk-5d/1748851
+Audi A3;2,0 FSi Ambition Sportback;59900;191.000;Nørresundby;2005;https://www.biltorvet.dk/bil/audi/a3/2-0-fsi-ambition-sportback/1749341
+Audi A6;2,4 V6 Multitr. 177HK Trinl. Gear;69900;232.000;Tørring;2006;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-multitr--177hk-trinl--gear/1750819
+Audi A3;1,4 TFSi Attraction Sportback;60000;168.000;Randers;2008;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-attraction-sportback/1751938
+Audi A4;Avant 2,0 130HK Stc;54800;246.000;Randers;2008;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-130hk-stc/1752566
+Audi A4;1,8 TFSi 170 Avant;149900;172.000;Them;2012;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-avant/1754639
+Audi SQ5;3,0 TFSi quattro Tiptr.;398000;13.000;Albertslund;2018;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1755189
+Audi A3;1,0 TFSi 116 Sportback;174900;105.000;Vejle;2016;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1755954
+Audi A1;1,0 TFSi 95 Ultra Sportback;174999;20.000;Hvidovre;2017;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1756566
+Audi A6;2,8 Avant quattro Tiptr.;12900;368.000;Silkeborg;1998;https://www.biltorvet.dk/bil/audi/a6/2-8-avant-quattro-tiptr/1757154
+Audi A3;35 TFSi Sport Sportback;244880;24.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-sportback/1759915
+Audi A1;1,2 TFSi 86 Attraction;79900;150.000;Nørresundby;2010;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86-attraction/1760841
+Audi A5;1,8 TFSi 170 Sportback Multitr.;259800;102.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback-multitr/1760940
+Audi A1;1,2 TFSI 86HK 3d;94900;140.000;Svendborg;2012;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86hk-3d/1760955
+Audi SQ5;3,0 TFSi quattro Tiptr.;869900;84.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1761365
+Audi A3;1,4 TFSi Ambiente Sportback;124900;97.000;Kolding;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambiente-sportback/1761898
+Audi SQ5;3,0 TFSi quattro Tiptr.;329900;84.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/sq5/3-0-tfsi-quattro-tiptr/1763057
+Audi A4 Allroad;2,0 TFSi 211 quattro;239900;156.000;Randers;2012;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tfsi-211-quattro/1763273
+Audi TT;1,8 T 180 Coupé;89600;190.000;Brovst;2000;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1763496
+Audi TT;1,8 T 180 Coupé;29500;190.000;Brovst;2000;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe/1763497
+Audi A4;1,8 TFSi 160 Multitr.;129500;146.000;Svendborg;2011;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160-multitr/1764949
+Audi A1;1,0 TFSi 95 Ultra Sportback;144900;89.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback/1769113
+Audi A1;1,2 TFSi 86 Ambition;74800;185.000;Odense;2011;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86-ambition/1769200
+Audi A6;Avant 2,0 130HK Stc;27500;215.000;Hvidovre;2004;https://www.biltorvet.dk/bil/audi/a6/avant-2-0-130hk-stc/1769310
+Audi A3;1,0 TFSI 116HK 6g;219900;43.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116hk-6g/1769825
+Audi A3;1,0 TFSI 116HK 6g;2132;43.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116hk-6g/1769826
+Audi A3;1,0 TFSi 116 Sportback;199900;48.000;Fredericia;2017;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1769962
+Audi A6;2,0 TFSI 170HK 6g;74900;135.000;Brøndby;2008;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-170hk-6g/1771447
+Audi A3;1,4 TFSi 150 Ambition;169400;128.000;Sønderborg;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambition/1771941
+Audi A1;1,2 TFSI Ambition 86HK 3d;95000;112.000;Gistrup;2012;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-ambition-86hk-3d/1772377
+Audi A4;1,8 TFSi 160 Avant;84900;192.000;Silkeborg;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160-avant/1772438
+Audi TT;1,8 T 180 Coupé quattro;67500;265.000;Næstved;2001;https://www.biltorvet.dk/bil/audi/tt/1-8-t-180-coupe-quattro/1773361
+Audi A4;1,8 TFSi 120 Avant;149900;150.000;Greve;2013;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-avant/1773567
+Audi A3;1,4 TFSi Attraction Sportback;69700;133.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-attraction-sportback/1773874
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;299900;44.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1774702
+Audi A4;Avant 2,0 TFSI 190HK Stc 6g;2837;44.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-190hk-stc-6g/1774703
+Audi A3;1,0 TFSi 116 Sportback;199800;65.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sportback/1775338
+Audi A3;1,4 TFSI Ambition 125HK 3d 6g;69900;140.000;Vodskov;2009;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition-125hk-3d-6g/1775361
+Audi A1;1,2 TFSi 86 Ambition Sportback;104900;137.000;Herning;2014;https://www.biltorvet.dk/bil/audi/a1/1-2-tfsi-86-ambition-sportback/1775722
+Audi A5;1,8 TFSi 170 Sportback Multitr.;189900;185.000;Græsted;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-sportback-multitr/1775983
+Audi A5;1,8 TFSi 160 Coupé;166989;90.000;Esbjerg;2010;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-160-coupe/1776117
+Audi A5;1,8 TFSi 144 Limited Sportback Multitr.;234900;151.000;Ballerup;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-144-limited-sportback-multitr/1776346
+Audi A3;1,4 TFSi Ambition Sportback;89900;-;Herning;2012;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-ambition-sportback/1778024
+Audi A8;6,0 W12 quattro Tiptr.;249800;289.000;Christiansfeld;2004;https://www.biltorvet.dk/bil/audi/a8/6-0-w12-quattro-tiptr/1778435
+Audi A4;2,0 S-line Avant;39400;290.000;Kruså;2008;https://www.biltorvet.dk/bil/audi/a4/2-0-s-line-avant/1778387
+Audi TT;1,8 Coupé quattro 225HK 2d;87000;233.000;Lystrup;2001;https://www.biltorvet.dk/bil/audi/tt/1-8-coupe-quattro-225hk-2d/1779685
+Audi A3;1,8 TFSi Ambiente Sportback;69900;132.000;Brøndby;2007;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-ambiente-sportback/1779777
+Audi S7;4,0 TFSi Sportback quattro S-tr.;649800;134.000;Randers;2013;https://www.biltorvet.dk/bil/audi/s7/4-0-tfsi-sportback-quattro-s-tr/1506358
+Audi RS 6;5,0 TFSi Avant quattro Tiptr.;299900;183.000;Varde;2009;https://www.biltorvet.dk/bil/audi/rs-6/5-0-tfsi-avant-quattro-tiptr/1553337
+Audi A4;40 TFSi Advanced+ Avant S-tr.;399700;12.000;Kolding;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced--avant-s-tr/1668461
+Audi Q3;1,4 TFSi 150 Ultra S-tr.;289900;55.000;Kolding;2017;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-ultra-s-tr/1686083
+Audi Q5;2,0 TFSi 211 quattro S-tr.;269900;132.000;Gadstrup;2012;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-211-quattro-s-tr/1718545
+Audi A3;1,4 TFSi 140 Ambiente S-tr.;180000;138.000;Gadstrup;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambiente-s-tr/1730920
+Audi Q5;3,2 FSi quattro S-tr.;229800;257.000;Vallensbæk;2010;https://www.biltorvet.dk/bil/audi/q5/3-2-fsi-quattro-s-tr/1751306
+Audi RS 6;4,0 TFSi performance Avant quattro;1129800;90.000;Ribe;2016;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-performance-avant-quattro/1779009
+Audi Q5;2,0 TFSi 252 S-line quattro S-tr.;629900;52.000;Hillerød;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-252-s-line-quattro-s-tr/1699030
+Audi A5;2,0 TFSi 252 Sport Sportback quattro S-tr.;579900;64.000;Hillerød;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-252-sport-sportback-quattro-s-tr/1765150
+Audi A4;40 TFSi Advanced Prestige Tour+ Avant S-tr.;384000;21.000;Fredericia;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-prestige-tour--avant-s-tr/1770699
+Audi Q3;1,4 TFSi 150 Sport Limited S-tr.;299800;61.000;Hundested;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-limited-s-tr/1731412
+Audi A5;2,0 TFSi 225 Cabriolet quattro S-tr.;399900;92.000;Fredericia;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-225-cabriolet-quattro-s-tr/1613667
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;339900;50.000;Bogense;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1615728
+Audi A4;Avant 2,0 TFSI Prestige Tour S Tronic 190HK Stc 7g Aut.;367500;31.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-prestige-tour-s-tronic-190hk-stc-7g-aut/1740054
+Audi RS 4;Avant 2,9 V6 Quattro Tiptr. 450HK Stc 8g Trinl. Gear;1199900;38.000;Svendborg;2018;https://www.biltorvet.dk/bil/audi/rs-4/avant-2-9-v6-quattro-tiptr--450hk-stc-8g-trinl--gear/1776582
+Audi RS 4;Avant 4,2 V8 Quat S Tron 450HK Stc 7g Aut.;799900;48.000;Svendborg;2015;https://www.biltorvet.dk/bil/audi/rs-4/avant-4-2-v8-quat-s-tron-450hk-stc-7g-aut/1776583
+Audi A5;Sportback 1,8 TFSI Multitr. 177HK 5d 8g Trinl. Gear;299900;43.000;Vordingborg;2016;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-multitr--177hk-5d-8g-trinl--gear/1215965
+Audi A4;Avant 2,0 TFSI Sport S Tronic 190HK Stc 7g Aut.;310000;60.000;Lystrup;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-s-tronic-190hk-stc-7g-aut/1388425
+Audi A4;Avant 2,0 TFSI S Tronic 190HK Stc 7g Aut.;289900;102.553;Odense;2016;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-s-tronic-190hk-stc-7g-aut/1753246
+Audi TT;2,0 TFSi S-line Coupé S-tr.;179900;133.000;Hvidovre;2008;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-s-line-coupe-s-tr/1773658
+Audi Q3;2,0 TFSi 180 Sport quattro S-tr.;299000;100.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q3/2-0-tfsi-180-sport-quattro-s-tr/1676260
+Audi A4;40 TFSi Sport Prestige Avant S-tr;389800;34.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1734414
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;319900;32.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1737650
+Audi RS 3;2,5 TFSi Sportback quattro S-tr.;869800;42.000;Ribe;2017;https://www.biltorvet.dk/bil/audi/rs-3/2-5-tfsi-sportback-quattro-s-tr/1752272
+Audi A1;35 TFSi S-line Sportback S-tr.;334900;24.000;Rødovre;2019;https://www.biltorvet.dk/bil/audi/a1/35-tfsi-s-line-sportback-s-tr/1639361
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;394900;32.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1540525
+Audi A5;1,4 TFSi 150 Sport Sportback S-tr.;329900;61.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a5/1-4-tfsi-150-sport-sportback-s-tr/1560470
+Audi A3;1,5 TFSi 150 Sport Cabriolet S-tr.;359900;60.000;Brøndby;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-cabriolet-s-tr/1631371
+Audi A5;Sportback 2,0 TFSI S Tronic 190HK 5d 7g Aut.;449900;32.099;Køge;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-s-tronic-190hk-5d-7g-aut/1636745
+Audi A5;2,0 TFSi 190 Sport Cabriolet S-tr.;459900;63.000;Brøndby;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-cabriolet-s-tr/1645832
+Audi Q2;1,4 TFSI Sport S Tronic 150HK 5d 7g Aut.;267000;56.000;Egå;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-sport-s-tronic-150hk-5d-7g-aut/1695980
+Audi A3;1,4 TFSi 150 Sport Sportback S-tr.;234900;53.000;Nørresundby;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-sport-sportback-s-tr/1734320
+Audi RS 5;4,2 FSi Coupé quattro S-tr.;439000;118.000;Bogense;2010;https://www.biltorvet.dk/bil/audi/rs-5/4-2-fsi-coupe-quattro-s-tr/1741639
+Audi A4;40 TFSi Advanced Prestige Tour+ Avant S-tr.;399900;11.000;Birkerød;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-prestige-tour--avant-s-tr/1753546
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;324900;76.000;Bogense;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1603856
+Audi A5;2,0 TFSi 225 Sportback quattro S-tr.;261000;90.000;København;2014;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-225-sportback-quattro-s-tr/1670243
+Audi A3;Sportback 1,4 TFSI Ambition S Tronic 122HK 5d Aut.;139000;232.000;Valby;2013;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambition-s-tronic-122hk-5d-aut/1717522
+Audi A4;40 TFSi Sport Prestige Avant S-tr;359900;26.000;Viborg;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1731932
+Audi A4;Avant 2,0 TFSI Prestige Tour S Tronic 190HK Stc 7g Aut.;3453;31.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-prestige-tour-s-tronic-190hk-stc-7g-aut/1740055
+Audi A4;Avant 1,8 TFSI Multitr. 119HK Stc 8g Trinl. Gear;249900;58.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a4/avant-1-8-tfsi-multitr--119hk-stc-8g-trinl--gear/1748437
+Audi A3;1,4 TFSi 140 Ambiente Sportback S-tr.;175000;101.000;Gadstrup;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambiente-sportback-s-tr/1749093
+Audi A5;Sportback 2,0 TFSI Sport S Tronic 190HK 5d 7g Aut.;367500;88.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-sport-s-tronic-190hk-5d-7g-aut/1750954
+Audi A5;Sportback 2,0 TFSI Sport S Tronic 190HK 5d 7g Aut.;3453;88.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-sport-s-tronic-190hk-5d-7g-aut/1750955
+Audi Q3;2,0 TFSi 180 Sport quattro S-tr.;449900;32.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q3/2-0-tfsi-180-sport-quattro-s-tr/1769154
+Audi A6;1,8 TFSi 190 Ultra S-line S-tr.;219880;208.000;Silkeborg;2015;https://www.biltorvet.dk/bil/audi/a6/1-8-tfsi-190-ultra-s-line-s-tr/1632334
+Audi A1;1,4 TFSi 185 S-line Sportback S-tr.;164800;112.000;Køge;2012;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-s-line-sportback--s-tr/1706101
+Audi RS 6;Avant 5,0 FSI Quattro Tiptr. 580HK Stc 6g Aut.;799900;108.450;Svendborg;2010;https://www.biltorvet.dk/bil/audi/rs-6/avant-5-0-fsi-quattro-tiptr--580hk-stc-6g-aut/1708713
+Audi A5;Sportback 1,8 TFSI Multitr. 177HK 5d 8g Trinl. Gear;295000;69.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-multitr--177hk-5d-8g-trinl--gear/1732403
+Audi A3;Sportback 1,5 TFSI S Line S Tronic 150HK 5d 7g Aut.;347500;17.000;Tørring;2020;https://www.biltorvet.dk/bil/audi/a3/sportback-1-5-tfsi-s-line-s-tronic-150hk-5d-7g-aut/1736133
+Audi A3;1,4 TFSi 122 Ambition Sportback S-tr.;169900;112.000;Roskilde;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambition-sportback--s-tr/1746427
+Audi A1;1,0 TFSi 95 Ultra Sportback S-tr.;234321;16.000;Farsø;2017;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-ultra-sportback-s-tr/1766517
+Audi A3;1,5 TFSi 150 Sport Sportback S-tr.;349900;15.000;Frederikssund;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-sportback-s-tr/1748110
+Audi A3;1,4 TFSi 140 Ambiente Cabriolet S-tr.;299900;45.000;Them;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambiente-cabriolet-s-tr/1533166
+Audi A6;1,8 TFSi 190 S-line Avant S-tr.;399995;65.000;Kastrup;2015;https://www.biltorvet.dk/bil/audi/a6/1-8-tfsi-190-s-line-avant-s-tr/1677172
+Audi A4;Avant 2,0 TFSI Advanced Prestige Tour Plus S Tronic 190HK Stc 7g Aut.;409800;11.700;Vejle;2020;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-advanced-prestige-tour-plus-s-tronic-190hk-stc-7g-aut/1743002
+Audi S5;3,0 TFSI Quattro Tiptr. 354HK 2d 8g Trinl. Gear;794800;64.000;Greve;2017;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-quattro-tiptr--354hk-2d-8g-trinl--gear/1656019
+Audi A5;Sportback 2,0 TFSI Multitr. 180HK 5d Trinl. Gear;169800;129.000;Vejle;2011;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-multitr--180hk-5d-trinl--gear/1145741
+Audi Q3;1,4 TFSI S Tronic 150HK 5d 6g Aut.;259900;94.500;Vordingborg;2016;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-s-tronic-150hk-5d-6g-aut/1215968
+Audi A3;Sportback 1,4 TFSI Attraction 150HK Stc 6g;174900;66.000;Løgumkloster;2015;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-attraction-150hk-stc-6g/1236970
+Audi S4;3,0 TFSi Avant quattro S-tr.;279900;230.000;Grindsted;2013;https://www.biltorvet.dk/bil/audi/s4/3-0-tfsi-avant-quattro-s-tr/1460526
+Audi A3;1,5 TFSi 150 Sport S-tr.;279900;36.000;Skive;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-s-tr/1461920
+Audi A4;1,8 TFSi 120 S-line Avant;189800;130.000;Næstved;2015;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-s-line-avant/1517797
+Audi A5;2,0 TFSI Multitr. 180HK 5d Trinl. Gear;179900;129.000;Tjele;2011;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-multitr--180hk-5d-trinl--gear/1522662
+Audi S6;4,0 TFSi Avant quattro S-tr.;699800;89.000;Stenløse;2014;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1554859
+Audi Q3;2,0 TFSi 170 quattro S-tr.;200600;121.000;Skælskør;2012;https://www.biltorvet.dk/bil/audi/q3/2-0-tfsi-170-quattro-s-tr/1567549
+Audi Q3;1,4 TFSI S Tronic 150HK 5d 7g Aut.;269700;65.000;Aalborg;2016;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-s-tronic-150hk-5d-7g-aut/1585245
+Audi A4;1,4 TFSi 150 Sport S-tr.;249900;170.000;Roskilde;2016;https://www.biltorvet.dk/bil/audi/a4/1-4-tfsi-150-sport-s-tr/1585416
+Audi A6;1,8 TFSi 190 Ultra S-tr.;399900;59.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a6/1-8-tfsi-190-ultra-s-tr/1585575
+Audi Q3;35 TFSi Advanced S-tr.;399900;8.000;Fredericia;2019;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1593641
+Audi A4;2,0 TFSi 190 Sport S-tr.;334900;48.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-s-tr/1605014
+Audi A3;35 TFSi Sport Cabriolet S-tr.;399900;4.000;Taastrup;2019;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-cabriolet-s-tr/1608835
+Audi A5;40 TFSi Sport Coupé S-tr.;459900;22.000;Køge;2019;https://www.biltorvet.dk/bil/audi/a5/40-tfsi-sport-coupe-s-tr/1611793
+Audi Q5;2,0 TFSi 211 quattro S-tr.;239700;99.000;Vodskov;2010;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-211-quattro-s-tr/1612046
+Audi S5;3,0 TFSi Cabriolet quattro S-tr.;429900;56.000;Silkeborg;2012;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-s-tr/1613829
+Audi RS 7;4,0 TFSi performance Sportback quattro Tiptr.;497000;63.000;Albertslund;2016;https://www.biltorvet.dk/bil/audi/rs-7/4-0-tfsi-performance-sportback-quattro-tiptr/1614893
+Audi RS 6;4,0 TFSi Avant quattro Tiptr.;440000;54.000;Albertslund;2015;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-avant-quattro-tiptr/1614917
+Audi RS 5;2,9 TFSi Coupé quattro Tiptr.;450000;30.000;Albertslund;2017;https://www.biltorvet.dk/bil/audi/rs-5/2-9-tfsi-coupe-quattro-tiptr/1614919
+Audi A4;2,0 TFSi 190 Avant S-tr.;309900;74.000;Esbjerg;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-avant-s-tr/1618300
+Audi TT;2,0 TFSI S Tronic 230HK 2d 6g Aut.;444900;57.000;Skærbæk;2015;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-s-tronic-230hk-2d-6g-aut/1619657
+Audi RS 7;4,0 TFSi Sportback quattro Tiptr.;350000;79.000;Nykøbing F;2014;https://www.biltorvet.dk/bil/audi/rs-7/4-0-tfsi-sportback-quattro-tiptr/1631468
+Audi Q3;1,4 TFSi 150 Sport S-tr.;319980;47.000;Silkeborg;2017;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-s-tr/1632455
+Audi S4;3,0 TFSi Avant quattro S-tr.;239000;153.000;Brovst;2009;https://www.biltorvet.dk/bil/audi/s4/3-0-tfsi-avant-quattro-s-tr/1632641
+Audi Q3;1,4 TFSi 150 Sport S-tr.;299980;79.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-s-tr/1633418
+Audi A5;Sportback 2,0 TDI Multitr. 177HK 5d 6g Aut.;199000;180.000;Næstved;2012;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tdi-multitr--177hk-5d-6g-aut/1642389
+Audi R8;5,2 FSi Spyder quattro R-tr.;1395900;15.000;Nørresundby;2012;https://www.biltorvet.dk/bil/audi/r8/5-2-fsi-spyder-quattro-r-tr/1644261
+Audi A4;Avant 2,0 TFSI Sport 190HK Stc 6g;299800;56.000;Nørresundby;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-190hk-stc-6g/1647310
+Audi S5;3,0 TFSi Sportback quattro S-tr.;284900;175.000;Kolding;2011;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-s-tr/1648767
+Audi S5;3,0 TFSi Cabriolet quattro S-tr.;329900;146.000;Birkerød;2010;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-s-tr/1651424
+Audi A7;2,0 TFSi 252 Sportback S-tr.;580000;60.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a7/2-0-tfsi-252-sportback-s-tr/1665111
+Audi RS 4;2,9 TFSi Avant quattro Tiptr.;480000;24.000;Albertslund;2018;https://www.biltorvet.dk/bil/audi/rs-4/2-9-tfsi-avant-quattro-tiptr/1665946
+Audi A4;40 TFSi Advanced Avant S-tr.;379900;6.000;Odense;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-advanced-avant-s-tr/1666493
+Audi TT;2,0 TFSi Roadster S-tr.;249900;130.000;Køge;2007;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-roadster-s-tr/1670297
+Audi S6;4,0 TFSi Avant quattro S-tr.;649900;80.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1672785
+Audi S6;Avant 4,2 Quattro Tiptr. 340HK Stc Aut.;34800;315.000;Them;2000;https://www.biltorvet.dk/bil/audi/s6/avant-4-2-quattro-tiptr--340hk-stc-aut/1672941
+Audi TT;3,2 V6 Roadster quattro S-tr.;229900;224.000;Holbæk;2007;https://www.biltorvet.dk/bil/audi/tt/3-2-v6-roadster-quattro-s-tr/1673063
+Audi S4;3,0 TFSi Avant quattro S-tr.;229900;161.000;Fredericia;2009;https://www.biltorvet.dk/bil/audi/s4/3-0-tfsi-avant-quattro-s-tr/1683340
+Audi A1;1,4 TFSi 122 Ambition S-tr.;109900;120.000;Taastrup;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-ambition-s-tr/1685656
+Audi A4;1,8 TFSi 170 S-line Avant;219800;71.000;Kastrup;2014;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-s-line-avant/1692462
+Audi A5;Sportback 1,8 TFSI Multitr. 170HK 5d 6g Aut.;159900;221.000;Randers;2013;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-multitr--170hk-5d-6g-aut/1699106
+Audi R8;5,2 FSi Coupé quattro R-tr.;699900;31.000;Grindsted;2009;https://www.biltorvet.dk/bil/audi/r8/5-2-fsi-coupe-quattro-r-tr/1700617
+Audi RS 6;4,0 TFSi Avant quattro Tiptr.;349900;75.000;Grindsted;2013;https://www.biltorvet.dk/bil/audi/rs-6/4-0-tfsi-avant-quattro-tiptr/1700681
+Audi A3;1,0 TFSi 116 S-tr.;234900;43.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-s-tr/1705501
+Audi A5;Sportback 2,0 TFSI Sport 190HK 5d 6g;352500;75.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-sport-190hk-5d-6g/1714595
+Audi A5;Sportback 2,0 TFSI Sport 190HK 5d 6g;3365;75.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a5/sportback-2-0-tfsi-sport-190hk-5d-6g/1714596
+Audi A3;Sportback 1,4 TFSI Ambition 125HK 5d 6g;99900;122.000;Brøndby;2009;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambition-125hk-5d-6g/1717761
+Audi A4;2,0 TFSi 190 Avant S-tr.;269900;138.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-avant-s-tr/1720453
+Audi A6;3,0 TFSi Avant quattro S-tr.;324900;135.000;København;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tfsi-avant-quattro-s-tr/1722634
+Audi S5;3,0 TFSi Cabriolet quattro S-tr.;445900;124.000;Holbæk;2012;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-s-tr/1725730
+Audi S6;4,0 TFSi Avant quattro S-tr.;649800;115.000;Vejen;2014;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1726793
+Audi Q2;1,0 TFSI Sport Prestige Plus 116HK 5d 6g;275000;16.000;Storvorde;2020;https://www.biltorvet.dk/bil/audi/q2/1-0-tfsi-sport-prestige-plus-116hk-5d-6g/1730123
+Audi A6;2,0 TFSi 180 S-line Multitr.;209800;197.000;Bramming;2014;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-180-s-line-multitr/1730193
+Audi A6;3,0 TFSI Quat S Tron 300HK 7g Aut.;249900;194.000;Vodskov;2012;https://www.biltorvet.dk/bil/audi/a6/3-0-tfsi-quat-s-tron-300hk-7g-aut/1730479
+Audi A3;Sportback 1,0 TFSI Sport 116HK 5d 6g;229900;23.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-sport-116hk-5d-6g/1733034
+Audi A8;Lang 3,0 TFSI Quattro Tiptr. 340HK 8g Aut.;200000;50.000;Hedensted;2019;https://www.biltorvet.dk/bil/audi/a8/lang-3-0-tfsi-quattro-tiptr--340hk-8g-aut/1733360
+Audi A3;1,5 TFSi 150 Sport S-tr.;229900;144.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-s-tr/1741179
+Audi S6;4,0 TFSi Avant quattro S-tr.;699900;96.000;Kolding;2016;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1741312
+Audi RS 6;5,0 TFSi Avant quattro Tiptr.;314700;160.000;Vodskov;2009;https://www.biltorvet.dk/bil/audi/rs-6/5-0-tfsi-avant-quattro-tiptr/1742085
+Audi Q5;3,2 FSi quattro S-tr.;279800;133.000;Kastrup;2012;https://www.biltorvet.dk/bil/audi/q5/3-2-fsi-quattro-s-tr/1743315
+Audi Q2;1,4 TFSi 150 S-tr.;244321;67.000;Farsø;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-s-tr/1749237
+Audi A4;Avant 2,0 TFSI Multitr. 180HK Stc 6g Aut.;120000;245.000;Esbjerg;2010;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-multitr--180hk-stc-6g-aut/1750165
+Audi S6;4,0 TFSI Quat S Tron 450HK 7g Aut.;320000;81.000;Rødding;2015;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-quat-s-tron-450hk-7g-aut/1751835
+Audi TTS;Roadster 2,0 TFSI Quattro 272HK Cabr. 6g;139000;132.000;København;2013;https://www.biltorvet.dk/bil/audi/tts/roadster-2-0-tfsi-quattro-272hk-cabr--6g/1755505
+Audi A3;1,0 TFSi 116 S-tr.;239880;34.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-s-tr/1756127
+Audi Q3;1,4 TFSi 150 Limited S-tr.;294900;68.000;Bogense;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-limited-s-tr/1756588
+Audi A5;3,0 TFSi Sportback quattro S-tr.;169900;293.000;Silkeborg;2012;https://www.biltorvet.dk/bil/audi/a5/3-0-tfsi-sportback-quattro-s-tr/1756892
+Audi TT;1,8 TFSi 180 Roadster S-tr.;409900;88.000;Nørresundby;2016;https://www.biltorvet.dk/bil/audi/tt/1-8-tfsi-180-roadster-s-tr/1758417
+Audi A1;1,4 TFSi 125 Sportback S-tr.;219900;38.000;Daugård;2018;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-125-sportback-s-tr/1760441
+Audi A3;Sportback 1,0 TFSI Sport 116HK 5d 6g;214900;61.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-sport-116hk-5d-6g/1761124
+Audi A3;Sportback 1,0 TFSI Sport 116HK 5d 6g;2044;61.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-sport-116hk-5d-6g/1761125
+Audi S3;2,0 TFSI Quat S Tron 300HK 6g Aut.;449900;17.300;Skærbæk;2015;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quat-s-tron-300hk-6g-aut/1762163
+Audi S3;2,0 TFSi quattro S-tr.;379700;138.000;Vodskov;2016;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quattro-s-tr/1762780
+Audi A4;40 TFSi Edition+ Avant S-tr.;329895;36.000;Glostrup;2018;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-edition--avant-s-tr/1764566
+Audi S5;3,0 TFSi Sportback quattro S-tr.;129900;170.000;Næstved;2010;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-sportback-quattro-s-tr/1765396
+Audi RS 6;5,0 TFSi Avant quattro Tiptr.;200000;157.000;Glostrup;2008;https://www.biltorvet.dk/bil/audi/rs-6/5-0-tfsi-avant-quattro-tiptr/1768648
+Audi A4;1,8 T 163 S-line Avant;69900;152.000;Storvorde;2007;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163-s-line-avant/1770901
+Audi Q3;35 TFSi Advanced S-tr.;384500;8.000;Svinninge;2020;https://www.biltorvet.dk/bil/audi/q3/35-tfsi-advanced-s-tr/1772398
+Audi A3;Sportback 1,0 TFSI Sport 116HK 5d 6g;209980;57.000;Ballerup;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-sport-116hk-5d-6g/1773018
+Audi TT;3,2 V6 Coupé quattro S-tr.;199900;189.000;Horsens;2007;https://www.biltorvet.dk/bil/audi/tt/3-2-v6-coupe-quattro-s-tr/1773829
+Audi Q2;1,4 TFSi 150 S-tr.;224321;95.000;Farsø;2018;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-150-s-tr/1774591
+Audi A3;35 TFSi Sport Sportback S-tr.;274880;34.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-sportback-s-tr/1777058
+Audi A3;Sportback 1,4 TFSI Ambition 150HK 5d 6g;179000;79.000;Ballerup;2014;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambition-150hk-5d-6g/1778340
+Audi A3;1,4 TFSi 140 Ambiente S-tr.;196500;74.000;Jelling;2014;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-140-ambiente-s-tr/1778359
+Audi Q3;1,4 TFSi 150 Sport S-tr.;275900;73.000;Hjørring;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-s-tr/1763136
+Audi A3;Sportback 1,8 TFSI Attraction 160HK 5d 6g;169900;72.000;Vester Skerninge;2012;https://www.biltorvet.dk/bil/audi/a3/sportback-1-8-tfsi-attraction-160hk-5d-6g/1761150
+Audi S6;4,0 TFSi Avant quattro S-tr.;699980;67.000;Søborg;2016;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1777655
+Audi A3;1,5 TFSi 150 Sport S-tr.;339900;14.000;Frederikssund;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-s-tr/1748832
+Audi A6;1,8 TFSi 190 Ultra Avant S-tr.;359800;74.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a6/1-8-tfsi-190-ultra-avant-s-tr/1621694
+Audi Q5;2,0 TFSi 252 S-line quattro S-tr.;649800;54.000;Bramming;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-252-s-line-quattro-s-tr/1691845
+Audi A4;40 TFSi Sport Prestige Avant S-tr;359900;16.000;Åbyhøj;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1693883
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;399900;18.000;Herning;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1705151
+Audi A3;Sportback 1,5 TFSI Sport S Tronic 150HK 5d 7g Aut.;279900;26.000;Silkeborg;2018;https://www.biltorvet.dk/bil/audi/a3/sportback-1-5-tfsi-sport-s-tronic-150hk-5d-7g-aut/1705158
+Audi A6;Avant 3,0 TFSI Quat S Tron 310HK Stc 7g Aut.;299995;101.967;Greve;2013;https://www.biltorvet.dk/bil/audi/a6/avant-3-0-tfsi-quat-s-tron-310hk-stc-7g-aut/1719324
+Audi A5;Sportback 1,8 TFSI Multitr. 177HK 5d 8g Trinl. Gear;2837;69.000;Tørring;2017;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-multitr--177hk-5d-8g-trinl--gear/1732404
+Audi A3;Sportback 1,5 TFSI S Line S Tronic 150HK 5d 7g Aut.;3277;17.000;Tørring;2020;https://www.biltorvet.dk/bil/audi/a3/sportback-1-5-tfsi-s-line-s-tronic-150hk-5d-7g-aut/1736134
+Audi A3;Sportback 2,0 TFSI Sport Limited Edition S Tronic 190HK 5d 7g Aut.;329900;52.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tfsi-sport-limited-edition-s-tronic-190hk-5d-7g-aut/1749031
+Audi RS 4;4,2 FSi Avant quattro S-tr.;270000;99.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/rs-4/4-2-fsi-avant-quattro-s-tr/1770452
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;289800;102.000;Næstved;2016;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1775818
+Audi S5;Sportback 3,0 TFSI Quat S Tron 333HK 5d 7g Aut.;319900;195.000;Struer;2013;https://www.biltorvet.dk/bil/audi/s5/sportback-3-0-tfsi-quat-s-tron-333hk-5d-7g-aut/1580136
+Audi A3;1,4 TFSi 150 Ambiente Sportback S-tr.;229900;53.000;Them;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambiente-sportback-s-tr/1667610
+Audi A4;1,8 TFSi 170 S-line Avant Multitr.;229900;143.000;Kolding;2013;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-170-s-line-avant-multitr/1731747
+Audi TT;2,0 TFSi 230 S-line Coupé quattro S-tr.;429900;109.000;Svenstrup;2014;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-230-s-line-coupe-quattro-s-tr/1625603
+Audi A5;2,0 TFSi 190 Sport Coupé S-tr.;429900;82.000;Svenstrup;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-coupe-s-tr/1723272
+Audi TT;Roadster 2,0 T FSI Tiptr. 200HK Cabr. 6g Aut.;169800;251.000;Jelling;2008;https://www.biltorvet.dk/bil/audi/tt/roadster-2-0-t-fsi-tiptr--200hk-cabr--6g-aut/1041788
+Audi A3;Sportback 1,4 TFSI Ambiente 5-dørs 122HK Stc;169900;47.000;Ringe;2013;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambiente-5-doers-122hk-stc/1343197
+Audi S5;3,0 TFSI Quat S Tron 333HK Cabr. 7g Aut.;498800;102.000;Greve;2014;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-quat-s-tron-333hk-cabr--7g-aut/1436262
+Audi S7;Sportback 4,0 TFSI Quat S Tron 420HK 5d 7g Aut.;649700;141.000;Ribe;2013;https://www.biltorvet.dk/bil/audi/s7/sportback-4-0-tfsi-quat-s-tron-420hk-5d-7g-aut/1436895
+Audi R8;Spyder 4,2 V8 FSI Quat S Tron 430HK Cabr. 7g Aut.;562500;69.000;Aalborg;2014;https://www.biltorvet.dk/bil/audi/r8/spyder-4-2-v8-fsi-quat-s-tron-430hk-cabr--7g-aut/1472686
+Audi A6;2,0 TFSi 252 S-line Avant S-tr.;419700;142.000;Nørresundby;2015;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi-252-s-line-avant-s-tr/1591410
+Audi S3;Sportback 2,0 TFSI Quat S Tron 300HK 5d 6g Aut.;399900;84.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/s3/sportback-2-0-tfsi-quat-s-tron-300hk-5d-6g-aut/1602778
+Audi S3;Sportback 2,0 TFSI Quat S Tron 300HK 5d 6g Aut.;3981;84.000;Tørring;2016;https://www.biltorvet.dk/bil/audi/s3/sportback-2-0-tfsi-quat-s-tron-300hk-5d-6g-aut/1602801
+Audi A3;1,5 TFSi 150 Sport Cabriolet S-tr.;349900;64.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-cabriolet-s-tr/1616690
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;414900;35.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1629202
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;399900;59.000;Taastrup;2018;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1630580
+Audi A3;40 TFSi Sport Limited Sportback S-tr.;328880;15.000;Silkeborg;2019;https://www.biltorvet.dk/bil/audi/a3/40-tfsi-sport-limited-sportback-s-tr/1632249
+Audi A3;Sportback 1,0 TFSI S Tronic 116HK 5d 7g Aut.;257500;22.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-s-tronic-116hk-5d-7g-aut/1633689
+Audi A3;Sportback 1,0 TFSI S Tronic 116HK 5d 7g Aut.;2572;22.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a3/sportback-1-0-tfsi-s-tronic-116hk-5d-7g-aut/1633691
+Audi RS 3;2,5 TFSi quattro S-tr.;330000;45.000;Albertslund;2018;https://www.biltorvet.dk/bil/audi/rs-3/2-5-tfsi-quattro-s-tr/1638745
+Audi R8;5,2 FSi Plus Coupé quattro S-tr.;450000;75.000;Dragør;2013;https://www.biltorvet.dk/bil/audi/r8/5-2-fsi-plus-coupe-quattro-s-tr/1643765
+Audi A4;40 TFSi Sport Prestige Avant S-tr;359900;28.000;Brøndby;2019;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-sport-prestige-avant-s-tr/1645386
+Audi A4;Avant 2,0 TFSI S Tronic 190HK Stc 7g Aut.;317500;37.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-s-tronic-190hk-stc-7g-aut/1645487
+Audi A4;Avant 2,0 TFSI Sport Prestige Tour S Tronic 190HK Stc 7g Aut.;352500;19.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-prestige-tour-s-tronic-190hk-stc-7g-aut/1649366
+Audi A3;1,4 TFSi 122 Ambition Sportback S-tr.;179900;116.000;Sakskøbing;2013;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-122-ambition-sportback--s-tr/1653537
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;319000;82.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1656661
+Audi A4;Avant 2,0 TFSI Sport Prestige Tour S Tronic 190HK Stc 7g Aut.;3365;19.000;Tørring;2019;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-prestige-tour-s-tronic-190hk-stc-7g-aut/1663693
+Audi Q5;2,0 TFSi 252 Sport quattro S-tr.;599900;11.000;Varde;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-252-sport-quattro-s-tr/1672344
+Audi A3;Sportback 1,4 TFSI Ambiente S Tronic 125HK 5d 6g Aut.;89800;167.000;Them;2009;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-ambiente-s-tronic-125hk-5d-6g-aut/1672940
+Audi A3;1,2 TFSi 105 Ambiente Sportback S-tr.;118000;117.000;Brøndby Strand;2011;https://www.biltorvet.dk/bil/audi/a3/1-2-tfsi-105-ambiente-sportback-s-tr/1676553
+Audi Q2;1,4 TFSI Sport S Tronic 150HK 5d 7g Aut.;289900;54.000;Ballerup;2017;https://www.biltorvet.dk/bil/audi/q2/1-4-tfsi-sport-s-tronic-150hk-5d-7g-aut/1679311
+Audi A1;1,0 TFSi 95 Sport Sportback S-tr.;204900;11.000;Grindsted;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-sport-sportback-s-tr/1683224
+Audi A3;1,4 TFSi 150 Ambiente Cabriolet S-tr.;139900;122.000;Hvidovre;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambiente-cabriolet-s-tr/1686225
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;294900;29.000;Hjørring;2019;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1687210
+Audi RS 4;4,2 FSi Avant quattro S-tr.;290000;75.000;Albertslund;2015;https://www.biltorvet.dk/bil/audi/rs-4/4-2-fsi-avant-quattro-s-tr/1688361
+Audi A4;Avant 2,0 TFSI S Tronic 190HK Stc 7g Aut.;3191;37.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-s-tronic-190hk-stc-7g-aut/1690860
+Audi Q3;1,5 TFSI Advanced S Tronic 150HK 5d 7g Aut.;399900;34.000;Haarby;2019;https://www.biltorvet.dk/bil/audi/q3/1-5-tfsi-advanced-s-tronic-150hk-5d-7g-aut/1691684
+Audi A1;1,0 TFSi 95 Sport Sportback S-tr.;199999;23.000;Hvidovre;2018;https://www.biltorvet.dk/bil/audi/a1/1-0-tfsi-95-sport-sportback-s-tr/1694721
+Audi A1;1,4 TFSi 125 Sport Sportback S-tr.;229900;19.000;Egå;2018;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-125-sport-sportback-s-tr/1703146
+Audi A1;1,4 TFSi 122 Ambition Sportback S-tr.;149900;145.000;Sakskøbing;2014;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-ambition-sportback-s-tr/1703493
+Audi RS 5;4,2 FSi Cabriolet quattro S-tr.;337000;45.000;Albertslund;2015;https://www.biltorvet.dk/bil/audi/rs-5/4-2-fsi-cabriolet-quattro-s-tr/1706709
+Audi A3;1,2 TFSi 110 Ambiente Sportback S-tr.;199900;50.000;Slangerup;2016;https://www.biltorvet.dk/bil/audi/a3/1-2-tfsi-110-ambiente-sportback-s-tr/1709127
+Audi A5;1,8 TFSi 144 S-line Sportback Multitr.;229700;144.000;Herning;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-144-s-line-sportback-multitr/1709283
+Audi A3;1,4 TFSi 125 Ambition Cabriolet S-tr.;259800;66.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-ambition-cabriolet-s-tr/1709775
+Audi A1;1,4 TFSi 185 Ambition S-line S-tr.;149800;99.000;Taastrup;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-s-line-s-tr/1718941
+Audi A5;1,8 TFSi 177 S-line Cabriolet Mult;425000;49.000;Silkeborg;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-177-s-line-cabriolet-mult/1720372
+Audi A4;Avant 2,0 TFSI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;315000;42.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1723300
+Audi A4;Avant 2,0 TFSI Sport Edition Plus S Tronic 190HK Stc 7g Aut.;3013;42.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-edition-plus-s-tronic-190hk-stc-7g-aut/1723301
+Audi A3;1,0 TFSi 116 Sport Sportback S-tr.;249900;18.000;Søborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sport-sportback-s-tr/1724019
+Audi S3;2,0 TFSI Quat S Tron 310HK Cabr. 7g Aut.;628800;13.239;Greve;2017;https://www.biltorvet.dk/bil/audi/s3/2-0-tfsi-quat-s-tron-310hk-cabr--7g-aut/1729430
+Audi A4;Avant 2,0 TFSI Sport S Tronic 190HK Stc 7g Aut.;315000;55.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-s-tronic-190hk-stc-7g-aut/1732327
+Audi A4;Avant 2,0 TFSI Sport S Tronic 190HK Stc 7g Aut.;3013;55.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-s-tronic-190hk-stc-7g-aut/1732328
+Audi A1;Sportback 1,5 TFSI S Line S Tronic 150HK 5d 7g Aut.;1234;50.000;Hedensted;2017;https://www.biltorvet.dk/bil/audi/a1/sportback-1-5-tfsi-s-line-s-tronic-150hk-5d-7g-aut/1733357
+Audi Coupé;S2 2,2 B Turbo 4x4 230HK 3d 6g;100000;10.000;Hedensted;1995;https://www.biltorvet.dk/bil/audi/coupe/s2-2-2-b-turbo-4x4-230hk-3d-6g/1733361
+Audi Q2;2,0 TFSI Sport Prestige Quat S Tron 190HK 5d 7g Aut.;1234;10.000;Hedensted;2018;https://www.biltorvet.dk/bil/audi/q2/2-0-tfsi-sport-prestige-quat-s-tron-190hk-5d-7g-aut/1733362
+Audi A4 Allroad;2,0 TFSi 211 quattro S-tr.;199900;157.000;Køge;2010;https://www.biltorvet.dk/bil/audi/a4-allroad/2-0-tfsi-211-quattro-s-tr/1735955
+Audi A3;35 TFSi Sport Limited Sportback S-tr.;299000;10.000;Bogense;2019;https://www.biltorvet.dk/bil/audi/a3/35-tfsi-sport-limited-sportback-s-tr/1736337
+Audi A1;1,4 TFSi 185 Ambition Sportback S-tr.;189900;48.000;Hvidovre;2012;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-sportback-s-tr/1736758
+Audi A3;Sportback 1,4 TFSI Attraction S Tronic 125HK 5d 6g Aut.;124900;133.000;Græsted;2010;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-attraction-s-tronic-125hk-5d-6g-aut/1740106
+Audi A3;Sportback 1,4 TFSI Sport S Tronic 150HK 5d 7g Aut.;210000;125.000;Rønnede;2017;https://www.biltorvet.dk/bil/audi/a3/sportback-1-4-tfsi-sport-s-tronic-150hk-5d-7g-aut/1740428
+Audi RS 3;Sportback 2,5 TFSI Quat S Tron 367HK Stc 7g Aut.;699900;57.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/rs-3/sportback-2-5-tfsi-quat-s-tron-367hk-stc-7g-aut/1744306
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;359800;68.000;Køge;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1746412
+Audi A1;1,4 TFSi 185 Ambition S-line S-tr.;149900;105.000;Søborg;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-s-line-s-tr/1747401
+Audi Q5;2,0 TFSi 252 S-line quattro S-tr.;689900;38.000;Odense;2017;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-252-s-line-quattro-s-tr/1750490
+Audi A3;1,0 TFSi 116 Sport Sportback S-tr.;239800;58.000;Køge;2018;https://www.biltorvet.dk/bil/audi/a3/1-0-tfsi-116-sport-sportback-s-tr/1751860
+Audi A3;1,4 TFSi 150 Ambition Sportback S-tr.;199900;72.000;Aarup;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambition-sportback-s-tr/1752173
+Audi TT;2,0 TFSi 230 Coupé quattro S-tr.;189900;94.000;Kalundborg;2015;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-230-coupe-quattro-s-tr/1758940
+Audi A1;1,4 TFSi 185 Ambition S-line S-tr.;139700;126.000;Vodskov;2011;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-s-line-s-tr/1763540
+Audi TT;2,0 TFSi 230 Coupé quattro S-tr.;409900;94.000;Kalundborg;2014;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-230-coupe-quattro-s-tr/1765406
+Audi A1;1,4 TFSi 125 Sport Sportback S-tr.;219900;48.000;Vejle;2017;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-125-sport-sportback-s-tr/1767755
+Audi TT;2,0 TFSI Quat S Tron 230HK 2d 6g Aut.;439900;96.000;Greve;2015;https://www.biltorvet.dk/bil/audi/tt/2-0-tfsi-quat-s-tron-230hk-2d-6g-aut/1767981
+Audi A6;Avant 1,8 T FSI Ultra S Tronic 190HK Stc 7g Aut.;355000;90.000;Svendborg;2017;https://www.biltorvet.dk/bil/audi/a6/avant-1-8-t-fsi-ultra-s-tronic-190hk-stc-7g-aut/1768250
+Audi A5;Sportback 1,8 TFSI Multitr. 144HK 5d 8g Trinl. Gear;249900;122.000;Frederiksværk;2016;https://www.biltorvet.dk/bil/audi/a5/sportback-1-8-tfsi-multitr--144hk-5d-8g-trinl--gear/1770647
+Audi Q3;1,4 TFSi 150 Sport Limited S-tr.;299900;90.000;Fredericia;2018;https://www.biltorvet.dk/bil/audi/q3/1-4-tfsi-150-sport-limited-s-tr/1771202
+Audi A4;Avant 2,0 TFSI S Tronic 190HK Stc 7g Aut.;329900;47.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-s-tronic-190hk-stc-7g-aut/1772373
+Audi A4;Avant 2,0 TFSI S Tronic 190HK Stc 7g Aut.;3191;47.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-s-tronic-190hk-stc-7g-aut/1772374
+Audi A5;1,8 TFSi 144 S-line Sportback Multitr.;249900;137.000;Taastrup;2016;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-144-s-line-sportback-multitr/1773524
+Audi A3;2,0 TFSi 190 Sport Sportback quattro S-tr.;299000;83.000;Næstved;2018;https://www.biltorvet.dk/bil/audi/a3/2-0-tfsi-190-sport-sportback-quattro-s-tr/1775214
+Audi A3;1,5 TFSi 150 Sport Sportback S-tr.;269700;28.000;Viborg;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-sportback-s-tr/1776565
+Audi A4;1,4 TFSi 150 S-line Sport Avant;279989;128.000;Esbjerg;2017;https://www.biltorvet.dk/bil/audi/a4/1-4-tfsi-150-s-line-sport-avant/1776905
+Audi A4;Avant 2,0 TFSI Sport S Tronic 190HK Stc 7g Aut.;299900;113.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-s-tronic-190hk-stc-7g-aut/1777093
+Audi A4;Avant 2,0 TFSI Sport S Tronic 190HK Stc 7g Aut.;2837;113.000;Tørring;2018;https://www.biltorvet.dk/bil/audi/a4/avant-2-0-tfsi-sport-s-tronic-190hk-stc-7g-aut/1777094
+Audi A3;1,4 TFSi 150 Ambition Cabriolet S-tr.;249800;141.000;Ballerup;2015;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambition-cabriolet-s-tr/1779420
+Audi A5;3,2 FSi S-line Coupé quattro Tiptr;149900;277.000;Køge;2008;https://www.biltorvet.dk/bil/audi/a5/3-2-fsi-s-line-coupe-quattro-tiptr/1764087
+Audi Q2;35 TFSi Sport Prestige Select S-tr.;349000;15.000;Ikast;2020;https://www.biltorvet.dk/bil/audi/q2/35-tfsi-sport-prestige-select-s-tr/1779396
+Audi A5;1,8 TFSi 170 S-line Sportback Multitr.;279900;69.000;Nørresundby;2015;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-s-line-sportback-multitr/1779492
+Audi A3;Sportback 2,0 TFSI Sport Limited Edition Quat S Tron 190HK 5d 7g Aut.;349900;24.408;Silkeborg;2020;https://www.biltorvet.dk/bil/audi/a3/sportback-2-0-tfsi-sport-limited-edition-quat-s-tron-190hk-5d-7g-aut/1688393
+Porsche 924;2,0 Targa;89900;-;Nørresundby;1976;https://www.biltorvet.dk/bil/porsche/924/2-0-targa/1626645
+Skoda Octavia;1,4 TSI Elegance 140HK 5d 6g;139000;140.000;Nykøbing F;2014;https://www.biltorvet.dk/bil/skoda/octavia/1-4-tsi-elegance-140hk-5d-6g/1407599
+BMW 430i;2,0 Gran Coupé aut.;399900;29.000;Daugård;2018;https://www.biltorvet.dk/bil/bmw/430i/2-0-gran-coupe-aut/1463081
+Audi A4;1,6;12900;320.000;Bagsværd;2001;https://www.biltorvet.dk/bil/audi/a4/1-6/1741339
+Audi A4;2,0 TFSi 180;134800;111.000;Bording;2010;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-180/1647972
+Audi A6;2,4 V6 Multitr.;99800;128.000;Bording;2007;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-multitr/1756092
+Audi A6;2,4 V6;49900;292.000;Odense;2004;https://www.biltorvet.dk/bil/audi/a6/2-4-v6/1718573
+Audi A6;2,4 V6 Avant;47500;297.000;Glostrup;2005;https://www.biltorvet.dk/bil/audi/a6/2-4-v6-avant/1760724
+Audi A6;2,0 TFSi;64900;277.000;Bagsværd;2008;https://www.biltorvet.dk/bil/audi/a6/2-0-tfsi/1769486
+Audi A6;2,8 FSi Multitr.;177900;197.000;Odense;2011;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-multitr/1773548
+Audi A3;1,6 Ambiente;9800;219.000;Taastrup;2002;https://www.biltorvet.dk/bil/audi/a3/1-6-ambiente/1778589
+Audi A3;1,6 Attraction Sportback;54900;276.000;Bagsværd;2006;https://www.biltorvet.dk/bil/audi/a3/1-6-attraction-sportback/1731065
+Audi A3;1,8 TFSi Ambiente Sportback;99800;136.000;Bording;2009;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-ambiente-sportback/1640083
+Audi A4;3,0 V6 Cabriolet Multitr.;129900;178.000;Holbæk;2005;https://www.biltorvet.dk/bil/audi/a4/3-0-v6-cabriolet-multitr/1752015
+Audi A5;2,0 TFSi 180 Cabriolet Multitr.;229900;135.000;Silkeborg;2009;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180-cabriolet-multitr/1761264
+Audi A3;30 TFSi Sport Sportback S-tr.;269900;49.000;Vejle Øst;2019;https://www.biltorvet.dk/bil/audi/a3/30-tfsi-sport-sportback-s-tr/1683298
+Audi S6;4,0 TFSi Avant quattro S-tr.;349900;228.000;Vinderup;2012;https://www.biltorvet.dk/bil/audi/s6/4-0-tfsi-avant-quattro-s-tr/1627124
+Audi S6;5,2 FSi quattro Tiptr.;160000;201.000;Vinderup;2007;https://www.biltorvet.dk/bil/audi/s6/5-2-fsi-quattro-tiptr/1627111
+Audi A5;2,0 TFSi 225 Cabriolet Multitr.;429900;63.000;Slagelse;2015;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-225-cabriolet-multitr/1710198
+Audi A3;1,4 TFSi 125 Ambition;219000;62.000;Rødovre;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-125-ambition/1733326
+Audi A6;2,8 FSi Avant Multitr.;199900;186.000;Vinderup;2011;https://www.biltorvet.dk/bil/audi/a6/2-8-fsi-avant-multitr/1734836
+Audi A5;1,8 TFSi 170 Coupé;136900;252.000;Vamdrup;2012;https://www.biltorvet.dk/bil/audi/a5/1-8-tfsi-170-coupe/1741946
+Audi A5;2,0 TFSi 180 Sportback;109900;221.000;Odense;2010;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-180-sportback/1746599
+Audi A8;6,0 W12 quattro Tiptr. lang;329999;172.000;Rødovre;2005;https://www.biltorvet.dk/bil/audi/a8/6-0-w12-quattro-tiptr--lang/1753194
+Audi A4;1,8 T 163 Cabriolet Multitr.;144900;227.000;Fredericia;2008;https://www.biltorvet.dk/bil/audi/a4/1-8-t-163-cabriolet-multitr/1770521
+Audi A4;1,8 TFSi 160 Avant;99900;158.000;Bagsværd;2009;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-160-avant/1774616
+Audi A3;1,4 TFSi 150 Ambiente Cabriolet;240000;82.000;Rødovre;2016;https://www.biltorvet.dk/bil/audi/a3/1-4-tfsi-150-ambiente-cabriolet/1778506
+Audi A4;1,8 TFSi 120 S-line Avant;199900;60.000;Køge;2015;https://www.biltorvet.dk/bil/audi/a4/1-8-tfsi-120-s-line-avant/1652939
+Audi A3;1,5 TFSi 150 Sport Cabriolet S-tr.;369900;49.000;Holbæk;2018;https://www.biltorvet.dk/bil/audi/a3/1-5-tfsi-150-sport-cabriolet-s-tr/1760939
+Audi A4;2,0 TFSi 190 Sport Avant S-tr.;309900;86.000;Vejle Øst;2018;https://www.biltorvet.dk/bil/audi/a4/2-0-tfsi-190-sport-avant-s-tr/1715074
+Audi Q5;2,0 TFSi 211 quattro S-tr.;229900;159.000;Vinderup;2011;https://www.biltorvet.dk/bil/audi/q5/2-0-tfsi-211-quattro-s-tr/1627142
+Audi S5;3,0 TFSi Cabriolet quattro S-tr.;349900;174.000;Vamdrup;2011;https://www.biltorvet.dk/bil/audi/s5/3-0-tfsi-cabriolet-quattro-s-tr/1690224
+Audi A4;40 TFSi Prestige Avant S-tr.;400000;8.000;Rødovre;2020;https://www.biltorvet.dk/bil/audi/a4/40-tfsi-prestige-avant-s-tr/1746246
+Audi A1;1,4 TFSi 185 Ambition Sportback S-tr.;174900;99.000;Viborg;2013;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-sportback-s-tr/1637571
+Audi A5;2,0 TFSi 190 Sport Sportback S-tr.;360000;78.000;Rødovre;2017;https://www.biltorvet.dk/bil/audi/a5/2-0-tfsi-190-sport-sportback-s-tr/1715738
+Audi A1;1,4 TFSi 185 Ambition S-line S-tr.;159999;134.000;Odense;2013;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-185-ambition-s-line-s-tr/1730025
+Audi A1;1,4 TFSi 122 Ambition Sportback S-tr.;149900;99.000;Vamdrup;2014;https://www.biltorvet.dk/bil/audi/a1/1-4-tfsi-122-ambition-sportback-s-tr/1731823
+Audi A3;1,8 TFSi 180 Ambiente Sportback S-tr.;197900;87.000;Fredericia;2015;https://www.biltorvet.dk/bil/audi/a3/1-8-tfsi-180-ambiente-sportback--s-tr/1760805
