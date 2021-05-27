@@ -12,6 +12,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.action_chains import ActionChains
 import requests
 import os
+import pandas as pd
 
 base_url = 'https://www.bilbasen.dk/'
 fuel = ["Hybrid (Benzin + El)" ,"El", "Benzin", "Diesel"]
@@ -33,6 +34,7 @@ def setup_url():
         deny.click()
         return driver
     except Exception as e:
+        return driver
         print(e)
     return driver
 
@@ -46,17 +48,15 @@ def search(fuel,driver):
     
     dd = driver.find_elements_by_class_name("form-control.bb-select")
     
-    search = driver.find_element_by_class_name("react-autosuggest__input")
-    search.send_keys("Audi")
 
-    
     select = Select(dd[8])
     select.select_by_visible_text('Kontant')
     
     ss = Select(dd[3])
     ss.select_by_visible_text(fuel)
     
-
+    search = driver.find_element_by_class_name("react-autosuggest__input")
+    search.send_keys("Audi")
     search.send_keys(Keys.RETURN)
     
     

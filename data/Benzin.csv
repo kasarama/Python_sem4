@@ -1,0 +1,731 @@
+model;price;km;location;year
+Audi Q3 1,4 TFSi 150 S-tr. ;279.700 kr.;61.000;Vestjylland;2018
+Audi A1 30 TFSi Advanced Sportback S-tr. ;289.900 kr.;4.000;København;2021
+Audi A4 40 TFSi S-line+ Avant S-tr. ;459.900 kr.;7.000;København;2020
+Audi Q3 2,0 TFSi 180 Sport quattro S-tr. ;449.900 kr.;32.000;Østjylland;2018
+Audi Q2 35 TFSi S-line S-tr. ;364.900 kr.;11.000;København;2021
+Audi S3 2,0 TFSi Sportback quattro S-tr. ;689.900 kr.;12.000;København;2021
+Audi A4 2,0 TFSi 252 Sport Avant S-tr. ;399.900 kr.;105.000;Nordjylland;2017
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi RS6 5,0 TFSi Avant quattro Tiptr. ;799.900 kr.;104.000;Fyn;2010
+Audi RS6 5,0 TFSi Avant quattro Tiptr. ;419.900 kr.;211.000;Østjylland;2008
+Audi A3 35 TFSi Prestige S-tr. ;369.900 kr.;6.000;Nordjylland;2021
+Audi A3 40 TFSi Sport Limited Sportback S-tr. ;328.880 kr.;15.000;Østjylland;2019
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;488.900 kr.;8.000;Østjylland;2021
+Audi A3 35 TFSi S-line Sportback S-tr. ;404.900 kr.;6.000;Nordjylland;2021
+Audi A5 1,8 TFSi 144 Limited Sportback Multitr. ;279.900 kr.;88.000;København;2016
+Audi A3 1,6 Ambiente ;39.900 kr.;172.000;Syd- og Vestsjælland;2006
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;8.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;10.000;Syd- og Sønderjylland;2020
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;4.000;Fyn;2020
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;384.900 kr.;46.000;Fyn;2018
+Audi R8 4,2 FSi Spyder quattro S-tr. ;1.299.900 kr.;28.000;Østjylland;2014
+Audi Q3 2,0 TFSi 180 Sport quattro S-tr. ;299.000 kr.;100.000;Østjylland;2017
+Audi A4 1,8 TFSi 170 S-line Avant Multitr. ;229.900 kr.;143.000;Syd- og Sønderjylland;2013
+Audi A4 2,0 Avant ;79.800 kr.;143.000;Fyn;2008
+Audi Q5 2,0 TFSi 211 quattro S-tr. ;269.900 kr.;132.000;Syd- og Vestsjælland;2012
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;478.900 kr.;6.000;Østjylland;2021
+Audi Q3 1,4 TFSi 150 Limited S-tr. ;294.900 kr.;68.000;Fyn;2018
+Audi Q2 30 TFSi Prestige ;279.900 kr.;6.000;Nordjylland;2020
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;474.900 kr.;12.000;Syd- og Vestsjælland;2020
+Audi A3 35 TFSi Prestige S-tr. ;373.900 kr.;6.000;Østjylland;2021
+Audi A5 1,8 TFSi 170 Cabriolet Multitr. ;389.900 kr.;102.000;Nordjylland;2015
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;448.900 kr.;13.000;København;2021
+Audi A3 1,0 TFSi 116 Sport ;199.900 kr.;69.000;Nordjylland;2018
+Audi A3 1,4 TFSi 150 Sport S-tr. ;329.900 kr.;55.000;Østjylland;2017
+Audi A1 1,0 TFSi 95 Ultra Sportback ;174.999 kr.;20.000;København;2017
+Audi SQ5 3,0 TFSi quattro Tiptr. ;799.995 kr.;59.000;København;2018
+Audi A3 35 TFSi Prestige S-tr. ;377.900 kr.;6.000;Nordjylland;2021
+Audi A4 35 TFSi S-line+ S-tr. ;439.900 kr.;3.000;Fyn;2020
+Audi A1 1,4 TFSi 185 S-line Sportback S-tr. ;164.800 kr.;112.000;Syd- og Vestsjælland;2012
+Audi Q3 35 TFSi Sportback S-tr. ;419.900 kr.;15.000;Nordjylland;2020
+Audi A4 1,8 TFSi 120 Avant ;269.900 kr.;24.000;København;2015
+Audi Q3 35 TFSi Sportback S-tr. ;399.900 kr.;6.000;Østjylland;2020
+Audi A3 1,8 TFSi Ambiente Sportback ;99.800 kr.;136.000;Vestjylland;2009
+Audi A3 1,4 TFSi 122 Ambition Sportback ;149.900 kr.;151.000;Nordjylland;2013
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;555.900 kr.;6.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;541.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;9.000;Østjylland;2021
+Audi S8 4,0 TFSi quattro Tiptr. ;599.900 kr.;55.000;Syd- og Sønderjylland;2012
+Audi TT 1,8 T 180 Coupé ;49.000 kr.;270.000;Østjylland;1999
+Audi A3 1,0 TFSi 116 Sportback S-tr. ;234.900 kr.;36.000;København;2018
+Audi Q2 1,0 TFSi 116 ;219.900 kr.;59.000;København;2017
+Audi A4 40 TFSi Avant ;309.800 kr.;13.000;Nordsjælland;2019
+Audi A3 1,0 TFSi 116 Sportback ;209.800 kr.;47.000;Nordsjælland;2018
+Audi A3 1,4 TFSi 122 Ambition Sportback ;169.900 kr.;67.000;Nordjylland;2013
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;11.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;7.000;Fyn;2020
+Audi A3 35 TFSi Prestige S-tr. ;382.900 kr.;6.000;København;2021
+Audi Q5 45 TFSi Sport quattro S-tr. ;649.900 kr.;9.000;Nordjylland;2020
+Audi A3 1,4 TFSi 140 Ambition Cabriolet ;254.500 kr.;52.000;Syd- og Vestsjælland;2014
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;419.900 kr.;5.000;København;2020
+Audi A3 1,4 TFSi 122 Ambition Sportback S-tr. ;179.900 kr.;116.000;Lolland-Falster;2013
+Audi A3 35 TFSi Sport Limited Sportback S-tr. ;299.000 kr.;10.000;Fyn;2019
+Audi A5 40 TFSi Sport Coupé S-tr. ;459.900 kr.;22.000;Syd- og Vestsjælland;2019
+Audi Q3 35 TFSi Advanced S-tr. ;419.900 kr.;11.000;Fyn;2021
+Audi Q3 35 TFSi Advanced S-tr. ;374.800 kr.;22.000;Syd- og Vestsjælland;2019
+Audi A6 2,0 TFSi 252 S-tr. ;319.900 kr.;66.000;Syd- og Sønderjylland;2016
+Audi SQ5 3,0 TFSi quattro Tiptr. ;799.500 kr.;58.000;Syd- og Vestsjælland;2018
+Audi A4 40 TFSi Sport S-tr. ;329.800 kr.;20.000;Østjylland;2019
+Audi Q3 35 TFSi Advanced S-tr. ;394.900 kr.;8.000;Fyn;2020
+Audi A4 2,0 TFSi 190 Avant S-tr. ;304.900 kr.;50.000;Syd- og Sønderjylland;2018
+Audi A4 1,6 Avant ;53.900 kr.;244.000;København;2007
+Audi Q5 2,0 TFSi 225 quattro Tiptr. ;349.900 kr.;94.000;København;2014
+Audi A5 1,8 TFSi 170 Sportback ;204.980 kr.;156.000;Østjylland;2014
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;399.900 kr.;18.000;Vestjylland;2018
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;279.900 kr.;26.000;Østjylland;2018
+Audi S1 2,0 TFSi Sportback quattro ;354.900 kr.;42.000;Nordjylland;2018
+Audi A5 2,0 TFSi 180 Coupé ;124.900 kr.;178.000;Østjylland;2011
+Audi A5 2,0 TFSi 190 Sport Sportback ;299.900 kr.;100.000;København;2018
+Audi A6 2,8 FSi Multitr. ;299.900 kr.;128.000;København;2012
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;9.000;Syd- og Vestsjælland;2021
+Audi A1 1,4 TFSi 185 Ambition S-line S-tr. ;159.999 kr.;134.000;Fyn;2013
+Audi A3 30 TFSi Sport Sportback ;259.700 kr.;11.000;Vestjylland;2019
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;349.900 kr.;15.000;Nordsjælland;2018
+Audi Q2 1,4 TFSi 150 Sport S-tr. ;269.900 kr.;29.000;Fyn;2017
+Audi Q2 30 TFSi Prestige ;289.900 kr.;6.000;København;2021
+Audi A6 3,0 TFSi Avant quattro S-tr. ;324.900 kr.;135.000;København;2012
+Audi A1 1,0 TFSi 95 Ultra Sportback ;179.900 kr.;22.000;Syd- og Vestsjælland;2018
+Audi A5 1,8 TFSi 177 Sportback Multitr. ;279.700 kr.;89.000;Vestjylland;2016
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;389.800 kr.;34.000;Østjylland;2019
+Audi Q5 2,0 TFSi 252 S-line quattro S-tr. ;629.900 kr.;52.000;Nordsjælland;2017
+Audi TT 40 TFSi S-line Coupé S-tr. ;607.900 kr.;6.000;Østjylland;2020
+Audi A3 1,4 TFSi 150 Sport Sportback ;249.900 kr.;29.000;København;2017
+Audi Q3 1,4 TFSi 150 Limited Edition ;254.800 kr.;45.000;Syd- og Vestsjælland;2018
+Audi RS7 4,0 TFSi Sportback quattro Tiptr. ;350.000 kr.;79.000;Lolland-Falster;2014
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi Q3 35 TFSi Advanced S-tr. ;364.900 kr.;15.000;Østjylland;2019
+Audi A3 30 TFSi Sport Sportback S-tr. ;269.900 kr.;49.000;Syd- og Sønderjylland;2019
+Audi Q3 35 TFSi Advanced S-tr. ;384.500 kr.;8.000;Syd- og Vestsjælland;2020
+Audi A3 1,0 TFSi 116 Sport Sportback S-tr. ;239.900 kr.;48.000;Syd- og Sønderjylland;2018
+Audi Q2 1,0 TFSi 116 Sport ;239.900 kr.;38.000;Nordjylland;2017
+Audi A6 45 TFSi Sport Avant S-tr. ;669.900 kr.;7.000;København;2020
+Audi A3 35 TFSi Prestige S-tr. ;381.900 kr.;6.000;Østjylland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;389.900 kr.;4.000;København;2021
+Audi A6 1,8 TFSi 190 Ultra S-line S-tr. ;219.880 kr.;208.000;Østjylland;2015
+Audi A2 1,6 FSi ;69.900 kr.;220.000;Syd- og Sønderjylland;2005
+Audi A3 30 TFSi ;199.900 kr.;83.000;Vestjylland;2019
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;360.000 kr.;78.000;København;2017
+Audi A6 2,0 TFSi ;89.900 kr.;142.000;Østjylland;2007
+Audi S4 4,2 V8 Avant quattro ;219.900 kr.;106.000;Syd- og Sønderjylland;2003
+Audi A1 35 TFSi Sportback S-tr. ;259.900 kr.;64.000;Syd- og Sønderjylland;2019
+Audi A4 40 TFSi Advanced S-tr. ;419.900 kr.;8.000;Fyn;2020
+Audi Q2 35 TFSi Prestige S-tr. ;359.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;1.199.800 kr.;77.000;Nordjylland;2015
+Audi A6 45 TFSi Sport Avant S-tr. ;549.900 kr.;26.000;København;2019
+Audi A4 2,4 V6 Cabriolet Multitr. ;79.900 kr.;262.000;Nordjylland;2002
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;8.000;Syd- og Vestsjælland;2020
+Audi Q5 2,0 TFSi 211 quattro S-tr. ;229.900 kr.;159.000;Vestjylland;2011
+Audi A3 1,4 TFSi 150 Sport Sportback S-tr. ;239.900 kr.;68.000;København;2017
+Audi RS Q3 2,5 TFSi quattro S-tr. ;629.900 kr.;56.000;København;2015
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi RS5 2,9 TFSi Sportback quattro Tiptr. ;1.887.675 kr.;0;København;2020
+Audi A7 3,0 TFSi Sportback quattro S-tr. ;Ring;67.000;København;2015
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;249.000 kr.;24.000;Vestjylland;2018
+Audi TT 2,0 TFSi 230 Coupé quattro S-tr. ;409.900 kr.;94.000;Syd- og Vestsjælland;2014
+Audi A3 30 TFSi Sportback ;239.800 kr.;24.000;Nordsjælland;2019
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;319.000 kr.;82.000;Syd- og Sønderjylland;2017
+Audi Q2 30 TFSi Prestige ;289.900 kr.;15.000;København;2021
+Audi A5 2,0 TFSi 252 Sport Sportback quattro S-tr. ;579.900 kr.;64.000;Nordsjælland;2018
+Audi A4 2,0 TFSi 190 Sport Avant ;289.800 kr.;58.000;Nordsjælland;2018
+Audi Q5 2,0 TFSi 252 S-line quattro S-tr. ;649.800 kr.;54.000;Syd- og Sønderjylland;2017
+Audi S6 4,0 TFSi Avant quattro S-tr. ;689.900 kr.;49.000;Nordsjælland;2017
+Audi A4 40 TFSi Edition+ Avant S-tr. ;329.895 kr.;36.000;København;2018
+Audi A6 1,8 TFSi 190 Ultra S-tr. ;399.900 kr.;59.000;København;2018
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;359.900 kr.;28.000;København;2019
+Audi A1 1,0 TFSi 95 Ultra Sportback ;179.900 kr.;20.000;Syd- og Sønderjylland;2018
+Audi A3 35 TFSi S-line S-tr. ;414.900 kr.;12.000;København;2021
+Audi A5 2,0 TFSi 225 Sportback quattro S-tr. ;261.000 kr.;90.000;København;2014
+Audi Q2 35 TFSi S-line S-tr. ;433.900 kr.;6.000;Østjylland;2021
+Audi A4 40 TFSi Advanced S-tr. ;399.900 kr.;12.000;Nordjylland;2020
+Audi A3 1,4 TFSi 150 Ambition S-tr. ;269.700 kr.;86.000;Vestjylland;2016
+Audi A1 30 TFSi Advanced Sportback S-tr. ;295.900 kr.;4.000;København;2021
+Audi A3 1,4 TFSi 116 Sport Cabriolet ;284.900 kr.;60.000;Syd- og Sønderjylland;2017
+Audi A1 1,4 TFSi 122 Ambition S-tr. ;109.900 kr.;51.000;Syd- og Vestsjælland;2010
+Audi Q2 35 TFSi Prestige S-tr. ;334.900 kr.;8.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;489.900 kr.;13.000;Syd- og Sønderjylland;2020
+Audi A4 1,4 TFSi 150 Sport S-tr. ;249.900 kr.;170.000;Syd- og Vestsjælland;2016
+Audi Q2 1,4 TFSi 150 S-tr. ;339.900 kr.;60.000;Nordjylland;2017
+Audi A1 1,0 TFSi 81 Sport Sportback ;169.900 kr.;41.000;Syd- og Sønderjylland;2017
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;409.900 kr.;21.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;409.900 kr.;8.000;Fyn;2019
+Audi A3 35 TFSi Sport Limited+ Sportback S-tr. ;318.900 kr.;8.000;København;2020
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;394.900 kr.;32.000;Syd- og Vestsjælland;2018
+Audi A6 1,8 TFSi 190 Ultra S-tr. ;399.700 kr.;46.000;Vestjylland;2018
+Audi A4 1,8 TFSi 170 Avant ;149.900 kr.;172.000;Østjylland;2012
+Audi RS4 4,2 quattro ;399.900 kr.;177.000;Syd- og Sønderjylland;2006
+Audi S5 3,0 TFSi Sportback quattro Tiptr. ;839.800 kr.;37.000;Syd- og Sønderjylland;2018
+Audi RS5 2,9 TFSi Coupé quattro Tiptr. ;999.900 kr.;76.000;Syd- og Sønderjylland;2017
+Audi Q3 35 TFSi Prestige Sportback S-tr. ;384.900 kr.;9.000;Fyn;2020
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;2.594.536 kr.;0;København;2021
+Audi A3 1,4 TFSi 125 Attraction Sportback ;177.500 kr.;62.000;Syd- og Vestsjælland;2016
+Audi Q2 30 TFSi Prestige ;299.900 kr.;6.000;Nordjylland;2020
+Audi A3 35 TFSi Prestige Sportback S-tr. ;389.900 kr.;11.000;København;2021
+Audi A3 40 TFSi Sport Limited S-tr. ;324.900 kr.;26.000;Østjylland;2019
+Audi A4 1,8 TFSi 170 Avant ;189.900 kr.;115.000;Fyn;2015
+Audi A3 1,4 TFSi 150 Sport Sportback S-tr. ;239.700 kr.;137.000;Østjylland;2017
+Audi A3 35 TFSi Prestige Sportback S-tr. ;377.900 kr.;7.000;København;2021
+Audi Q2 35 TFSi Prestige S-tr. ;499.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi Q3 35 TFSi S-tr. ;349.800 kr.;50.000;Nordjylland;2019
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;København;2021
+Audi A1 1,0 TFSi 95 Ultra Sportback ;169.000 kr.;41.000;Nordjylland;2016
+Audi A4 40 TFSi S-line+ S-tr. ;451.900 kr.;8.000;København;2020
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;384.900 kr.;21.000;Nordsjælland;2019
+Audi A1 1,4 TFSi 122 Attraction ;110.000 kr.;108.000;Syd- og Vestsjælland;2011
+Audi A5 40 TFSi Advanced+ Sportback S-tr. ;469.900 kr.;6.000;København;2020
+Audi A3 1,0 TFSi 116 Sportback ;174.900 kr.;105.000;Syd- og Sønderjylland;2016
+Audi Q3 1,4 TFSi 150 Sport S-tr. ;299.980 kr.;79.000;Østjylland;2018
+Audi A5 1,8 TFSi 170 Sportback Multitr. ;219.900 kr.;132.000;Østjylland;2015
+Audi A3 35 TFSi Prestige S-tr. ;374.900 kr.;6.000;Syd- og Vestsjælland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;384.900 kr.;6.000;Syd- og Vestsjælland;2021
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;349.900 kr.;16.000;Østjylland;2020
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;414.900 kr.;35.000;Syd- og Vestsjælland;2018
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;503.900 kr.;4.000;København;2021
+Audi Q2 30 TFSi Prestige ;284.900 kr.;6.000;Østjylland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;379.900 kr.;6.000;København;2021
+Audi Q2 35 TFSi Prestige S-tr. ;334.900 kr.;5.000;Syd- og Vestsjælland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;389.900 kr.;9.000;København;2021
+Audi S6 4,0 TFSi Avant quattro S-tr. ;449.900 kr.;201.000;Nordjylland;2013
+Audi Q3 35 TFSi Advanced S-tr. ;384.900 kr.;7.000;Fyn;2020
+Audi A3 35 TFSi Prestige S-tr. ;357.900 kr.;9.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;347.900 kr.;6.000;Nordjylland;2021
+Audi TT 2,0 TFSi Competition Coupé S-tr. ;519.800 kr.;35.000;Nordjylland;2017
+Audi A4 35 TFSi Prestige+ S-tr. ;394.900 kr.;6.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;8.000;Syd- og Sønderjylland;2021
+Audi Q3 35 TFSi S-tr. ;364.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige S-tr. ;394.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;479.900 kr.;6.000;Nordjylland;2021
+Audi Q2 35 TFSi Prestige S-tr. ;339.900 kr.;6.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;11.000;Syd- og Sønderjylland;2021
+Audi RS4 4,2 FSi Avant quattro S-tr. ;799.900 kr.;48.000;Fyn;2015
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;10.000;Syd- og Sønderjylland;2021
+Audi A6 1,8 TFSi 190 S-line Avant S-tr. ;399.995 kr.;65.000;København;2015
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;424.900 kr.;9.000;Syd- og Sønderjylland;2020
+Audi S5 3,0 TFSi Cabriolet quattro Tiptr. ;799.900 kr.;22.000;Syd- og Sønderjylland;2017
+Audi S7 4,0 TFSi Sportback quattro S-tr. ;619.900 kr.;118.000;Syd- og Vestsjælland;2012
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;459.900 kr.;10.000;Syd- og Sønderjylland;2020
+Audi Q3 1,4 TFSi 150 Ultra ;219.500 kr.;96.000;Østjylland;2016
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;453.900 kr.;9.000;København;2021
+Audi A4 1,6 ;19.500 kr.;348.000;Syd- og Vestsjælland;2002
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;435.900 kr.;12.000;København;2021
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;København;2021
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;429.900 kr.;8.000;København;2021
+Audi Q2 1,4 TFSi 150 Sport S-tr. ;284.900 kr.;27.000;Nordjylland;2018
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;København;2021
+Audi A3 1,4 TFSi 150 Ambiente Sportback S-tr. ;229.900 kr.;53.000;Østjylland;2016
+Audi A1 1,4 TFSi 125 Sportback ;199.900 kr.;90.000;Syd- og Vestsjælland;2018
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;399.700 kr.;12.000;Syd- og Sønderjylland;2020
+Audi S8 4,0 TFSi Plus quattro Tiptr. ;1.249.900 kr.;52.000;Østjylland;2017
+Audi A4 1,8 TFSi 120 Avant ;149.995 kr.;155.000;Nordsjælland;2012
+Audi R8 5,2 FSi Plus Coupé quattro S-tr. ;450.000 kr.;75.000;København;2013
+Audi A3 1,4 TFSi 150 Sport Sportback ;234.700 kr.;32.000;Syd- og Sønderjylland;2017
+Audi S3 2,0 TFSi quattro ;449.900 kr.;17.300;Syd- og Sønderjylland;2015
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;379.500 kr.;19.000;Syd- og Sønderjylland;2019
+Audi Q5 2,0 TFSi 252 S-line quattro S-tr. ;689.900 kr.;38.000;Fyn;2017
+Audi A3 1,4 TFSi 125 Ambition S-tr. ;214.900 kr.;95.000;Vestjylland;2016
+Audi TTS 2,0 TFSi Coupé S-tr. ;219.500 kr.;193.000;Syd- og Sønderjylland;2008
+Audi A3 1,4 TFSi 150 Sport S-tr. ;240.000 kr.;87.000;Syd- og Sønderjylland;2017
+Audi A4 1,8 TFSi 120 Limited Avant Multitr ;249.900 kr.;58.000;Østjylland;2015
+Audi A4 2,0 TFSi 190 Sport S-tr. ;319.900 kr.;47.000;Fyn;2018
+Audi A5 2,0 TFSi 180 Cabriolet Multitr. ;219.980 kr.;147.000;Syd- og Vestsjælland;2009
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;324.900 kr.;76.000;Fyn;2017
+Audi Q2 1,0 TFSi 116 ;215.000 kr.;44.000;Østjylland;2017
+Audi TT 1,8 T 180 Coupé ;115.000 kr.;185.000;København;1998
+Audi A3 1,0 TFSi 116 Sportback ;204.800 kr.;40.000;Østjylland;2018
+Audi A5 1,8 TFSi 170 Sportback Multitr. ;259.800 kr.;102.000;Syd- og Vestsjælland;2016
+Audi Q2 30 TFSi Sport S-tr. ;289.995 kr.;27.000;Østjylland;2019
+Audi A4 1,8 TFSi 120 S-line Avant ;165.000 kr.;142.000;Østjylland;2015
+Audi A3 1,8 TFSi 180 Ambiente Sportback S-tr. ;197.900 kr.;87.000;Syd- og Sønderjylland;2015
+Audi A4 1,6 Avant ;17.900 kr.;330.000;Syd- og Vestsjælland;2005
+Audi A4 40 TFSi Advanced Avant S-tr. ;379.900 kr.;6.000;Fyn;2019
+Audi SQ5 3,0 TFSi quattro Tiptr. ;749.900 kr.;69.000;Nordjylland;2018
+Audi A6 2,4 V6 ;55.900 kr.;206.000;Syd- og Vestsjælland;2005
+Audi A7 2,0 TFSi 252 Sportback S-tr. ;399.895 kr.;150.000;Nordsjælland;2016
+Audi S8 4,0 TFSi Plus quattro Tiptr. ;1.199.800 kr.;45.000;Østjylland;2016
+Audi A7 1,8 TFSi 190 Sportback S-tr. ;499.895 kr.;32.000;København;2017
+Audi A3 35 TFSi Sport Cabriolet ;350.000 kr.;19.000;Syd- og Sønderjylland;2019
+Audi R8 5,2 FSi Spyder quattro R-tr. ;Ring;14.000;Østjylland;2010
+Audi S6 4,0 TFSi Avant quattro S-tr. ;699.900 kr.;96.000;Syd- og Sønderjylland;2016
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;349.000 kr.;15.000;Vestjylland;2020
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;359.800 kr.;68.000;Syd- og Vestsjælland;2017
+Audi TT 2,0 TFSi 230 Coupé quattro S-tr. ;189.900 kr.;94.000;Syd- og Vestsjælland;2015
+Audi A7 2,0 TFSi 252 Sportback S-tr. ;385.000 kr.;56.000;København;2016
+Audi A3 1,4 TFSi 150 Ambition S-tr. ;199.900 kr.;106.000;Fyn;2015
+Audi A3 1,4 TFSi 150 Sport ;234.900 kr.;69.000;Fyn;2017
+Audi Q3 35 TFSi Advanced S-tr. ;369.900 kr.;14.000;Syd- og Vestsjælland;2020
+Audi S5 3,0 TFSi Cabriolet quattro S-tr. ;498.800 kr.;102.000;Syd- og Vestsjælland;2014
+Audi A3 1,4 TFSi 150 Ambiente Cabriolet ;240.000 kr.;82.000;København;2016
+Audi A3 1,0 TFSi 116 Sportback ;209.900 kr.;43.000;Nordsjælland;2018
+Audi S6 5,2 FSi Avant quattro Tiptr. ;161.000 kr.;199.000;København;2007
+Audi A3 1,0 TFSi 116 S-tr. ;239.880 kr.;34.000;Østjylland;2018
+Audi A1 1,0 TFSi 95 Ultra Sportback ;144.900 kr.;89.000;Østjylland;2016
+Audi R8 5,2 FSi Spyder quattro S-tr. ;4.150 kr.;49.000;Syd- og Sønderjylland;2014
+Audi A3 1,4 TFSi Attraction Sportback ;75.000 kr.;172.000;Syd- og Vestsjælland;2009
+Audi A3 1,0 TFSi 116 Sportback ;189.900 kr.;70.000;København;2017
+Audi A4 1,8 T 163 Cabriolet ;169.000 kr.;84.000;Nordsjælland;2008
+Audi A1 1,0 TFSi 95 Ultra Sportback S-tr. ;234.321 kr.;16.000;Nordjylland;2017
+Audi A6 2,8 FSi Multitr. ;174.900 kr.;137.000;Østjylland;2011
+Audi A6 2,4 V6 ;29.900 kr.;299.000;Syd- og Sønderjylland;2004
+Audi A3 1,4 TFSi 125 Ambition Sportback ;209.900 kr.;78.000;Syd- og Sønderjylland;2016
+Audi S4 3,0 TFSi Avant quattro S-tr. ;279.900 kr.;230.000;Syd- og Sønderjylland;2013
+Audi A3 1,4 TFSi Ambition Sportback ;129.900 kr.;121.000;Nordsjælland;2012
+Audi A6 1,8 TFSi 190 Ultra Avant S-tr. ;359.800 kr.;74.000;Syd- og Vestsjælland;2016
+Audi Q3 1,4 TFSi 150 Sport Limited S-tr. ;299.900 kr.;53.000;København;2018
+Audi A5 2,0 TFSi 211 Coupé Multitr. ;139.000 kr.;199.000;Østjylland;2010
+Audi A3 1,4 TFSi 140 Ambition Sportback S-tr. ;209.900 kr.;82.000;København;2014
+Audi A3 1,0 TFSi 116 S-tr. ;234.900 kr.;43.000;Syd- og Vestsjælland;2018
+Audi A4 2,0 TFSi 190 Sport Avant ;314.900 kr.;33.000;Syd- og Vestsjælland;2018
+Audi Q5 2,0 TFSi 252 Sport quattro S-tr. ;624.900 kr.;49.000;Syd- og Vestsjælland;2018
+Audi A1 1,2 TFSi 86 Attraction ;99.800 kr.;87.000;Syd- og Vestsjælland;2011
+Audi A4 1,8 TFSi 120 Limited ;185.000 kr.;59.000;Syd- og Vestsjælland;2015
+Audi A3 3,2 Ambition quattro DSG ;89.900 kr.;96.000;Nordjylland;2004
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;269.700 kr.;28.000;Østjylland;2018
+Audi RS6 4,0 TFSi performance Avant quattro ;1.199.500 kr.;89.000;Syd- og Sønderjylland;2017
+Audi A5 1,8 TFSi 170 S-line Sportback Multitr. ;199.700 kr.;188.000;Vestjylland;2015
+Audi Q3 1,4 TFSi 150 Sport S-tr. ;399.800 kr.;46.000;Østjylland;2018
+Audi A5 2,0 TFSi 211 Cabriolet ;215.000 kr.;126.000;Syd- og Vestsjælland;2009
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;479.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi A5 1,8 TFSi 144 Limited Sportback Multitr. ;234.900 kr.;151.000;København;2016
+Audi Q3 35 TFSi Prestige Sportback S-tr. ;369.900 kr.;14.000;Østjylland;2020
+Audi A5 3,0 TFSi Sportback quattro S-tr. ;258.000 kr.;168.000;Syd- og Vestsjælland;2014
+Audi A4 2,4 V6 Cabriolet Multitr. ;79.000 kr.;298.000;København;2002
+Audi S4 3,0 TFSi Avant quattro S-tr. ;330.000 kr.;118.000;Syd- og Sønderjylland;2013
+Audi SQ5 3,0 TFSi quattro Tiptr. ;799.800 kr.;81.000;Syd- og Sønderjylland;2018
+Audi A4 2,0 TFSi Cabriolet Multitr. ;140.000 kr.;100.000;Nordsjælland;2006
+Audi A4 1,8 TFSi 120 Multitr. ;179.800 kr.;88.000;København;2012
+Audi A4 1,6 Avant ;47.900 kr.;175.000;København;2005
+Audi A6 2,0 Avant ;16.200 kr.;314.000;Syd- og Vestsjælland;2003
+Audi A6 2,4 V6 Tiptr. ;44.900 kr.;200.000;Østjylland;2000
+Audi Q3 35 TFSi Advanced Prestige S-tr. ;399.900 kr.;4.000;Syd- og Vestsjælland;2021
+Audi TT 1,8 T 180 Roadster ;185.000 kr.;95.000;Bornholm;2001
+Audi S7 4,0 TFSi Sportback quattro S-tr. ;589.999 kr.;140.000;Syd- og Vestsjælland;2013
+Audi TT 3,2 V6 Coupé quattro S-tr. ;299.500 kr.;99.000;Syd- og Sønderjylland;2007
+Audi A6 2,8 FSi Multitr. ;177.900 kr.;197.000;Fyn;2011
+Audi A3 1,0 TFSi 116 Sport Sportback ;209.980 kr.;57.000;København;2017
+Audi A3 1,4 TFSi Ambiente Sportback ;79.900 kr.;137.000;Nordsjælland;2008
+Audi A4 1,8 T 163 ;49.900 kr.;283.000;Fyn;2006
+Audi A3 1,0 TFSi 116 ;219.995 kr.;44.000;Nordsjælland;2018
+Audi A4 1,6 Avant ;39.900 kr.;219.000.000;København;2005
+Audi A2 1,4 ;49.900 kr.;191.000;Syd- og Sønderjylland;2000
+Audi A3 1,4 TFSi 150 Ambition ;169.400 kr.;128.000;Syd- og Sønderjylland;2015
+Audi A3 1,2 TFSi 105 Ambiente Sportback ;99.800 kr.;145.000;Syd- og Vestsjælland;2011
+Audi A4 1,8 T 163 Cabriolet Multitr. ;144.900 kr.;227.000;Syd- og Sønderjylland;2008
+Audi A3 1,6 Attraction ;34.900 kr.;200.000;Syd- og Vestsjælland;2006
+Audi A4 2,4 V6 Cabriolet ;82.500 kr.;221.000;Syd- og Sønderjylland;2002
+Audi A5 1,8 TFSi 170 Sportback ;161.200 kr.;125.000;Fyn;2013
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi RS5 2,9 TFSi Sportback quattro Tiptr. ;1.887.675 kr.;0;København;2020
+Audi A3 1,2 TFSi 110 Ambiente Sportback ;169.900 kr.;64.000;Fyn;2016
+Audi A7 3,0 TFSi Sportback quattro S-tr. ;Ring;67.000;København;2015
+Audi A1 1,4 TFSi 125 Sport Sportback ;159.900 kr.;93.000;Vestjylland;2016
+Audi Q3 35 TFSi S-tr. ;354.900 kr.;30.000;Fyn;2019
+Audi A3 35 TFSi Prestige Sportback S-tr. ;349.900 kr.;8.000;Fyn;2021
+Audi Q3 35 TFSi Prestige S-tr. ;364.900 kr.;10.000;Fyn;2021
+Audi A3 30 TFSi Sportback ;239.800 kr.;24.000;Nordsjælland;2019
+Audi S6 4,0 TFSi Avant quattro S-tr. ;699.800 kr.;89.000;Nordsjælland;2014
+Audi A3 30 TFSi Sport ;219.800 kr.;49.000;Østjylland;2018
+Audi A5 40 TFSi Advanced+ Sportback S-tr. ;454.900 kr.;19.000;Østjylland;2020
+Audi A5 1,8 TFSi 170 Sportback ;174.900 kr.;128.000;Nordjylland;2012
+Audi Q2 30 TFSi Prestige ;289.900 kr.;15.000;København;2021
+Audi A4 2,0 TFSi 190 Sport S-tr. ;334.900 kr.;48.000;København;2018
+Audi A4 40 TFSi Prestige Avant S-tr. ;400.000 kr.;8.000;København;2020
+Audi A1 1,0 TFSi 95 Sportback ;184.000 kr.;30.000;Nordjylland;2017
+Audi RS6 5,0 TFSi Avant quattro Tiptr. ;299.900 kr.;183.000;Syd- og Sønderjylland;2009
+Audi S5 3,0 TFSi Cabriolet quattro Tiptr. ;Ring;41.000;Østjylland;2018
+Audi Q3 1,4 TFSi 150 Sport Limited S-tr. ;299.900 kr.;53.000;København;2018
+Audi Q2 1,0 TFSi 116 Sport ;224.800 kr.;68.000;Østjylland;2018
+Audi S4 3,0 TFSi Avant quattro Tiptr. ;Ring;72.000;Syd- og Sønderjylland;2017
+Audi A3 1,4 TFSi 125 Attraction Sportback ;184.900 kr.;49.000;Fyn;2015
+Audi Q3 35 TFSi S-tr. ;369.900 kr.;7.000;Fyn;2021
+Audi A6 2,8 FSi Avant Multitr. ;199.900 kr.;186.000;Vestjylland;2011
+Audi A1 1,4 TFSi 125 Sportback ;189.800 kr.;31.000;Østjylland;2018
+Audi A3 1,4 TFSi 140 Ambition Sportback S-tr. ;209.900 kr.;82.000;København;2014
+Audi A3 35 TFSi Prestige Sportback S-tr. ;344.900 kr.;4.000;København;2021
+Audi S3 2,0 TFSi Cabriolet quattro S-tr. ;619.800 kr.;31.000;Syd- og Sønderjylland;2017
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi RS5 2,9 TFSi Sportback quattro Tiptr. ;1.887.675 kr.;0;København;2020
+Audi A3 1,2 TFSi 110 Ambiente Sportback ;169.900 kr.;64.000;Fyn;2016
+Audi A7 3,0 TFSi Sportback quattro S-tr. ;Ring;67.000;København;2015
+Audi A1 1,4 TFSi 122 Ambition S-tr. ;109.900 kr.;51.000;Syd- og Vestsjælland;2010
+Audi S5 3,0 TFSi Cabriolet quattro S-tr. ;498.800 kr.;102.000;Syd- og Vestsjælland;2014
+Audi Q2 35 TFSi Prestige S-tr. ;334.900 kr.;8.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;489.900 kr.;13.000;Syd- og Sønderjylland;2020
+Audi Q2 1,4 TFSi 150 S-tr. ;339.900 kr.;60.000;Nordjylland;2017
+Audi A3 1,0 TFSi 116 Sportback ;209.900 kr.;43.000;Nordsjælland;2018
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;409.900 kr.;21.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;409.900 kr.;8.000;Fyn;2019
+Audi A3 1,0 TFSi 116 S-tr. ;239.880 kr.;34.000;Østjylland;2018
+Audi A6 1,8 TFSi 190 Ultra S-tr. ;399.700 kr.;46.000;Vestjylland;2018
+Audi S5 3,0 TFSi Sportback quattro Tiptr. ;839.800 kr.;37.000;Syd- og Sønderjylland;2018
+Audi RS5 2,9 TFSi Coupé quattro Tiptr. ;999.900 kr.;76.000;Syd- og Sønderjylland;2017
+Audi A3 1,0 TFSi 116 Sportback ;189.900 kr.;70.000;København;2017
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;2.594.536 kr.;0;København;2021
+Audi A3 1,2 TFSi 105 Ambiente Sportback ;99.800 kr.;145.000;Syd- og Vestsjælland;2011
+Audi A1 1,0 TFSi 95 Ultra Sportback S-tr. ;234.321 kr.;16.000;Nordjylland;2017
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;9.000;Syd- og Vestsjælland;2020
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;314.900 kr.;8.000;Nordjylland;2020
+Audi A4 40 TFSi Advanced Prestige Tour+ Avant S-tr. ;419.900 kr.;22.000;Fyn;2020
+Audi A1 30 TFSi Advanced Sportback S-tr. ;289.900 kr.;6.000;Østjylland;2021
+Audi RS Q8 4,0 TFSi quattro Tiptr. ;2.995.000 kr.;5.000;København;2021
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;Østjylland;2021
+Audi A6 2,8 FSi Multitr. ;174.900 kr.;137.000;Østjylland;2011
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;5.000;Syd- og Vestsjælland;2020
+Audi Q2 35 TFSi Prestige S-tr. ;342.900 kr.;8.000;København;2021
+Audi A4 1,8 T 163 Cabriolet Multitr. ;144.900 kr.;227.000;Syd- og Sønderjylland;2008
+Audi Q2 30 TFSi Prestige ;280.900 kr.;5.000;København;2021
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;424.900 kr.;15.000;Syd- og Sønderjylland;2020
+Audi S6 4,0 TFSi Avant quattro S-tr. ;699.900 kr.;83.000;Østjylland;2017
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;294.900 kr.;97.000;København;2016
+Audi A1 1,4 TFSi 122 Ambition ;109.800 kr.;113.000;Nordsjælland;2012
+Audi A1 30 TFSi Sportback ;274.900 kr.;4.000;Fyn;2020
+Audi A3 1,0 TFSi 116 Sport Sportback ;219.880 kr.;41.000;Østjylland;2018
+Audi A3 35 TFSi Prestige Sportback S-tr. ;384.900 kr.;6.000;Syd- og Vestsjælland;2021
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;349.900 kr.;16.000;Østjylland;2020
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;503.900 kr.;4.000;København;2021
+Audi A3 35 TFSi Sport Sportback ;244.880 kr.;24.000;Østjylland;2019
+Audi Q2 30 TFSi Prestige ;284.900 kr.;6.000;Østjylland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;379.900 kr.;6.000;København;2021
+Audi Q2 35 TFSi Prestige S-tr. ;334.900 kr.;5.000;Syd- og Vestsjælland;2021
+Audi A5 2,0 TFSi 180 Sportback Multitr. ;169.800 kr.;129.000;Syd- og Sønderjylland;2011
+Audi A3 35 TFSi Prestige Sportback S-tr. ;389.900 kr.;9.000;København;2021
+Audi S6 4,0 TFSi Avant quattro S-tr. ;449.900 kr.;201.000;Nordjylland;2013
+Audi Q2 1,4 TFSi 150 Sport S-tr. ;274.900 kr.;38.000;Syd- og Vestsjælland;2018
+Audi Q3 35 TFSi Advanced S-tr. ;384.900 kr.;7.000;Fyn;2020
+Audi A3 1,0 TFSi 116 Sportback ;214.880 kr.;56.000;Østjylland;2018
+Audi A3 35 TFSi Prestige Sportback S-tr. ;347.900 kr.;6.000;Nordjylland;2021
+Audi TT 2,0 TFSi Competition Coupé S-tr. ;519.800 kr.;35.000;Nordjylland;2017
+Audi A4 40 TFSi S-line+ Avant S-tr. ;448.900 kr.;6.000;København;2021
+Audi A4 40 TFSi S-line+ Avant S-tr. ;467.900 kr.;6.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;554.900 kr.;6.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;540.900 kr.;8.000;København;2021
+Audi S7 4,0 TFSi Sportback quattro S-tr. ;200.000 kr.;188.000;København;2012
+Audi A4 2,0 TFSi Cabriolet Multitr. ;Ring;65.000;København;2007
+Audi A3 35 TFSi Sport Limited+ Sportback S-tr. ;334.900 kr.;19.000;Nordjylland;2020
+Audi A4 1,8 T 163 Cabriolet ;189.900 kr.;79.000;København;2007
+Audi TT 1,8 T 225 Coupé quattro ;Ring;91.000;København;2001
+Audi Q2 35 TFSi Prestige S-tr. ;336.039 kr.;0;København;2021
+Audi A6 2,4 V6 ;29.900 kr.;299.000;Syd- og Sønderjylland;2004
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;584.900 kr.;14.000;Syd- og Sønderjylland;2021
+Audi A3 1,4 TFSi 125 Ambition Sportback ;209.900 kr.;78.000;Syd- og Sønderjylland;2016
+Audi A4 1,8 TFSi 170 Avant ;169.900 kr.;108.000;Nordjylland;2012
+Audi A3 35 TFSi Sport Limited+ Sportback S-tr. ;314.900 kr.;7.000;Fyn;2020
+Audi Q3 35 TFSi Sportback S-tr. ;389.900 kr.;10.000;Syd- og Vestsjælland;2020
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;339.900 kr.;6.000;Nordjylland;2020
+Audi R8 4,2 FSi Coupé quattro R-tr. ;399.995 kr.;71.000;Østjylland;2008
+Audi S4 3,0 TFSi Avant quattro S-tr. ;279.900 kr.;230.000;Syd- og Sønderjylland;2013
+Audi A3 35 TFSi S-line Sportback S-tr. ;399.900 kr.;5.000;Syd- og Vestsjælland;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;369.900 kr.;6.000;Fyn;2021
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;509.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;339.900 kr.;6.000;Nordjylland;2021
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;429.900 kr.;6.000;København;2020
+Audi A4 35 TFSi Advanced S-tr. ;369.900 kr.;6.000;Nordjylland;2020
+Audi A3 30 TFSi Attitude Sportback ;282.900 kr.;6.000;Nordjylland;2021
+Audi A6 1,8 TFSi 190 Ultra Avant S-tr. ;359.800 kr.;74.000;Syd- og Vestsjælland;2016
+Audi A3 30 TFSi Attitude Sportback ;282.900 kr.;6.000;Nordjylland;2021
+Audi A3 1,6 Attraction ;34.900 kr.;200.000;Syd- og Vestsjælland;2006
+Audi Q3 35 TFSi Advanced S-tr. ;394.900 kr.;6.000;Nordjylland;2020
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;436.900 kr.;6.000;København;2020
+Audi Q5 2,0 TFSi 252 Sport quattro S-tr. ;599.900 kr.;11.000;Syd- og Sønderjylland;2017
+Audi A6 2,0 Avant Limited Edition Multitr. ;29.500 kr.;357.000;Østjylland;2004
+Audi A3 35 TFSi Prestige S-tr. ;359.900 kr.;6.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige ;329.900 kr.;10.000;Syd- og Sønderjylland;2021
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;14.000;Syd- og Sønderjylland;2021
+Audi Q2 30 TFSi Sport ;275.900 kr.;6.000;København;2020
+Audi A3 35 TFSi Prestige S-tr. ;382.900 kr.;6.000;København;2021
+Audi A4 35 TFSi Prestige+ S-tr. ;394.900 kr.;6.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;8.000;Syd- og Sønderjylland;2021
+Audi Q3 35 TFSi S-tr. ;364.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige S-tr. ;394.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi Q2 35 TFSi Prestige S-tr. ;339.900 kr.;6.000;Nordjylland;2021
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;11.000;Syd- og Sønderjylland;2021
+Audi RS4 4,2 FSi Avant quattro S-tr. ;799.900 kr.;48.000;Fyn;2015
+Audi A3 35 TFSi Prestige S-tr. ;379.900 kr.;10.000;Syd- og Sønderjylland;2021
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;339.900 kr.;6.000;Nordjylland;2020
+Audi R8 4,2 FSi Coupé quattro R-tr. ;399.995 kr.;71.000;Østjylland;2008
+Audi A3 35 TFSi Prestige S-tr. ;369.900 kr.;6.000;Nordjylland;2021
+Audi A3 40 TFSi Sport Limited Sportback S-tr. ;328.880 kr.;15.000;Østjylland;2019
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;488.900 kr.;8.000;Østjylland;2021
+Audi A3 35 TFSi S-line Sportback S-tr. ;404.900 kr.;6.000;Nordjylland;2021
+Audi A3 1,6 Ambiente ;39.900 kr.;172.000;Syd- og Vestsjælland;2006
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;8.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;4.000;Fyn;2020
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;384.900 kr.;46.000;Fyn;2018
+Audi R8 4,2 FSi Spyder quattro S-tr. ;1.299.900 kr.;28.000;Østjylland;2014
+Audi Q3 2,0 TFSi 180 Sport quattro S-tr. ;299.000 kr.;100.000;Østjylland;2017
+Audi A4 1,8 TFSi 170 S-line Avant Multitr. ;229.900 kr.;143.000;Syd- og Sønderjylland;2013
+Audi A4 2,0 Avant ;79.800 kr.;143.000;Fyn;2008
+Audi Q5 2,0 TFSi 211 quattro S-tr. ;269.900 kr.;132.000;Syd- og Vestsjælland;2012
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;478.900 kr.;6.000;Østjylland;2021
+Audi Q2 30 TFSi Prestige ;279.900 kr.;6.000;Nordjylland;2020
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;474.900 kr.;12.000;Syd- og Vestsjælland;2020
+Audi A3 35 TFSi Prestige S-tr. ;373.900 kr.;6.000;Østjylland;2021
+Audi A5 1,8 TFSi 170 Cabriolet Multitr. ;389.900 kr.;102.000;Nordjylland;2015
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;448.900 kr.;13.000;København;2021
+Audi A3 1,0 TFSi 116 Sport ;199.900 kr.;69.000;Nordjylland;2018
+Audi A3 1,4 TFSi 150 Sport S-tr. ;329.900 kr.;55.000;Østjylland;2017
+Audi A1 1,0 TFSi 95 Ultra Sportback ;174.999 kr.;20.000;København;2017
+Audi SQ5 3,0 TFSi quattro Tiptr. ;799.995 kr.;59.000;København;2018
+Audi A3 35 TFSi Prestige S-tr. ;377.900 kr.;6.000;Nordjylland;2021
+Audi A4 35 TFSi S-line+ S-tr. ;439.900 kr.;3.000;Fyn;2020
+Audi A1 1,4 TFSi 185 S-line Sportback S-tr. ;164.800 kr.;112.000;Syd- og Vestsjælland;2012
+Audi Q3 35 TFSi Sportback S-tr. ;419.900 kr.;15.000;Nordjylland;2020
+Audi A4 1,8 TFSi 120 Avant ;269.900 kr.;24.000;København;2015
+Audi Q3 35 TFSi Sportback S-tr. ;399.900 kr.;6.000;Østjylland;2020
+Audi A3 1,8 TFSi Ambiente Sportback ;99.800 kr.;136.000;Vestjylland;2009
+Audi A3 1,4 TFSi 122 Ambition Sportback ;149.900 kr.;151.000;Nordjylland;2013
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;555.900 kr.;6.000;København;2021
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;541.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;9.000;Østjylland;2021
+Audi S8 4,0 TFSi quattro Tiptr. ;599.900 kr.;55.000;Syd- og Sønderjylland;2012
+Audi TT 1,8 T 180 Coupé ;49.000 kr.;270.000;Østjylland;1999
+Audi A3 1,0 TFSi 116 Sportback S-tr. ;234.900 kr.;36.000;København;2018
+Audi Q2 1,0 TFSi 116 ;219.900 kr.;59.000;København;2017
+Audi A3 1,0 TFSi 116 Sportback ;209.800 kr.;47.000;Nordsjælland;2018
+Audi A3 1,4 TFSi 122 Ambition Sportback ;169.900 kr.;67.000;Nordjylland;2013
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;11.000;Fyn;2020
+Audi Q3 35 TFSi Advanced S-tr. ;404.900 kr.;7.000;Fyn;2020
+Audi A3 35 TFSi Prestige S-tr. ;382.900 kr.;6.000;København;2021
+Audi Q5 45 TFSi Sport quattro S-tr. ;649.900 kr.;9.000;Nordjylland;2020
+Audi A3 1,4 TFSi 140 Ambition Cabriolet ;254.500 kr.;52.000;Syd- og Vestsjælland;2014
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;419.900 kr.;5.000;København;2020
+Audi A3 1,4 TFSi 122 Ambition Sportback S-tr. ;179.900 kr.;116.000;Lolland-Falster;2013
+Audi A3 35 TFSi Sport Limited Sportback S-tr. ;299.000 kr.;10.000;Fyn;2019
+Audi A5 40 TFSi Sport Coupé S-tr. ;459.900 kr.;22.000;Syd- og Vestsjælland;2019
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;5.000;København;2020
+Audi Q2 30 TFSi Prestige ;279.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;424.900 kr.;14.000;Nordjylland;2020
+Audi RS6 4,0 TFSi performance Avant quattro ;1.199.900 kr.;74.000;Fyn;2017
+Audi A6 2,4 V6 Multitr. ;99.800 kr.;128.000;Vestjylland;2007
+Audi Q2 35 TFSi Prestige S-tr. ;364.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi A1 1,2 TFSi 86 Attraction Sportback ;139.900 kr.;64.000;Østjylland;2014
+Audi TT 1,8 T 180 Coupé ;99.800 kr.;277.000;Nordjylland;1998
+Audi A1 1,0 TFSi 95 Sport Sportback S-tr. ;199.999 kr.;23.000;København;2018
+Audi A3 1,5 TFSi 150 Sport S-tr. ;274.900 kr.;44.000;Nordjylland;2018
+Audi A3 1,4 TFSi 140 Ambiente S-tr. ;180.000 kr.;138.000;Syd- og Vestsjælland;2014
+Audi A4 40 TFSi Prestige+ Avant S-tr. ;469.900 kr.;9.000;København;2021
+Audi TT 40 TFSi S-line Coupé S-tr. ;585.900 kr.;15.000;København;2020
+Audi S6 4,0 TFSi Avant quattro S-tr. ;349.900 kr.;228.000;Vestjylland;2012
+Audi A3 40 TFSi Limited+ Sportback quattro S-tr ;369.900 kr.;9.000;Østjylland;2020
+Audi A5 40 TFSi S-line+ Sportback S-tr. ;541.900 kr.;6.000;København;2021
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;9.000;Østjylland;2021
+Audi S8 4,0 TFSi quattro Tiptr. ;599.900 kr.;55.000;Syd- og Sønderjylland;2012
+Audi A3 30 TFSi Sport Sportback ;259.700 kr.;11.000;Vestjylland;2019
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;349.900 kr.;15.000;Nordsjælland;2018
+Audi Q2 1,4 TFSi 150 Sport S-tr. ;269.900 kr.;29.000;Fyn;2017
+Audi A6 3,0 TFSi Avant quattro S-tr. ;324.900 kr.;135.000;København;2012
+Audi A1 1,0 TFSi 95 Ultra Sportback ;179.900 kr.;22.000;Syd- og Vestsjælland;2018
+Audi A5 1,8 TFSi 177 Sportback Multitr. ;279.700 kr.;89.000;Vestjylland;2016
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;389.800 kr.;34.000;Østjylland;2019
+Audi Q5 2,0 TFSi 252 S-line quattro S-tr. ;629.900 kr.;52.000;Nordsjælland;2017
+Audi TT 40 TFSi S-line Coupé S-tr. ;607.900 kr.;6.000;Østjylland;2020
+Audi A3 1,4 TFSi 150 Sport Sportback ;249.900 kr.;29.000;København;2017
+Audi Q3 1,4 TFSi 150 Limited Edition ;254.800 kr.;45.000;Syd- og Vestsjælland;2018
+Audi RS7 4,0 TFSi Sportback quattro Tiptr. ;350.000 kr.;79.000;Lolland-Falster;2014
+Audi A3 35 TFSi Prestige Sportback S-tr. ;371.900 kr.;6.000;Østjylland;2021
+Audi A3 35 TFSi Prestige Sportback ;369.900 kr.;6.000;Fyn;2021
+Audi Q3 35 TFSi Advanced S-tr. ;384.900 kr.;13.000;Fyn;2020
+Audi Q3 35 TFSi Sportback S-tr. ;384.900 kr.;13.000;Fyn;2020
+Audi A6 3,2 FSi Multitr. ;59.900 kr.;269.000;Nordjylland;2005
+Alfa Romeo Giulietta 1,4 M-Air 170 Super TCT ;184.900 kr.;75.000;Østjylland;2016
+Audi A4 1,8 T 163 ;29.900 kr.;396.000;København;2003
+Audi Q3 1,4 TFSi 150 S-tr. ;229.900 kr.;96.000;Nordjylland;2014
+Audi A5 2,0 TFSi 190 Sport Coupé S-tr. ;429.900 kr.;82.000;Nordjylland;2017
+Audi A4 1,8 T 163 Avant quattro ;89.900 kr.;129.000;Syd- og Sønderjylland;2006
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;1.199.900 kr.;121.000;Syd- og Vestsjælland;2016
+Audi A5 1,8 TFSi 170 Sportback ;229.900 kr.;92.000;Syd- og Vestsjælland;2013
+Audi S3 2,0 TFSi Sportback quattro S-tr. ;674.900 kr.;9.000;Syd- og Sønderjylland;2021
+Audi RS Q8 4,0 TFSi quattro Tiptr. ;2.595.900 kr.;24.000;Østjylland;2020
+Audi A5 40 TFSi Prestige+ Sportback S-tr. ;479.900 kr.;6.000;Fyn;2020
+Audi A4 40 TFSi Edition+ Avant S-tr. ;324.900 kr.;31.000;Syd- og Sønderjylland;2018
+Audi A5 40 TFSi Advanced Sportback S-tr. ;484.900 kr.;2.000;Fyn;2020
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;424.900 kr.;9.000;Østjylland;2020
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;Ring;0;København;2021
+Audi A3 40 TFSi Limited+ Sportback quattro S-tr ;349.900 kr.;24.408;Østjylland;2020
+Audi S3 2,0 TFSi Cabriolet quattro S-tr. ;628.800 kr.;13.239;Syd- og Vestsjælland;2017
+Audi A3 35 TFSi Prestige S-tr. ;409.900 kr.;8.000;København;2021
+Audi SQ5 3,0 TFSi quattro Tiptr. ;769.900 kr.;62.000;København;2018
+Audi A5 2,0 TFSi 190 Sport Cabriolet S-tr. ;459.900 kr.;63.000;Syd- og Sønderjylland;2018
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;5.000;København;2020
+Audi A1 1,4 TFSi 122 Attraction S-tr. ;159.900 kr.;81.000;Fyn;2014
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;429.900 kr.;8.000;København;2020
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;9.000;Syd- og Sønderjylland;2020
+Audi SQ5 3,0 TFSi quattro Tiptr. ;859.000 kr.;36.500;Syd- og Sønderjylland;2017
+Audi SQ5 3,0 TFSi quattro Tiptr. ;859.000 kr.;36.000;Syd- og Sønderjylland;2017
+Audi A3 35 TFSi Prestige Sportback S-tr. ;349.900 kr.;7.000;Fyn;2021
+Audi Q3 35 TFSi Advanced S-tr. ;364.900 kr.;15.000;Østjylland;2019
+Audi A3 30 TFSi Sport Sportback S-tr. ;269.900 kr.;49.000;Syd- og Sønderjylland;2019
+Audi Q3 35 TFSi Advanced S-tr. ;384.500 kr.;8.000;Syd- og Vestsjælland;2020
+Audi A3 1,0 TFSi 116 Sport Sportback S-tr. ;239.900 kr.;48.000;Syd- og Sønderjylland;2018
+Audi Q2 1,0 TFSi 116 Sport ;239.900 kr.;38.000;Nordjylland;2017
+Audi A6 45 TFSi Sport Avant S-tr. ;669.900 kr.;7.000;København;2020
+Audi A3 35 TFSi Prestige S-tr. ;381.900 kr.;6.000;Østjylland;2021
+Audi A6 1,8 TFSi 190 Ultra S-line S-tr. ;219.880 kr.;208.000;Østjylland;2015
+Audi A2 1,6 FSi ;69.900 kr.;220.000;Syd- og Sønderjylland;2005
+Audi A3 30 TFSi ;199.900 kr.;83.000;Vestjylland;2019
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;360.000 kr.;78.000;København;2017
+Audi A6 2,0 TFSi ;89.900 kr.;142.000;Østjylland;2007
+Audi S4 4,2 V8 Avant quattro ;219.900 kr.;106.000;Syd- og Sønderjylland;2003
+Audi A1 35 TFSi Sportback S-tr. ;259.900 kr.;64.000;Syd- og Sønderjylland;2019
+Audi A4 40 TFSi Advanced S-tr. ;419.900 kr.;8.000;Fyn;2020
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;1.199.800 kr.;77.000;Nordjylland;2015
+Audi A6 45 TFSi Sport Avant S-tr. ;549.900 kr.;26.000;København;2019
+Audi A4 2,4 V6 Cabriolet Multitr. ;79.900 kr.;262.000;Nordjylland;2002
+Audi Q3 35 TFSi Advanced S-tr. ;389.900 kr.;8.000;Syd- og Vestsjælland;2020
+Audi Q5 2,0 TFSi 211 quattro S-tr. ;229.900 kr.;159.000;Vestjylland;2011
+Audi A3 1,4 TFSi 150 Sport Sportback S-tr. ;239.900 kr.;68.000;København;2017
+Audi RS Q3 2,5 TFSi quattro S-tr. ;629.900 kr.;56.000;København;2015
+Audi A3 1,5 TFSi 150 Sport Sportback S-tr. ;249.000 kr.;24.000;Vestjylland;2018
+Audi TT 2,0 TFSi 230 Coupé quattro S-tr. ;409.900 kr.;94.000;Syd- og Vestsjælland;2014
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;319.000 kr.;82.000;Syd- og Sønderjylland;2017
+Audi A5 1,8 TFSi 144 Limited Sportback Multitr. ;249.900 kr.;95.000;Østjylland;2016
+Audi A3 35 TFSi Sport Cabriolet S-tr. ;399.900 kr.;4.000;København;2019
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;309.900 kr.;86.000;Syd- og Sønderjylland;2018
+Audi SQ5 3,0 TFSi quattro Tiptr. ;649.400 kr.;120.000;Syd- og Sønderjylland;2018
+Audi A4 1,8 TFSi 120 S-line Avant ;199.900 kr.;60.000;Syd- og Vestsjælland;2015
+Audi TT 2,0 TFSi 230 Coupé S-tr. ;444.900 kr.;57.000;Syd- og Sønderjylland;2015
+Audi A8 6,0 W12 quattro Tiptr. lang ;329.999 kr.;172.000;København;2005
+Audi S6 5,2 FSi quattro Tiptr. ;160.000 kr.;201.000;Vestjylland;2007
+Audi A4 40 TFSi Edition+ Avant S-tr. ;329.895 kr.;36.000;København;2018
+Audi A6 1,8 TFSi 190 Ultra S-tr. ;399.900 kr.;59.000;København;2018
+Audi A5 2,0 TFSi 225 Sportback quattro S-tr. ;261.000 kr.;90.000;København;2014
+Audi A3 1,4 TFSi 116 Sport Cabriolet ;284.900 kr.;60.000;Syd- og Sønderjylland;2017
+Audi A1 1,0 TFSi 81 Sport Sportback ;169.900 kr.;41.000;Syd- og Sønderjylland;2017
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;394.900 kr.;32.000;Syd- og Vestsjælland;2018
+Audi A4 1,8 TFSi 170 Avant ;149.900 kr.;172.000;Østjylland;2012
+Audi RS4 4,2 quattro ;399.900 kr.;177.000;Syd- og Sønderjylland;2006
+Audi A3 1,4 TFSi 140 Ambition Sportback ;169.900 kr.;115.000;Fyn;2014
+Audi A3 1,6 Attraction Sportback ;149.900 kr.;48.000;København;2011
+Audi A4 2,0 TFSi 190 Avant S-tr. ;269.900 kr.;138.000;Syd- og Sønderjylland;2017
+Audi S5 3,0 TFSi Sportback quattro Tiptr. ;695.000 kr.;116.000;Fyn;2018
+Audi A3 1,4 TFSi Attraction Sportback ;60.000 kr.;168.000;Østjylland;2008
+Audi A1 1,4 TFSi 125 Sport Sportback S-tr. ;219.900 kr.;48.000;Syd- og Sønderjylland;2017
+Audi A3 35 TFSi Sport Sportback S-tr. ;274.880 kr.;34.000;Østjylland;2019
+Audi A4 2,0 TFSi 190 Sport Avant S-tr. ;339.900 kr.;50.000;Fyn;2018
+Audi A4 1,8 TFSi 170 Avant ;189.900 kr.;115.000;Fyn;2015
+Audi Q3 35 TFSi S-tr. ;349.800 kr.;50.000;Nordjylland;2019
+Audi A1 1,4 TFSi 122 Attraction ;110.000 kr.;108.000;Syd- og Vestsjælland;2011
+Audi A3 1,0 TFSi 116 Sportback ;174.900 kr.;105.000;Syd- og Sønderjylland;2016
+Audi Q3 1,4 TFSi 150 Sport S-tr. ;299.980 kr.;79.000;Østjylland;2018
+Audi A5 1,8 TFSi 170 Sportback Multitr. ;219.900 kr.;132.000;Østjylland;2015
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;414.900 kr.;35.000;Syd- og Vestsjælland;2018
+Audi TT 2,0 TFSi 230 S-line Coupé quattro S-tr. ;429.900 kr.;109.000;Nordjylland;2014
+Audi A3 1,6 Attraction ;24.900 kr.;219.000;Syd- og Vestsjælland;2002
+Audi A6 2,0 TFSi Avant ;72.000 kr.;229.000;Syd- og Sønderjylland;2009
+Audi A3 1,5 TFSi 150 Sport Sportback ;229.900 kr.;59.000;København;2018
+Audi Q2 35 TFSi Prestige S-tr. ;Ring;6.000;København;2021
+Audi A6 2,4 V6 Multitr. ;74.900 kr.;200.000;København;2005
+Audi A5 2,0 TFSi 211 Coupé Multitr. ;139.000 kr.;199.000;Østjylland;2010
+Audi A5 1,8 TFSi 170 Cabriolet ;239.900 kr.;57.000;Østjylland;2012
+Audi A4 1,8 TFSi 120 Limited ;185.000 kr.;59.000;Syd- og Vestsjælland;2015
+Audi A5 2,0 TFSi 211 Cabriolet ;215.000 kr.;126.000;Syd- og Vestsjælland;2009
+Audi A3 1,4 TFSi 150 Ambiente Sportback S-tr. ;229.900 kr.;53.000;Østjylland;2016
+Audi A1 1,4 TFSi 125 Sportback ;199.900 kr.;90.000;Syd- og Vestsjælland;2018
+Audi A4 40 TFSi Advanced+ Avant S-tr. ;399.700 kr.;12.000;Syd- og Sønderjylland;2020
+Audi Q3 35 TFSi Prestige Sportback S-tr. ;369.900 kr.;14.000;Østjylland;2020
+Audi Q3 1,4 TFSi 150 Sport Limited ;299.900 kr.;55.000;Syd- og Sønderjylland;2018
+Audi S8 4,0 TFSi Plus quattro Tiptr. ;1.249.900 kr.;52.000;Østjylland;2017
+Audi A4 1,8 TFSi 120 Avant ;149.995 kr.;155.000;Nordsjælland;2012
+Audi R8 5,2 FSi Plus Coupé quattro S-tr. ;450.000 kr.;75.000;København;2013
+Audi A3 1,4 TFSi 150 Sport Sportback ;234.700 kr.;32.000;Syd- og Sønderjylland;2017
+Audi S3 2,0 TFSi quattro ;449.900 kr.;17.300;Syd- og Sønderjylland;2015
+Audi A4 40 TFSi Sport Prestige Avant S-tr ;379.500 kr.;19.000;Syd- og Sønderjylland;2019
+Audi Q5 2,0 TFSi 252 S-line quattro S-tr. ;689.900 kr.;38.000;Fyn;2017
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;Ring;4.000;Syd- og Sønderjylland;2020
+Audi A5 3,0 TFSi Sportback quattro S-tr. ;258.000 kr.;168.000;Syd- og Vestsjælland;2014
+Audi A6 2,4 V6 ;49.000 kr.;245.000;København;2006
+Audi A3 2,0 FSi Ambition Sportback aut. ;39.800 kr.;324.000;Vestjylland;2006
+Audi A3 1,4 TFSi 140 Ambiente Cabriolet S-tr. ;299.900 kr.;45.000;Østjylland;2015
+Audi TT 1,8 T 225 Roadster quattro ;129.900 kr.;224.000;Syd- og Sønderjylland;2003
+Audi A3 2,0 TFSi Ambition Sportback quattro ;89.900 kr.;178.000;Fyn;2005
+Audi TT 2,0 TFSi Roadster S-tr. ;249.900 kr.;130.000;Syd- og Vestsjælland;2007
+Audi R8 4,2 FSi Coupé quattro ;219.999 kr.;99.000;København;2008
+Audi A3 40 TFSi Sport Sportback quattro S-tr. ;369.000 kr.;21.000;København;2020
+Audi A1 1,2 TFSi 86 Ambition ;99.900 kr.;115.000;København;2012
+Audi A5 1,8 TFSi 144 Limited Sportback Multitr. ;239.000 kr.;103.000;Østjylland;2016
+Audi A6 2,4 V6 ;42.900 kr.;283.000;Syd- og Sønderjylland;2005
+Audi A6 2,8 FSi Avant Multitr. ;209.900 kr.;187.000;Fyn;2011
+Audi A4 1,8 TFSi 160 Avant Multitr. ;144.995 kr.;132.000;Østjylland;2011
+Audi A4 3,0 V6 Avant quattro Tiptr. ;47.000 kr.;242.000;København;2004
+Audi A8 4,2 quattro Tiptr. ;105.000 kr.;378.000;København;2004
+Audi 80 2,0 ;15.000 kr.;247.000;Syd- og Vestsjælland;1993
+Audi A3 1,4 TFSi Ambition Cabriolet ;189.800 kr.;63.000;Syd- og Sønderjylland;2012
+Audi A3 1,0 TFSi 116 Sportback ;224.800 kr.;29.000;Nordsjælland;2018
+Audi A4 2,4 V6 Cabriolet Multitr. ;74.000 kr.;298.000;København;2002
+Audi S4 3,0 TFSi Avant quattro S-tr. ;330.000 kr.;118.000;Syd- og Sønderjylland;2013
+Audi Q3 1,4 TFSi 150 Sport Limited S-tr. ;299.800 kr.;61.000;Nordsjælland;2018
+Audi A5 1,8 TFSi 177 Sportback Multitr. ;299.900 kr.;43.000;Syd- og Sønderjylland;2016
+Audi A4 2,0 TFSi Cabriolet Multitr. ;140.000 kr.;100.000;Nordsjælland;2006
+Audi TT 1,8 T 180 Roadster ;185.000 kr.;95.000;Bornholm;2001
+Audi S5 3,0 TFSi Cabriolet quattro S-tr. ;429.900 kr.;56.000;Østjylland;2012
+Audi A3 1,5 TFSi 150 Sport Cabriolet ;369.000 kr.;19.000;Nordsjælland;2018
+Audi A4 2,0 TFSi 180 ;134.800 kr.;111.000;Vestjylland;2010
+Audi A3 1,4 TFSi 125 Ambition Cabrio ;232.500 kr.;74.000;København;2015
+Audi A3 35 TFSi Sport Sportback S-tr. ;269.900 kr.;42.000;Østjylland;2019
+Audi TT 3,2 V6 Coupé quattro DSG ;129.900 kr.;270.000;Syd- og Sønderjylland;2003
+Audi A1 1,0 TFSi 95 Sportback ;127.500 kr.;91.000;Nordjylland;2016
+Audi A1 1,4 TFSi 122 Ambition Sportback S-tr. ;149.900 kr.;145.000;Lolland-Falster;2014
+Audi A3 1,4 TFSi 140 Attraction S-tr. ;185.000 kr.;93.000;Nordsjælland;2013
+Audi A5 2,0 TFSi 190 Sport Sportback S-tr. ;399.900 kr.;59.000;København;2018
+Audi Cabriolet 2,3 ;74.500 kr.;199.000;Østjylland;1992
+Audi A5 1,8 TFSi 144 Limited Sportback Multitr. ;254.900 kr.;110.000;Østjylland;2016
+Audi A6 2,0 TFSi 252 S-line Avant S-tr. ;419.700 kr.;142.000;Nordjylland;2015
+Audi S7 4,0 TFSi Sportback quattro S-tr. ;649.700 kr.;141.000;Syd- og Sønderjylland;2013
+Audi A4 2,0 TFSi 190 Sport ;269.900 kr.;63.000;Nordsjælland;2016
+Audi A6 2,4 V6 ;55.900 kr.;206.000;Syd- og Vestsjælland;2005
+Audi A7 2,0 TFSi 252 Sportback S-tr. ;399.895 kr.;150.000;Nordsjælland;2016
+Audi S8 4,0 TFSi Plus quattro Tiptr. ;1.199.800 kr.;45.000;Østjylland;2016
+Audi A7 1,8 TFSi 190 Sportback S-tr. ;499.895 kr.;32.000;København;2017
+Audi A3 35 TFSi Sport Cabriolet ;350.000 kr.;19.000;Syd- og Sønderjylland;2019
+Audi R8 5,2 FSi Spyder quattro R-tr. ;Ring;14.000;Østjylland;2010
+Audi Q5 3,0 TFSi quattro Tiptr. ;359.000 kr.;97.000;Syd- og Sønderjylland;2014
+Audi A5 1,8 TFSi 177 S-line Sportback Multitr. ;299.900 kr.;53.000;Østjylland;2016
+Audi A6 2,8 V6 Tiptr. ;24.900 kr.;417.000;Nordjylland;1997
+Audi Q3 1,4 TFSi 150 Sport S-tr. ;319.980 kr.;47.000;Østjylland;2017
+Audi Q3 1,4 TFSi 150 ;189.900 kr.;94.000;Syd- og Vestsjælland;2014
+Audi A3 1,8 TFSi 180 Ambiente Sportback quattro S-tr. ;229.500 kr.;114.000;Syd- og Sønderjylland;2014
+Audi A6 1,8 TFSi 190 S-line Avant S-tr. ;319.000 kr.;98.000;Østjylland;2015
+Audi A5 2,0 TFSi 180 Sportback ;159.900 kr.;168.000;Syd- og Sønderjylland;2009
+Audi S3 2,0 TFSi Sportback quattro S-tr. ;359.000 kr.;129.000;Østjylland;2014
+Audi A6 2,4 V6 Avant Tiptr. ;21.900 kr.;270.000;København;1998
+Audi S5 3,0 TFSi Cabriolet quattro Tiptr. ;739.900 kr.;35.000;København;2017
+Audi A1 1,0 TFSi 95 Ultra Sportback ;159.900 kr.;42.000;Fyn;2016
+Audi A4 1,8 TFSi 120 ;133.000 kr.;188.000;Nordsjælland;2013
+Audi Q5 2,0 TFSi 211 quattro S-tr. ;229.800 kr.;122.000;København;2009
+Audi Q2 35 TFSi Sport Prestige Select S-tr. ;349.000 kr.;15.000;Vestjylland;2020
+Audi A7 2,0 TFSi 252 Sportback S-tr. ;385.000 kr.;56.000;København;2016
+Audi A3 1,4 TFSi 150 Sport ;234.900 kr.;69.000;Fyn;2017
+Audi Q3 35 TFSi Advanced S-tr. ;374.900 kr.;14.000;Syd- og Vestsjælland;2020
+Audi A3 1,4 TFSi 150 Ambiente Cabriolet ;240.000 kr.;82.000;København;2016
+Audi S6 5,2 FSi Avant quattro Tiptr. ;161.000 kr.;199.000;København;2007
+Audi R8 5,2 FSi Spyder quattro S-tr. ;4.150 kr.;49.000;Syd- og Sønderjylland;2014
+Audi A3 1,4 TFSi Attraction Sportback ;75.000 kr.;172.000;Syd- og Vestsjælland;2009
+Audi A4 1,8 T 163 Cabriolet ;169.000 kr.;84.000;Nordsjælland;2008
+Audi Q2 1,4 TFSi 150 Sport S-tr. ;264.900 kr.;39.000;Syd- og Vestsjælland;2017
+Audi RS7 4,0 TFSi performance Sportback quattro Tiptr. ;340.000 kr.;140.000;København;2016
+Porsche 944 2,5 Turbo ;289.900 kr.;140.000;København;1987
+Audi A3 40 TFSi Sport Sportback S-tr. ;249.900 kr.;126.000;København;2018
+Audi Q2 35 TFSi Prestige S-tr. ;335.900 kr.;6.000;København;2021
+Audi A5 40 TFSi S-line+ Cabriolet S-tr. ;642.900 kr.;6.000;København;2021
+Audi A3 1,8 TFSi Ambition Sportback ;59.800 kr.;198.000;Syd- og Sønderjylland;2008
+Audi RS6 4,0 TFSi Avant quattro Tiptr. ;1.399.890 kr.;75.000;Syd- og Vestsjælland;2016
+Audi A4 40 TFSi S-line+ Avant S-tr. ;501.900 kr.;8.000;København;2021
+Audi A3 30 TFSi S-tr. ;254.900 kr.;19.000;Syd- og Vestsjælland;2019
+Audi A3 1,6 Ambiente Sportback ;29.900 kr.;308.000;Østjylland;2006
+Audi A3 1,4 TFSi Ambition Sportback ;129.900 kr.;121.000;Nordsjælland;2012
+Audi Q3 35 TFSi Advanced S-tr. ;374.900 kr.;14.000;Syd- og Vestsjælland;2020
+Audi A3 1,4 TFSi 150 Ambiente Cabriolet ;240.000 kr.;82.000;København;2016
+Audi S6 5,2 FSi Avant quattro Tiptr. ;161.000 kr.;199.000;København;2007
+Audi R8 5,2 FSi Spyder quattro S-tr. ;4.150 kr.;49.000;Syd- og Sønderjylland;2014
+Audi A3 1,4 TFSi Attraction Sportback ;75.000 kr.;172.000;Syd- og Vestsjælland;2009
+Audi A4 1,8 T 163 Cabriolet ;169.000 kr.;84.000;Nordsjælland;2008
+Audi TT 3,2 V6 Coupé quattro S-tr. ;299.500 kr.;99.000;Syd- og Sønderjylland;2007
+Audi A6 2,8 FSi Multitr. ;177.900 kr.;197.000;Fyn;2011
+Audi A3 1,0 TFSi 116 Sport Sportback ;209.980 kr.;57.000;København;2017
+Audi A3 1,4 TFSi Ambiente Sportback ;79.900 kr.;137.000;Nordsjælland;2008
+Audi A4 1,8 T 163 ;49.900 kr.;283.000;Fyn;2006
+Audi A3 1,0 TFSi 116 ;219.995 kr.;44.000;Nordsjælland;2018
+Audi A4 1,6 Avant ;39.900 kr.;219.000.000;København;2005
+Audi A2 1,4 ;49.900 kr.;191.000;Syd- og Sønderjylland;2000
+Audi A4 2,4 V6 Cabriolet ;82.500 kr.;221.000;Syd- og Sønderjylland;2002
+Audi A5 1,8 TFSi 170 Sportback ;161.200 kr.;125.000;Fyn;2013
