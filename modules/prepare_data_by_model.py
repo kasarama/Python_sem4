@@ -1,4 +1,5 @@
-
+import pandas as pd
+import numpy as np
 
 def _prepare_torvet_data(data):
     
@@ -101,9 +102,9 @@ def _prepare_basen_data(data):
             
         data.loc[index, 'price']=data.loc[index, 'price'].replace('kr.','').replace('.','').strip()
         if(data.loc[index, 'price'].isdigit() and int(data.loc[index, 'price'])>1234):
-            data.loc[index, 'km']=int(data.loc[index, 'km'])
+            data.loc[index, 'price']=int(data.loc[index, 'price'])
         else:
-            data.loc[index, 'km']=None
+            data.loc[index, 'price']=None
   
     data=data.drop_duplicates()
     data.dropna(inplace=True)
@@ -111,11 +112,7 @@ def _prepare_basen_data(data):
     return data
 
 
-
-
-
-
-def _split_by_model(data):
+def _split_by_model(data, np):
     uniqe_models = np.unique(data["model"])
 
     # create a new dataframe for each model
@@ -130,7 +127,7 @@ def _split_by_model(data):
 
 
 
-def marge_and_split_by_model(torvet_data,basen_data):
+def marge_and_split_by_model(torvet_data,basen_data, np):
     torvet=_prepare_torvet_data(torvet_data)
     
     basen = _prepare_basen_data(basen_data)
@@ -138,7 +135,7 @@ def marge_and_split_by_model(torvet_data,basen_data):
 
     marge=torvet.append(basen)
     marge=marge.drop_duplicates()
-    models=_split_by_model(marge)
+    models=_split_by_model(marge,np)
   
     return models
 
