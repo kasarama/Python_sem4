@@ -1,14 +1,26 @@
-from flask import Flask
-from flask import render_template
 from flask import Flask, jsonify, abort, request, Response
-import io
-import random
-import matplotlib
+import io, argparse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from matplotlib.figure import Figure
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-from modules import facade
+ 
+from modules import facade, database
+#from modules import facade
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-r', '--restore', action ='store', dest='restore_db', default=False, help='Defines if the database should be restored')
+parser.add_argument('-d', '--development', action ='store', dest='development', default=False, help='Set to False if run in production mode')
+results=parser.parse_args()
+
+def setup_db():
+    if results.restore_db in ['True', 'true', 'T', 't']:
+        
+        database.setup_db()
+
+setup_db()
+
+
+
 
 app = Flask(__name__)
 
@@ -19,8 +31,11 @@ regressions, models=facade.prepare_regressions()
 def index():
     return('<h>Hi there!</h>')
 
+
 @app.route( "/estimate", methods=['POST'])
 def check_price():
+    '''Calculates price with linerar regression'''
+
     print(request.json)
     if not request.json or not "model" in request.json or not "year" in request.json or not "capacity" in request.json or not "km" in request.json or not "fuel" in request.json:
         abort(400)
@@ -30,9 +45,9 @@ def check_price():
     for a in att:
         audi[a] = request.json[a]
 
-    price=facade.estimate_price(regressions,audi)[0]
+    (price, intercept, coefficient)=facade.estimate_price(regressions,audi)
     
-    return jsonify({'recieved': audi,'estimated_price': int(price)})
+    return jsonify({'recieved': audi,'estimated_price': int(price[0]), 'intercept':intercept, 'coefficient':coefficient })
 
 
 
@@ -42,22 +57,25 @@ def check_price():
 
 @app.route( "/add", methods=["POST"])
 def add_new():
-    if not request.json or not "model" in request.json or not "year" in request.json or not "capacity" in request.json  or not "km" in request.json or not "price" in request.json:
+
+    '''adds car to database with predicted price'''
+    if not request.json or not "model" in request.json or not "fuel" in request.json or not "year" in request.json or not "capacity" in request.json  or not "km" in request.json or not "price" in request.json:
         abort(400)
 
-    att=['model','year','km','capacity']
+    att=['model','year','km','capacity','fuel','price']
     audi={}
     for a in att:
         audi[a] = request.json[a]
 
     # TO DO save car in DB
+    added=facade.save_car(regressions, audi)
     
-    return jsonify({'recieved': audi})
+    return jsonify({'added': added})
 
 
 
 
-
+#/plot?model=A1&fuel=Benzin&f1=km&f2=capacity
 @app.route('/plot')
 def plot_png():
     model=request.args.get('model')
@@ -89,4 +107,9 @@ def _3d_figure(models,model,fuel,features):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    #app.run(debug=bool(results.development))
+    
+    dev=False
+    if results.development in  ['True', 'true', 'T', 't']:
+        dev=True
+    app.run(debug=dev)

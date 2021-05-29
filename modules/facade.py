@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from modules.prepare_data_by_model import marge_and_split_by_model
 from sklearn import linear_model
+from modules import database
 
 
 
@@ -35,18 +36,24 @@ def estimate_price(regressions, car):
     reg= regressions[fuel][model]
     
     estimate = reg.predict(np.array([car['km'],car['year'],car['capacity']]).reshape(1, 3))
+    coef = {'km':reg.coef_[0], 'year': reg.coef_[1], 'capacity': reg.coef_[2]}  # str(reg.coef_[0]) + ", " + str(reg.coef_[1])+ ", " + str(reg.coef_[2])
+    return (estimate, reg.intercept_, coef)
 
-    return estimate
+
+def save_car(regressions,car):
+    estimated_price=int(estimate_price(regressions,car)[0][0])
+    print('\n\nestimate_price:  ', estimated_price)
+    car['sale_price']=car['price']
+    car['estimated_price']=estimated_price
+    del car['price']
+    car['car_id']=None
+    added=database.add_new(car)
+    return added
 
 
 
-def plot_price_by(models,model,fuel,features):
-    request_model=models[fuel][model]
-   
-    fig = plt.figure()
-    ax = plt.axes(projection='3d')
-    ax.scatter3D(list(request_model[features[0]]),list(request_model[features[1]]),list(request_model['price']), c=request_model['price'], cmap="Blues")
-    return fig
+    
+
 
 
 

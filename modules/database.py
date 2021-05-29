@@ -25,10 +25,15 @@ def setup_db():
     cursor = cnx.cursor()
     drop_query=('DROP TABLE IF EXISTS estimate_req;')
     table_query='create table estimate_req(model_id int not null auto_increment, Model varchar(100) not null, Coefficient varchar(100), Intercept varchar(100), Estimated_Price varchar(100), primary key(model_id));'
-
+    drop_cars=('DROP TABLE IF EXISTS cars;')
+    create_cars='create table cars(car_id int not null auto_increment, model varchar(100) not null, fuel varchar(100) not null, year int not null, km int not null, capacity float not null, estimated_price int not null, sale_price int not null, primary key(car_id));'
+    
     cursor.execute(drop_query)
 
     cursor.execute(table_query)    
+    
+    cursor.execute(drop_cars)
+    cursor.execute(create_cars)    
 
     # Commit the changes
     cnx.commit()
@@ -36,3 +41,18 @@ def setup_db():
     cnx.close()
     
     print('Setup completed')
+
+
+
+def add_new(car):
+    cnx = mysql.connect(host = "db", user = "root", passwd = "root", db = "db")
+    cursor = cnx.cursor()
+    query = "INSERT INTO cars VALUES (%(car_id)s,%(model)s,%(fuel)s,%(year)s,%(km)s,%(capacity)s,%(estimated_price)s,%(sale_price)s);"
+    re = cursor.execute(query,car)
+    car['car_id']=cursor.lastrowid
+    cnx.commit()
+    print("\n\n result of cursor. excute: \n" , re,  '\n\n')
+    cursor.close()
+    cnx.close()
+    return car
+
