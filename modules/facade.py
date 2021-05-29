@@ -25,9 +25,9 @@ def prepare_regressions():
 
     reg_diesel = _prepare_regressions_for_fuel(diesel_models)
     reg_benzin = _prepare_regressions_for_fuel(benzin_models)
-
+    models = {"Diesel": diesel_models, "Benzin": benzin_models}
     regressions={"Diesel":reg_diesel,"Benzin":reg_benzin}
-    return regressions
+    return regressions, models
 
 def estimate_price(regressions, car):
     fuel=car['fuel']
@@ -39,6 +39,14 @@ def estimate_price(regressions, car):
     return estimate
 
 
-#regressions=prepare_regressions
+
+def plot_price_by(models,model,fuel,features):
+    request_model=models[fuel][model]
+   
+    fig = plt.figure()
+    ax = plt.axes(projection='3d')
+    ax.scatter3D(list(request_model[features[0]]),list(request_model[features[1]]),list(request_model['price']), c=request_model['price'], cmap="Blues")
+    return fig
+
 
 
