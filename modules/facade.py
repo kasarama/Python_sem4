@@ -3,7 +3,7 @@ import numpy as np
 from modules.prepare_data_by_model import marge_and_split_by_model
 from sklearn import linear_model
 from modules import database, classes
-
+from matplotlib.figure import Figure
 
 
 def _prepare_regressions_for_fuel(fuel):
@@ -40,7 +40,7 @@ def estimate_price(regressions, car):
     return (estimate, reg.intercept_, coef)
 
 
-def save_car(regressions,car):
+def save_car(regressions,car,user_name):
     estimated_price=int(estimate_price(regressions,car)[0][0])
     print('\n\nestimate_price:  ', estimated_price)
     car['sale_price']=car['price']
@@ -48,10 +48,28 @@ def save_car(regressions,car):
     del car['price']
     car['car_id']=None
     try:
-        added=database.add_new(car)[0]
+        added=database.add_new(car,user_name)[0]
     except classes.DataBaseException as e:
-        raise classes.DataBaseException(e.message)
+        
+        raise classes.DataBaseException(e)
     return added
+
+
+def _3d_figure(models,model,fuel,features):
+    request_model=models[fuel][model]   
+
+    xs=list(request_model[features[0]])
+    ys=list(request_model[features[1]])
+    zs=list(request_model['price'])
+    fig = Figure()    
+    ax = fig.add_subplot(111, projection='3d')
+  
+    ax.scatter(xs, ys, zs, cmap="Blues", marker='o')
+
+    ax.set_xlabel(features[0])
+    ax.set_ylabel(features[1])
+    ax.set_zlabel('Price')
+    return fig
 
 
 

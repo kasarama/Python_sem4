@@ -51,7 +51,7 @@ class Car():
 
 class DataBaseException(Exception):
     def __init__(self, *args, **kwargs):
-        Error.__init__(self, *args, **kwargs)
+        Exception.__init__(self, *args, **kwargs)
 
 
 # car = Car("A1",'Diesel',  2018, 75000, 2.5, 200000,210000,1)
