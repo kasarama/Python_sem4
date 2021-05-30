@@ -63,7 +63,6 @@
       We were running into inconsistent errors while scraping which made it had to account for.
       
       Besides that, there were challenges in regards to rendering the plots to the user when using the endpoint. 
-      The interaction between matplotlib and the server. Should the plot should be rendered via the browser/server
-      or should the server render the plot and save as image and return it.
-      A lot of trial and error later, and we ended up with a 
-      function which returns the model which is then visible to the user in his/her brower.
+      The interaction between matplotlib and the server. 
+      Should the plot should be rendered via the browser/server or should the server render the plot and save as image and return it.
+      A lot of trial and error later, and we ended up with a function which returns the model which is then visible to the user in his/her brower.
