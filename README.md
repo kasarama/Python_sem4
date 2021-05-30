@@ -62,7 +62,7 @@
                           year: int }
                           
          '/register' , POST gets json {user_name: string, password: string} 
-                password must be at least 8 signs, has both upper and lover case , a digit and a special sign
+                password must be at least 8 signs, has both upper and lower case , a digit and a special sign
                 returns: {added: boolean, user_name: string}
                 
                 
