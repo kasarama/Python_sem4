@@ -57,6 +57,7 @@ def add_new(car,user_name):
         cnx = mysql.connect(host = "db", user = "root", passwd = "root", db = "db")
         car['owner']=user_name
         cursor = cnx.cursor()
+        print("car to save: ",car)
         query = "INSERT INTO cars VALUES (%(car_id)s,%(model)s,%(fuel)s,%(year)s,%(km)s,%(capacity)s,%(estimated_price)s,%(sale_price)s,%(owner)s);"
         cursor.execute(query,car)
         car['car_id']=cursor.lastrowid
@@ -68,7 +69,7 @@ def add_new(car,user_name):
         car_obj=Car(car['model'],car['fuel'],car['year'],car['km'],car['capacity'],car['estimated_price'],car['sale_price'],car['car_id'])
         return car, car_obj
     except Exception as e:
-        print(e)
+        print("add_new:   ",e)
         raise DataBaseException("Saving the car aborted ")
 
 def register_user(user_name, password):

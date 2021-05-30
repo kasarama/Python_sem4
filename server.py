@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, abort, request, Response
 import io, argparse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
-from modules import facade, database, classes
+from modules import facade, database, classes, utils
 
 
 parser = argparse.ArgumentParser()
@@ -97,7 +97,7 @@ def register_user():
     user_name= request.json['user_name']
     password = request.json['password']
 
-    pass_ok = True#validate_pass_with_regex(passw)
+    pass_ok = utils.validate_pass_with_regex(password)
 
     if pass_ok:
         try:
