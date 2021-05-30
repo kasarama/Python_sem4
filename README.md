@@ -42,6 +42,32 @@
         To run the program in debug mode use command python server.py - p = False from root directory
         Both command can be combined. 
         For more info run python server.py -h
+        
+        Available endpoints:
+        '/', GET : start page
+        
+        '/estimate' 'POST' gets json car: {model:string, year: int, km: int, capacity: float,fuel: string},
+                returns : { recieved: car, estimated_price: int, intercept: float, coefficient: float}
+         
+        '/add', POST gets json : {model:string, year: int, km: int, capacity: float,fuel: string, price: int, user_name: string}
+                returns json  added: {
+                          capacity: float,
+                          car_id: int, 
+                          estimated_price: int,
+                          fuel: String, 
+                          km: int,  
+                          model: string, 
+                          owner: string, 
+                          sale_price: int, 
+                          year: int }
+                          
+         '/register' , POST gets json {user_name: string, password: string} 
+                password must be at least 8 signs, has both upper and lover case , a digit and a special sign
+                returns: {added: boolean, user_name: string}
+}
+                
+          
+           
     
    ## Status (What has been done (and if anything: what was not done)):
         Completed:
