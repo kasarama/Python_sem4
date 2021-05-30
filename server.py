@@ -68,7 +68,10 @@ def add_new():
         audi[a] = request.json[a]
 
     # TO DO save car in DB
-    added=facade.save_car(regressions, audi)
+    try:
+        added=facade.save_car(regressions, audi)
+    except DataBaseException as e:
+        abort(400)
     
     return jsonify({'added': added})
 

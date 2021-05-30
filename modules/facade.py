@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from modules.prepare_data_by_model import marge_and_split_by_model
 from sklearn import linear_model
-from modules import database
+from modules import database, classes
 
 
 
@@ -47,7 +47,10 @@ def save_car(regressions,car):
     car['estimated_price']=estimated_price
     del car['price']
     car['car_id']=None
-    added=database.add_new(car)
+    try:
+        added=database.add_new(car)[0]
+    except classes.DataBaseException as e:
+        raise classes.DataBaseException(e.message)
     return added
 
 

@@ -1,5 +1,5 @@
 import mysql.connector as mysql
-
+from modules.classes import Car, DataBaseException
 
 def commit_req(estimate_req):
     cnx = mysql.connect(host = "db", user = "root", passwd = "root", db = "db")
@@ -45,14 +45,18 @@ def setup_db():
 
 
 def add_new(car):
-    cnx = mysql.connect(host = "db", user = "root", passwd = "root", db = "db")
-    cursor = cnx.cursor()
-    query = "INSERT INTO cars VALUES (%(car_id)s,%(model)s,%(fuel)s,%(year)s,%(km)s,%(capacity)s,%(estimated_price)s,%(sale_price)s);"
-    re = cursor.execute(query,car)
-    car['car_id']=cursor.lastrowid
-    cnx.commit()
-    print("\n\n result of cursor. excute: \n" , re,  '\n\n')
-    cursor.close()
-    cnx.close()
-    return car
+    try:
+        cnx = mysql.connect(host = "db", user = "root", passwd = "root", db = "db")
+        cursor = cnx.cursor()
+        query = "INSERT INTO cars VALUES (%(car_id)s,%(model)s,%(fuel)s,%(year)s,%(km)s,%(capacity)s,%(estimated_price)s,%(sale_price)s);"
+        re = cursor.execute(query,car)
+        car['car_id']=cursor.lastrowid
+        cnx.commit()
+        print("\n\n result of cursor. excute: \n" , re,  '\n\n')
+        cursor.close()
+        cnx.close()
+        car_obj=Car(car['model'],car['fuel'],car['year'],car['km'],car['capacity'],car['estimated_price'],car['sale_price'],car['car_id'])
+        return car, car_obj
+    except Error as e:
+        raise DataBaseException("Saving the car aborted ")
 
