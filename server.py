@@ -59,7 +59,7 @@ def check_price():
 def add_new():
 
     '''adds car to database with predicted price'''
-    if not request.json or not "model" in request.json or not "fuel" in request.json or not "year" in request.json or not "capacity" in request.json  or not "km" in request.json or not "price" in request.json:
+    if not request.json or not "model" in request.json or not "fuel" in request.json or not "year" in request.json or not "capacity" in request.json  or not "km" in request.json or not "price" in request.json :
         abort(400)
 
     att=['model','year','km','capacity','fuel','price']
@@ -107,6 +107,23 @@ def _3d_figure(models,model,fuel,features):
     ax.set_zlabel('Price')
     return fig
 
+
+'''
+
+https://stackoverflow.com/questions/5142103/regex-to-validate-password-strength
+
+^(?=.*[A-Z].*[A-Z])(?=.*[!@#$&*])(?=.*[0-9].*[0-9])(?=.*[a-z].*[a-z].*[a-z]).{8}$
+
+
+^                         Start anchor
+(?=.*[A-Z].*[A-Z])        Ensure string has two uppercase letters.
+(?=.*[!@#$&*])            Ensure string has one special case letter.
+(?=.*[0-9].*[0-9])        Ensure string has two digits.
+(?=.*[a-z].*[a-z].*[a-z]) Ensure string has three lowercase letters.
+.{8}                      Ensure string is of length 8.
+$                         End anchor.
+
+'''
 
 
 if __name__ == '__main__':
