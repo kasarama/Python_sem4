@@ -64,7 +64,14 @@
          '/register' , POST gets json {user_name: string, password: string} 
                 password must be at least 8 signs, has both upper and lover case , a digit and a special sign
                 returns: {added: boolean, user_name: string}
-}
+                
+                
+                
+          '/plot', GET, requires URL parameters : model, fuel, f1, f2, where f1 and f2 are the features to be used 
+                                                  for visualization the price dependency of the two features
+                                                  example: #/plot?model=A1&fuel=Benzin&f1=km&f2=capacity
+                         returns 3d scatter plot (in the browser)
+
                 
           
            
