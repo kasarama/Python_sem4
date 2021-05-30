@@ -36,8 +36,8 @@
     
     
     ## User guide (how to run the program):
-        The program needs a database tu be set while starting. To do so run the pregram from inside the root directory with python server.py - r = True
-        To ran the programm in debug mode use command python server.py - p = False from root directory
+        The program needs a database to be set while starting. To do so run the program from inside the root directory with python server.py - r = True
+        To run the program in debug mode use command python server.py - p = False from root directory
         Both command can be combined. 
         For more info run python server.py -h
     
