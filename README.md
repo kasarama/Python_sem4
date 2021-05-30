@@ -87,7 +87,7 @@
        Missing:
        -  posting annoncements on web portals with Selenium
        -  error handling / user input validation
-       -  there is hundrets of functionalities that could be implemented if there was time enough
+       -  there is hundreds of functionalities that could be implemented if there was time enough
        
     
    ## List of Challenges you have set up for your self (The things in your project you want to highlight):
