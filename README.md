@@ -6,8 +6,10 @@
     
    ## Short description:
         Our project is made with the purpose of helping people get a fair valuation of their used car via using data from known car sales websites.
-        The idea is to let the user enter his details about his car and he'll receive a rough estimate of what we believe to be the correct price based on our data and
-        present him with both the estimate but also the plot showing our data so the know on how much data we based our answer on giving them clear insight into the process.
+        The idea is to let the user enter his details about his car and he'll receive a rough estimate
+        of what we believe to be the correct price based on our data and
+        present him with both the estimate but also the plot showing our data so the know on how much data we based our answer on 
+        giving them clear insight into the process.
     
     
    ## List of used technologies:
@@ -57,7 +59,11 @@
     
    ## List of Challenges you have set up for your self (The things in your project you want to highlight):
 
-      In terms of challenges, we had some issues with scrapping websites. We were running into inconsistent errors while scraping which made it had to account             for.
+      In terms of challenges, we had some issues with scrapping websites. 
+      We were running into inconsistent errors while scraping which made it had to account for.
       
       Besides that, there were challenges in regards to rendering the plots to the user when using the endpoint. 
-      The interaction between matplotlib and the server. Should the plot should be rendered via the browser/server or should the server render the plot and save as       image and return it. A lot of trial and error later, and we ended up with a function which returns the model which is then visible to the user in his/her           brower.
+      The interaction between matplotlib and the server. Should the plot should be rendered via the browser/server
+      or should the server render the plot and save as image and return it.
+      A lot of trial and error later, and we ended up with a 
+      function which returns the model which is then visible to the user in his/her brower.
