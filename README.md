@@ -42,6 +42,18 @@
         For more info run python server.py -h
     
    ## Status (What has been done (and if anything: what was not done)):
+        Completed:
+       -  collectiong data with webscrapping
+       -  data preparation
+       -  linear regression
+       -  data persistance (cars and users)
+       -  data visualisation
+       
+       Missing:
+       -  posting annoncements on web portals with Selenium
+       -  error handling / user input validation
+       -  there is hundrets of functionalities that could be implemented if there was time enough
+       
     
    ## List of Challenges you have set up for your self (The things in your project you want to highlight):
 
